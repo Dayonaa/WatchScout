@@ -436,6 +436,9 @@ class PostgresSyncWorker:
                 if len(batch) >= batch_size:
                     continue
 
+            # Lepas file lock database saat idle agar proses pembaca/search/script lain leluasa mengakses DuckDB
+            self.rag.close()
+
             # Menunggu interval berikutnya
             now_str = datetime.now().strftime("%H:%M:%S")
             sys.stdout.write(f"\r{DIM}[{now_str}] 🟢 Up-to-date. Menunggu pesan masuk baru di PostgreSQL ({interval}s)...{RESET} ")
@@ -448,6 +451,7 @@ class PostgresSyncWorker:
                 time.sleep(sleep_step)
                 elapsed += sleep_step
 
+        self.rag.close()
         print(f"\n{GREEN}✔ Daemon berhenti dengan bersih. Watermark tersimpan di {self.state_path}. Sampai jumpa!{RESET}\n")
 
 

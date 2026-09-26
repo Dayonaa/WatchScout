@@ -20,49 +20,79 @@ from src.config import DB_PATH, DEVICE, DEVICE_INFO
 
 
 class WatchRAGEngine:
-    def __init__(self, db_path: str = str(DB_PATH)):
+    def __init__(self, db_path: str = str(DB_PATH), read_only: bool = False, auto_connect: bool = False):
         self.db_path = db_path
+        self.read_only = read_only
         self.device = DEVICE
-        try:
-            self.conn = duckdb.connect(self.db_path)
-        except Exception as e:
-            if "Conflicting lock is held" in str(e) or "Could not set lock" in str(e):
+        self.conn = None
+        self._embed_model = None
+        if auto_connect:
+            self._connect()
+            if not self.read_only:
+                self._init_db()
+
+    @property
+    def embed_model(self):
+        """Inisialisasi FastEmbed model secara lazy (hanya saat dibutuhkan)."""
+        if self._embed_model is None:
+            if self.device == "cuda":
+                try:
+                    self._embed_model = TextEmbedding(
+                        model_name="BAAI/bge-small-en-v1.5",
+                        providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
+                    )
+                except Exception:
+                    self.device = "cpu"
+                    self._embed_model = TextEmbedding(
+                        model_name="BAAI/bge-small-en-v1.5",
+                        providers=["CPUExecutionProvider"]
+                    )
+            else:
+                self._embed_model = TextEmbedding(
+                    model_name="BAAI/bge-small-en-v1.5",
+                    providers=["CPUExecutionProvider"]
+                )
+        return self._embed_model
+
+    def _connect(self, retries: int = 6, delay: float = 0.5):
+        if self.conn is not None:
+            return self.conn
+        import time
+        last_err = None
+        for i in range(retries):
+            try:
+                self.conn = duckdb.connect(self.db_path, read_only=self.read_only)
+                return self.conn
+            except Exception as e:
+                last_err = e
+                err_str = str(e)
+                if "Conflicting lock is held" in err_str or "Could not set lock" in err_str:
+                    time.sleep(delay)
+                    continue
+                raise e
+        if last_err:
+            if "Conflicting lock is held" in str(last_err) or "Could not set lock" in str(last_err):
                 print(f"\n{'='*75}")
                 print(f"⚠️  [DUCKDB FILE LOCK CONFLICT] Database Sedang Terkunci!")
                 print(f"{'='*75}")
                 print(f"File database: {self.db_path}")
-                print(f"Penyebab     : Ekstensi IDE (seperti SQLTools / DuckDB Viewer) sedang aktif")
-                print(f"               tersambung dan memegang lock eksklusif ke file database.")
-                print(f"\n💡 SOLUSI CEPAT (1 KLIK):")
-                print(f"  1. Buka sidebar SQLTools / DuckDB di sebelah kiri editor.")
-                print(f"  2. Klik tombol/ikon 'Disconnect' (cabut koneksi) pada database.")
-                print(f"  3. Jalankan kembali perintah Anda di terminal.")
+                print(f"Penyebab     : Proses lain (atau daemon) sedang memegang lock eksklusif.")
+                print(f"Saran        : Tunggu beberapa detik atau gunakan mode read_only.")
                 print(f"{'='*75}\n")
-                sys.exit(1)
-            raise e
-        self._init_db()
+            raise last_err
 
-        # Inisialisasi FastEmbed model (Auto-detect GPU CUDA vs CPU)
-        if self.device == "cuda":
+    def close(self):
+        """Menutup koneksi DuckDB agar file lock terlepas untuk proses lain."""
+        if self.conn is not None:
             try:
-                self.embed_model = TextEmbedding(
-                    model_name="BAAI/bge-small-en-v1.5",
-                    providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
-                )
+                self.conn.close()
             except Exception:
-                self.device = "cpu"
-                self.embed_model = TextEmbedding(
-                    model_name="BAAI/bge-small-en-v1.5",
-                    providers=["CPUExecutionProvider"]
-                )
-        else:
-            self.embed_model = TextEmbedding(
-                model_name="BAAI/bge-small-en-v1.5",
-                providers=["CPUExecutionProvider"]
-            )
+                pass
+            self.conn = None
 
     def _init_db(self):
         """Membuat tabel watches dengan schema pelacakan dealer jika belum ada."""
+        self._connect()
         self.conn.execute("""
             CREATE TABLE IF NOT EXISTS watches (
                 id VARCHAR PRIMARY KEY,
@@ -140,6 +170,7 @@ class WatchRAGEngine:
         batch_size = 512 if self.device == "cuda" else 64
         embeddings = list(self.embed_model.embed(search_texts, batch_size=batch_size))
 
+        self._connect()
         inserted_count = 0
         for it, st, emb in zip(items, search_texts, embeddings):
             # ID unik deterministik (SHA256) untuk menjamin idempotensi de-duplikasi antar proses
@@ -276,6 +307,7 @@ class WatchRAGEngine:
             LIMIT ?
         """
         all_params = [q_emb_list] + params + [limit]
+        self._connect()
         rows = self.conn.execute(sql, all_params).fetchall()
 
         results = []
@@ -307,6 +339,7 @@ class WatchRAGEngine:
 
     def count_watches(self) -> int:
         """Mengembalikan total jam yang tersimpan di database."""
+        self._connect()
         res = self.conn.execute("SELECT COUNT(*) FROM watches").fetchone()
         return res[0] if res else 0
 
