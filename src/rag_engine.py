@@ -83,6 +83,19 @@ class WatchRAGEngine:
                 raise e
         if last_err:
             if "Conflicting lock is held" in str(last_err) or "Could not set lock" in str(last_err):
+                if self.read_only:
+                    import shutil
+                    import tempfile
+                    try:
+                        snap_path = Path(tempfile.gettempdir()) / "watchscout_read_snapshot.duckdb"
+                        shutil.copy2(str(self.db_path), str(snap_path))
+                        wal_path = Path(str(self.db_path) + ".wal")
+                        if wal_path.exists():
+                            shutil.copy2(str(wal_path), str(snap_path) + ".wal")
+                        self._conn = duckdb.connect(str(snap_path), read_only=True)
+                        return self._conn
+                    except Exception:
+                        pass
                 print(f"\n{'='*75}")
                 print(f"⚠️  [DUCKDB FILE LOCK CONFLICT] Database Sedang Terkunci!")
                 print(f"{'='*75}")

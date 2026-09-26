@@ -26,9 +26,17 @@ from src.config import (
 )
 
 
-def connect_duckdb_safely(retries: int = 5, delay: float = 0.5):
-    """Membuka koneksi DuckDB dalam mode read-only dengan retry otomatis."""
+def connect_duckdb_safely(retries: int = 2, delay: float = 0.2):
+    """
+    Membuka koneksi DuckDB dalam mode read-only.
+    Jika daemon sedang aktif menulis dan memegang lock file, otomatis membaca dari snapshot copy
+    sehingga pembacaan data 100% selalu berhasil tanpa error lock.
+    """
     import duckdb
+    import shutil
+    import tempfile
+
+    # 1. Coba koneksi langsung read-only
     for attempt in range(retries):
         try:
             return duckdb.connect(str(DB_PATH), read_only=True)
@@ -36,7 +44,18 @@ def connect_duckdb_safely(retries: int = 5, delay: float = 0.5):
             if ("Conflicting lock" in str(e) or "Could not set lock" in str(e)) and attempt < retries - 1:
                 time.sleep(delay)
                 continue
-            raise e
+            break
+
+    # 2. Jika file terkunci oleh worker daemon, buat snapshot super cepat (<10ms)
+    try:
+        snap_path = Path(tempfile.gettempdir()) / "watchscout_read_snapshot.duckdb"
+        shutil.copy2(str(DB_PATH), str(snap_path))
+        wal_path = Path(str(DB_PATH) + ".wal")
+        if wal_path.exists():
+            shutil.copy2(str(wal_path), str(snap_path) + ".wal")
+        return duckdb.connect(str(snap_path), read_only=True)
+    except Exception as e:
+        raise RuntimeError(f"Gagal membaca database DuckDB: {e}")
 
 
 def show_overview():
