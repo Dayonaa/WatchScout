@@ -13,27 +13,27 @@
     "5712": {
       "brand": "Patek Philippe",
       "series": "Nautilus",
-      "material": null
+      "material": "Rose Gold"
     },
     "5810": {
       "brand": "Patek Philippe",
       "series": "Nautilus",
-      "material": null
+      "material": "White Gold"
     },
     "5610": {
       "brand": "Patek Philippe",
       "series": "Nautilus",
-      "material": null
+      "material": "Platinum"
     },
     "7010": {
       "brand": "Patek Philippe",
       "series": "Nautilus",
-      "material": null
+      "material": "Rose Gold"
     },
     "7118": {
       "brand": "Patek Philippe",
       "series": "Nautilus",
-      "material": "18k Rose Gold"
+      "material": "Rose Gold"
     },
     "86409": {
       "brand": "Rolex",
@@ -42,13 +42,13 @@
     },
     "541.CM": {
       "brand": "Hublot",
-      "series": "Classic Fusion Ceramic",
-      "material": "Ceramic"
+      "series": "Classic Fusion Chronograph",
+      "material": "Black Ceramic"
     },
     "RM17": {
       "brand": "Richard Mille",
-      "series": "RM 17-01",
-      "material": "18k Rose Gold"
+      "series": "RM 17-01 Tourbillon",
+      "material": "Rose Gold"
     },
     "909010": {
       "brand": "Rolex",
@@ -279,6 +279,16 @@
       "brand": "Audemars Piguet",
       "series": "Royal Oak Offshore Quartz",
       "material": "Stainless Steel"
+    },
+    "5990/1": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": "Rose Gold"
+    },
+    "RM65": {
+      "brand": "Richard Mille",
+      "series": "RM 65-01",
+      "material": "Quartz TPT / Carbon TPT"
     }
   },
   "dial_map": {}

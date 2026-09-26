@@ -11,7 +11,7 @@
       "alias": "watches",
       "type": "file",
       "path": "/home/anonym/Desktop/AI/data/watches.duckdb",
-      "attached": true,
+      "attached": false,
       "readOnly": true
     }
   ],

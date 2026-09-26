@@ -26,7 +26,12 @@ def load_env_file(env_path: Path = ENV_FILE) -> None:
                 continue
             key, val = line.split("=", 1)
             key = key.strip()
-            val = val.strip().strip("'\"")
+            val = val.strip()
+            if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+                val = val[1:-1]
+            else:
+                if "#" in val:
+                    val = val.split("#", 1)[0].strip()
             if key and key not in os.environ:
                 os.environ[key] = val
     except Exception as e:
@@ -48,9 +53,33 @@ TRAIN_DATA_PATH = Path(os.getenv("WATCH_TRAIN_DATA_PATH", DATASETS_DIR / "train_
 BROADCASTS_CSV_PATH = Path(os.getenv("WATCH_BROADCASTS_CSV_PATH", DATASETS_DIR / "watch_broadcasts.csv")).resolve()
 RAW_BROADCASTS_PATH = Path(os.getenv("WATCH_RAW_BROADCASTS_PATH", DATASETS_DIR / "raw_broadcasts.txt")).resolve()
 
+# Remote PostgreSQL Configuration
+DB_CONNECTION = os.getenv("DB_CONNECTION", "pgsql")
+DB_HOST = os.getenv("DB_HOST", "34.21.152.179")
+DB_PORT = int(os.getenv("DB_PORT", "5432"))
+DB_DATABASE = os.getenv("DB_DATABASE", "scraper")
+DB_USERNAME = os.getenv("DB_USERNAME", "postgres")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "")
+DB_TABLE = os.getenv("DB_TABLE", "watch_broadcasts")
+
+# Sync & Polling Config
+SYNC_STATE_PATH = Path(os.getenv("WATCH_SYNC_STATE_PATH", DATASETS_DIR / "postgres_sync_state.json")).resolve()
+SYNC_INTERVAL = float(os.getenv("WATCH_SYNC_INTERVAL", "5.0"))
+SYNC_BATCH_SIZE = int(os.getenv("WATCH_SYNC_BATCH_SIZE", "100"))
+
 # Gemini GenAI Config
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+
+# Parameter Pelatihan, Retraining & Ekspansi LLM (bisa disetel via .env)
+TRAIN_ITER = int(os.getenv("WATCH_TRAIN_ITER", "20"))
+AUTO_TRAIN_EVERY = int(os.getenv("WATCH_AUTO_TRAIN_EVERY", "25"))
+AUTO_EXPAND_EVERY = int(os.getenv("WATCH_AUTO_EXPAND_EVERY", "10"))
+STREAM_SPEED = float(os.getenv("WATCH_STREAM_SPEED", "0.2"))
+EXPAND_AUTO_RETRAIN = os.getenv("WATCH_EXPAND_RETRAIN", "true").lower() in ("true", "1", "yes")
+
+_raw_expand_max = int(os.getenv("WATCH_EXPAND_MAX", "0"))
+EXPAND_MAX = _raw_expand_max if _raw_expand_max > 0 else None
 
 
 def ensure_directories():

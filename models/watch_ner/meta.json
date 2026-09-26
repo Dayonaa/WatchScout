@@ -1,9 +1,9 @@
 {
   "lang": "en",
   "name": "watch_dealer_ner",
-  "version": "1.0.22",
+  "version": "0.1.2",
   "spacy_version": ">=3.8.16,<3.9.0",
-  "description": "Custom CPU-optimized spaCy NER for luxury watch dealer broadcasts",
+  "description": "Custom CPU/GPU optimized spaCy NER for luxury watch dealer broadcasts",
   "author": "",
   "email": "",
   "url": "",
@@ -32,182 +32,21 @@
     "ner"
   ],
   "disabled": [],
+  "total_train_runs": 2,
   "latest_training": {
-    "version": "1.0.22",
-    "timestamp": "2026-09-26 21:43:48",
-    "dataset_examples": 1448,
-    "iterations": 10,
-    "final_loss": 121.563896,
-    "weight_fingerprint": "24a98572ffe75292",
+    "version": "0.1.2",
+    "timestamp": "2026-09-26 22:54:47",
+    "dataset_examples": 1805,
+    "iterations": 20,
+    "final_loss": 69.986481,
+    "weight_fingerprint": "daf589bfe028f573",
     "weight_size_kb": 3747.15,
     "entity_distribution": {
-      "REFERENCE": 1419,
-      "YEAR": 396,
-      "PRICE": 1344,
+      "REFERENCE": 1776,
+      "YEAR": 462,
+      "PRICE": 1647,
       "CONDITION": 1,
-      "DIAL": 394
+      "DIAL": 515
     }
-  },
-  "training_history": [
-    {
-      "version": "1.0.13",
-      "timestamp": "2026-09-26 20:21:42",
-      "dataset_examples": 690,
-      "iterations": 15,
-      "final_loss": 6.960351,
-      "weight_fingerprint": "830ecca6f39894fa",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 689,
-        "YEAR": 156,
-        "PRICE": 625,
-        "CONDITION": 1,
-        "DIAL": 189
-      }
-    },
-    {
-      "version": "1.0.14",
-      "timestamp": "2026-09-26 21:27:22",
-      "dataset_examples": 956,
-      "iterations": 15,
-      "final_loss": 48.753822,
-      "weight_fingerprint": "6fa41cfbe01f1c05",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 949,
-        "YEAR": 187,
-        "PRICE": 887,
-        "CONDITION": 1,
-        "DIAL": 240
-      }
-    },
-    {
-      "version": "1.0.15",
-      "timestamp": "2026-09-26 21:30:12",
-      "dataset_examples": 956,
-      "iterations": 20,
-      "final_loss": 45.607971,
-      "weight_fingerprint": "b83d345316cdbf1b",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 949,
-        "YEAR": 187,
-        "PRICE": 887,
-        "CONDITION": 1,
-        "DIAL": 240
-      }
-    },
-    {
-      "version": "1.0.16",
-      "timestamp": "2026-09-26 21:40:40",
-      "dataset_examples": 1048,
-      "iterations": 10,
-      "final_loss": 100.139282,
-      "weight_fingerprint": "12d74bed2e7b7352",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1041,
-        "YEAR": 188,
-        "PRICE": 978,
-        "CONDITION": 1,
-        "DIAL": 245
-      }
-    },
-    {
-      "version": "1.0.17",
-      "timestamp": "2026-09-26 21:41:07",
-      "dataset_examples": 1093,
-      "iterations": 10,
-      "final_loss": 101.837486,
-      "weight_fingerprint": "18e5f2f10e1b411f",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1086,
-        "YEAR": 207,
-        "PRICE": 1020,
-        "CONDITION": 1,
-        "DIAL": 252
-      }
-    },
-    {
-      "version": "1.0.18",
-      "timestamp": "2026-09-26 21:41:37",
-      "dataset_examples": 1164,
-      "iterations": 10,
-      "final_loss": 100.83712,
-      "weight_fingerprint": "2a614bc2d6b34fb0",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1157,
-        "YEAR": 207,
-        "PRICE": 1088,
-        "CONDITION": 1,
-        "DIAL": 286
-      }
-    },
-    {
-      "version": "1.0.19",
-      "timestamp": "2026-09-26 21:42:04",
-      "dataset_examples": 1195,
-      "iterations": 10,
-      "final_loss": 106.497047,
-      "weight_fingerprint": "4324503075f93f6b",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1186,
-        "YEAR": 207,
-        "PRICE": 1118,
-        "CONDITION": 1,
-        "DIAL": 297
-      }
-    },
-    {
-      "version": "1.0.20",
-      "timestamp": "2026-09-26 21:42:40",
-      "dataset_examples": 1303,
-      "iterations": 10,
-      "final_loss": 124.272018,
-      "weight_fingerprint": "623f35d2e793f17b",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1294,
-        "YEAR": 292,
-        "PRICE": 1220,
-        "CONDITION": 1,
-        "DIAL": 308
-      }
-    },
-    {
-      "version": "1.0.21",
-      "timestamp": "2026-09-26 21:43:16",
-      "dataset_examples": 1408,
-      "iterations": 10,
-      "final_loss": 147.212097,
-      "weight_fingerprint": "1d2983ae9a4916e1",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1399,
-        "YEAR": 396,
-        "PRICE": 1324,
-        "CONDITION": 1,
-        "DIAL": 391
-      }
-    },
-    {
-      "version": "1.0.22",
-      "timestamp": "2026-09-26 21:43:48",
-      "dataset_examples": 1448,
-      "iterations": 10,
-      "final_loss": 121.563896,
-      "weight_fingerprint": "24a98572ffe75292",
-      "weight_size_kb": 3747.15,
-      "entity_distribution": {
-        "REFERENCE": 1419,
-        "YEAR": 396,
-        "PRICE": 1344,
-        "CONDITION": 1,
-        "DIAL": 394
-      }
-    }
-  ]
+  }
 }

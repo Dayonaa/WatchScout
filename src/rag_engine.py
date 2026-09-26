@@ -5,6 +5,7 @@ penyimpanan metadata lengkap pengirim WhatsApp dealer (traceability & direct con
 """
 
 import os
+import hashlib
 import duckdb
 import numpy as np
 from pathlib import Path
@@ -84,6 +85,10 @@ class WatchRAGEngine:
                 chat_name VARCHAR,
                 broadcast_time VARCHAR,
                 message_id VARCHAR,
+                media_path VARCHAR,
+                media_url VARCHAR,
+                thumbnail VARCHAR,
+                mimetype VARCHAR,
                 raw_text VARCHAR,
                 search_text VARCHAR,
                 embedding FLOAT[]
@@ -99,6 +104,10 @@ class WatchRAGEngine:
             "chat_name": "VARCHAR",
             "broadcast_time": "VARCHAR",
             "message_id": "VARCHAR",
+            "media_path": "VARCHAR",
+            "media_url": "VARCHAR",
+            "thumbnail": "VARCHAR",
+            "mimetype": "VARCHAR",
         }
         for col_name, col_type in new_cols.items():
             if col_name not in existing_cols:
@@ -130,14 +139,16 @@ class WatchRAGEngine:
             return 0
 
         # Siapkan search text & hitung embedding
+        search_texts = [self._make_search_text(it) for it in items]
         batch_size = 512 if self.device == "cuda" else 64
         embeddings = list(self.embed_model.embed(search_texts, batch_size=batch_size))
 
         inserted_count = 0
         for it, st, emb in zip(items, search_texts, embeddings):
-            # ID unik: reference + message_id/year + hash
-            msg_id_part = it.message_id or (it.sender_phone or "UNK")
-            doc_id = f"{it.reference}_{it.year or 'NA'}_{abs(hash(it.raw_text + msg_id_part))}"
+            # ID unik deterministik (SHA256) untuk menjamin idempotensi de-duplikasi antar proses
+            seed = f"{it.reference}_{it.year or 'NA'}_{it.price_num or 'NA'}_{it.condition}_{it.sender_phone or 'UNK'}_{it.raw_text}"
+            doc_hash = hashlib.sha256(seed.encode("utf-8")).hexdigest()[:16]
+            doc_id = f"{it.reference}_{it.year or 'NA'}_{doc_hash}"
             emb_list = [float(x) for x in emb]
 
             self.conn.execute("""
@@ -145,9 +156,10 @@ class WatchRAGEngine:
                     id, brand, series, reference, dial, material, year, condition,
                     currency, price_raw, price_num, sender_phone, sender_name,
                     dealer_alias, chat_name, broadcast_time, message_id,
+                    media_path, media_url, thumbnail, mimetype,
                     raw_text, search_text, embedding
                 ) VALUES (
-                    ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+                    ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
                 )
             """, (
                 doc_id,
@@ -167,6 +179,10 @@ class WatchRAGEngine:
                 it.chat_name,
                 it.broadcast_time,
                 it.message_id,
+                it.media_path,
+                it.media_url,
+                it.thumbnail,
+                it.mimetype,
                 it.raw_text,
                 st,
                 emb_list
@@ -251,6 +267,10 @@ class WatchRAGEngine:
                 dealer_alias,
                 chat_name,
                 broadcast_time,
+                media_path,
+                media_url,
+                thumbnail,
+                mimetype,
                 raw_text,
                 list_cosine_similarity(embedding, ?) as similarity
             FROM watches
@@ -278,8 +298,12 @@ class WatchRAGEngine:
                 "dealer_alias": r[11],
                 "chat_name": r[12],
                 "broadcast_time": r[13],
-                "raw_text": r[14],
-                "score": round(float(r[15]), 4)
+                "media_path": r[14],
+                "media_url": r[15],
+                "thumbnail": r[16],
+                "mimetype": r[17],
+                "raw_text": r[18],
+                "score": round(float(r[19]), 4)
             })
 
         return results

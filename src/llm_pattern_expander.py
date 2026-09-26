@@ -9,7 +9,7 @@ import os
 import re
 import json
 from pathlib import Path
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any, Tuple, Optional
 
 from src.genai_client import get_gemini_client, DEFAULT_MODEL
 from src.extractor import WatchItem
@@ -92,12 +92,13 @@ def save_dynamic_rules(new_prefixes: Dict[str, Any]):
 
 
 def expand_patterns_with_gemini(
-    max_lines: int = 15,
+    max_lines: Optional[int] = None,
     unparsed_path: Path = UNPARSED_PATH
 ) -> Dict[str, Any]:
     """
     Mengambil baris unparsed dari antrean, meminta Gemini menganalisisnya,
     membuat aturan referensi baru, dan menyuntikkan data latihan baru ke buffer spaCy.
+    Secara default memproses SELURUH antrean yang ada.
     """
     if not unparsed_path.exists():
         return {"status": "empty", "message": "Tidak ada berkas unparsed_candidates.jsonl"}
@@ -116,11 +117,14 @@ def expand_patterns_with_gemini(
 
     # Urutkan berdasarkan frekuensi kemunculan tertinggi
     candidates.sort(key=lambda x: x.get("frequency", 1), reverse=True)
-    batch = candidates[:max_lines]
+    batch = candidates[:max_lines] if (max_lines and max_lines > 0) else candidates
 
     lines_text = "\n".join([f"- {c.get('raw_text')}" for c in batch if c.get("raw_text")])
 
-    print(f"🤖 [Gemini 3.8 Flash] Menganalisis {len(batch)} format unparsed teratas...")
+    if len(batch) == len(candidates):
+        print(f"🤖 [Gemini 3.8 Flash] Menganalisis seluruh {len(batch)} format unparsed di antrean...")
+    else:
+        print(f"🤖 [Gemini 3.8 Flash] Menganalisis {len(batch)} dari total {len(candidates)} format unparsed...")
     client = get_gemini_client()
 
     prompt = f"{SYSTEM_PROMPT}\n\nUnparsed dealer lines to analyze:\n{lines_text}"

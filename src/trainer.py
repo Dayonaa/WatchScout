@@ -101,19 +101,19 @@ def train_model(
     meta_path = output_dir / "meta.json"
 
     # 1. Baca metadata sebelumnya untuk auto-increment versi & histori
-    prev_version = "1.0.0"
-    history = []
+    prev_version = "0.1.0"
+    total_runs = 0
     if meta_path.exists():
         try:
             old_meta = json.loads(meta_path.read_text(encoding="utf-8"))
-            raw_ver = old_meta.get("version", "0.0.0")
-            history = old_meta.get("training_history", [])
+            raw_ver = old_meta.get("version", "0.1.0")
+            total_runs = old_meta.get("total_train_runs", 0)
             parts = raw_ver.split(".")
-            if len(parts) == 3 and raw_ver != "0.0.0":
+            if len(parts) == 3 and raw_ver.startswith("0.1."):
                 parts[-1] = str(int(parts[-1]) + 1)
                 prev_version = ".".join(parts)
             else:
-                prev_version = "1.0.0"
+                prev_version = "0.1.0"
         except Exception:
             pass
 
@@ -209,17 +209,22 @@ def train_model(
         "weight_size_kb": round(weight_size_kb, 2),
         "entity_distribution": entity_counts
     }
-    history.append(current_run_stats)
+    # Simpan riwayat lengkap ke file append-only terpisah agar meta.json tetap ringkas
+    history_file = output_dir / "history.jsonl"
+    with open(history_file, "a", encoding="utf-8") as f:
+        f.write(json.dumps(current_run_stats, ensure_ascii=False) + "\n")
 
-    # Baca ulang meta.json yang digenerate oleh spacy lalu perkaya datanya
+    # Baca ulang meta.json yang digenerate oleh spacy lalu simpan versi ringkas
     meta_data = json.loads(meta_path.read_text(encoding="utf-8"))
     meta_data["name"] = "watch_dealer_ner"
     meta_data["version"] = prev_version
-    meta_data["description"] = "Custom CPU-optimized spaCy NER for luxury watch dealer broadcasts"
+    meta_data["description"] = "Custom CPU/GPU optimized spaCy NER for luxury watch dealer broadcasts"
+    meta_data["total_train_runs"] = total_runs + 1
     meta_data["latest_training"] = current_run_stats
-    meta_data["training_history"] = history[-10:]  # simpan 10 riwayat terakhir
+    # Buang riwayat array panjang dari meta.json agar file tidak membengkak
+    meta_data.pop("training_history", None)
 
-    meta_path.write_text(json.dumps(meta_data, indent=2), encoding="utf-8")
+    meta_path.write_text(json.dumps(meta_data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(f"\n✅ Model berhasil dilatih & disimpan ke: {output_dir.resolve()}")
     print("=" * 60)

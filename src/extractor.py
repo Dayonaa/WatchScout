@@ -39,24 +39,30 @@ class WatchItem(BaseModel):
     dealer_alias: Optional[str] = None
     chat_name: Optional[str] = None
     broadcast_time: Optional[str] = None
+    media_path: Optional[str] = None
+    media_url: Optional[str] = None
+    thumbnail: Optional[str] = None
+    mimetype: Optional[str] = None
 
 
 # Pola regex komposit untuk nomor referensi jam tangan berbagai merek
 REF_PATTERNS = [
-    # 1. Cartier (WJPN..., WGTA..., WSSA..., etc.)
+    # 1. Richard Mille (RM65-01, RM07-01, RM35-01, etc.)
+    re.compile(r"\b(RM[0-9]{2}(?:-[0-9]{2})?)\b", re.IGNORECASE),
+    # 2. Cartier (WJPN..., WGTA..., WSSA..., etc.)
     re.compile(r"\b(W[A-Z]{3}[0-9A-Z]{4,6})\b", re.IGNORECASE),
-    # 2. Tudor (2836c1a0-0105, 79030N, etc.)
+    # 3. Tudor (2836c1a0-0105, 79030N, etc.)
     re.compile(r"\b(2836[0-9A-Z\-]+|2860[0-9A-Z\-]+|79[0-9]{3}[A-Z\-]*|25600[A-Z\-]*)\b", re.IGNORECASE),
-    # 3. Vacheron & Patek dengan Slash (4500v/110a-b483, 82035/000R-9359, 7300/1200A, 5711/1A)
-    re.compile(r"\b([0-9]{4,5}[A-Z]?(?:[/|-][0-9A-Z]{3,4}[A-Z]?)(?:[- ][0-9A-Z]{4})?)\b", re.IGNORECASE),
-    # 4. Patek & AP Format Pendek (5330G, 15500ST, 26331ST)
-    re.compile(r"\b(5[0-9]{3}[A-Z]|15[45][0-9]{2}[A-Z]{2}|26[234][0-9]{2}[A-Z]{2}|16202[A-Z]{2})\b", re.IGNORECASE),
-    # 5. Rolex Standar 5-6 Digit + Bezel/Gold Suffix (126300, 116500LN, 126610LV, 336934, 126067, 128238A, 52508-0006)
+    # 4. Vacheron & Patek dengan Slash (4500v/110a-b483, 82035/000R-9359, 7300/1200A, 5711/1A, 5990/1A, 5267/1A, 7118/1R)
+    re.compile(r"\b([0-9]{4,5}[A-Z]?(?:[/|-][0-9A-Z]{1,4}[A-Z]?)(?:[- ][0-9A-Z]{4})?)\b", re.IGNORECASE),
+    # 5. Patek & AP Format 4-5 Digit + Huruf (5330G, 4899G, 6102P, 26127OR, 15720ST, 15210ST, 26715ST, 77451OR, 77451ST)
+    re.compile(r"\b([4-7][0-9]{3}[A-Z]|[1267][0-9]{4}[A-Z]{2}|16202[A-Z]{2})\b", re.IGNORECASE),
+    # 6. Rolex Standar 5-6 Digit + Bezel/Gold Suffix (126300, 116500LN, 126610LV, 336934, 126067, 128238A, 52508-0006)
     re.compile(r"\b([1235][0-9]{4,5}(?:-[0-9]{4})?(?:LN|LV|BLRO|BLNR|CHNR|GRNR|LB|JC|[AG])?)\b", re.IGNORECASE),
 ]
 
-# Regex pola tahun (1990 - 2035) atau format kartu 2025/6
-YEAR_PATTERN = re.compile(r"\b(199\d|20[0-3]\d)(?:/[0-9]{1,2})?\b")
+# Regex pola tahun (1990 - 2035) atau format kartu 2025/6 atau sufiks y (2018y, 2021Y)
+YEAR_PATTERN = re.compile(r"\b(199\d|20[0-3]\d)[Yy]?(?:/[0-9]{1,2})?\b")
 
 # Regex pola harga dealer WhatsApp
 # Prioritas:
@@ -138,7 +144,11 @@ class WatchBroadcastExtractor:
         if re.match(r"^[_=\-*\s🔥🇭🇰🪵✨]+$", line_clean):
             return None
 
-        # Preprocessing: Cek apakah ada glued token (misal: 126300ombre green atau 336934blue)
+        # Preprocessing: Pisahkan emoji atau simbol dekorasi yang menempel langsung ke kata/angka
+        line_clean = re.sub(r"([^\w\s\$\.,\-/])", r" \1 ", line_clean)
+        line_clean = re.sub(r"\s+", " ", line_clean).strip()
+
+        # Cek apakah ada glued token (misal: 126300ombre green atau 336934blue)
         tokens = line_clean.split()
         glued_dial_hint = None
         processed_tokens = []
@@ -332,6 +342,10 @@ class WatchBroadcastExtractor:
                     item.dealer_alias = metadata.get("dealer_alias")
                     item.chat_name = metadata.get("chat_name")
                     item.broadcast_time = metadata.get("timestamp") or metadata.get("created_at")
+                    item.media_path = metadata.get("media_path")
+                    item.media_url = metadata.get("media_url")
+                    item.thumbnail = metadata.get("thumbnail")
+                    item.mimetype = metadata.get("mimetype")
 
                 report.items.append(item)
                 report.passed_count += 1

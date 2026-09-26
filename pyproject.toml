@@ -14,9 +14,28 @@ dependencies = [
     "fastembed>=0.8.0",
     "pydantic>=2.0.0",
     "tqdm>=4.66.0",
+    "google-genai>=1.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+gpu = [
+    "onnxruntime-gpu>=1.17.0",
+    "cupy-cuda12x>=12.0.0",
 ]
 
 [project.scripts]
+watch = "main:main"
 watch-search = "app:main"
 watch-train = "src.trainer:main"
 watch-stream = "stream_simulator:main"
+watch-sync = "src.postgres_worker:main"
+
+[tool.setuptools]
+py-modules = ["main", "app", "stream_simulator"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+

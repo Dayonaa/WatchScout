@@ -64,7 +64,11 @@ def run_search(query: str, limit: int = 5, max_price: float = None, min_year: in
         dial_str = (r['dial'] or "-")[:12]
         brand_series = f"{r['brand']} {r['series'] or ''}".strip()[:26]
         dealer_info = f"{r['dealer_alias'] or r['sender_name'] or 'Dealer'} ({r['sender_phone'] or 'No Phone'})"
-        print(f"{r['score']:<7.4f} | {r['reference']:<18} | {brand_series:<26} | {dial_str:<12} | {price_str:<14} | {r['condition']:<7} | {dealer_info}")
+        media_str = ""
+        if r.get("media_path") or r.get("media_url"):
+            m = r.get("media_path") or r.get("media_url")
+            media_str = f"\n        └─ 📸 Media: {m}"
+        print(f"{r['score']:<7.4f} | {r['reference']:<18} | {brand_series:<26} | {dial_str:<12} | {price_str:<14} | {r['condition']:<7} | {dealer_info}{media_str}")
     print("-" * 115)
 
 

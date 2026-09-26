@@ -21,7 +21,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from src.extractor import default_extractor, WatchItem, ExtractionReport
 from src.rag_engine import default_rag
 from src.trainer import append_to_training_buffer, retrain_from_jsonl
-from src.config import UNPARSED_PATH as UNPARSED_LOG_PATH, BROADCASTS_CSV_PATH
+from src.config import (
+    UNPARSED_PATH as UNPARSED_LOG_PATH,
+    BROADCASTS_CSV_PATH,
+    AUTO_EXPAND_EVERY,
+    TRAIN_ITER,
+    GEMINI_MODEL,
+)
 
 # Kode ANSI untuk pewarnaan terminal yang elegan
 BOLD = "\033[1m"
@@ -254,6 +260,19 @@ def run_simulation(
     # Simpan akumulasi format belum dikenal ke berkas audit
     if all_unparsed_candidates:
         save_unparsed_candidates(all_unparsed_candidates)
+        try:
+            if UNPARSED_LOG_PATH.exists():
+                unp_lines = [l for l in UNPARSED_LOG_PATH.read_text(encoding="utf-8").splitlines() if l.strip()]
+                if AUTO_EXPAND_EVERY > 0 and len(unp_lines) >= AUTO_EXPAND_EVERY:
+                    print(f"\n{MAGENTA}{BOLD}🤖 [AUTONOMOUS EXPANDER] Terkumpul {len(unp_lines)} format unparsed di antrean! (Ambang batas: {AUTO_EXPAND_EVERY}){RESET}")
+                    print(f"{CYAN}🧠 Menganalisis {AUTO_EXPAND_EVERY} format unparsed via Gemini AI ({GEMINI_MODEL})...{RESET}")
+                    from src.llm_pattern_expander import expand_patterns_with_gemini
+                    res = expand_patterns_with_gemini(max_lines=AUTO_EXPAND_EVERY)
+                    if res.get("status") == "success":
+                        print(f"\n{MAGENTA}{BOLD}⚡ [ACTIVE LEARNING] Auto-retraining model spaCy ({TRAIN_ITER} iterasi)...{RESET}")
+                        retrain_from_jsonl(n_iter=TRAIN_ITER)
+        except Exception as e:
+            print(f"⚠️ [Autonomous Expander] Gagal memproses: {e}")
 
     # Laporan Audit Komprehensif
     pass_pct = (total_extracted / total_lines_analyzed * 100) if total_lines_analyzed > 0 else 0

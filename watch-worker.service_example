@@ -1,0 +1,43 @@
+[Unit]
+Description=Watch Dealer Real-Time Ingestion & Continuous RAG Sync Daemon
+After=network.target
+
+[Service]
+Type=simple
+# Ganti 'ubuntu' atau 'anonym' sesuai nama user di server Anda
+User=anonym
+WorkingDirectory=/home/anonym/Desktop/AI
+
+# Membaca environment variables (.env)
+EnvironmentFile=/home/anonym/Desktop/AI/.env
+# Pastikan output python langsung muncul di journalctl tanpa di-buffer
+Environment=PYTHONUNBUFFERED=1
+
+# Jalankan worker dalam mode live polling daemon
+ExecStart=/home/anonym/Desktop/AI/.venv/bin/python main.py sync --poll --interval 5.0
+
+# Otomatis restart jika terjadi error atau koneksi terputus
+Restart=always
+RestartSec=5
+
+# Batas sumber daya (opsional)
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target
+
+
+# Salin file service ke folder systemd Linux
+sudo cp watch-worker.service /etc/systemd/system/
+# Muat ulang konfigurasi systemd
+sudo systemctl daemon-reload
+# Aktifkan service agar otomatis jalan saat server booting dan langsung start sekarang
+sudo systemctl enable --now watch-worker
+
+
+
+Cek status	sudo systemctl status watch-worker
+Restart service	sudo systemctl restart watch-worker
+Stop service	sudo systemctl stop watch-worker
+Start service	sudo systemctl start watch-worker
+Pantau Live Log	journalctl -u watch-worker -f
