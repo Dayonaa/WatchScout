@@ -158,13 +158,25 @@ def train_model(
         train_examples.append(example)
 
     # 0. Hardware acceleration auto-detect (GPU CUDA vs CPU)
+    from src.config import DEVICE
     has_gpu = False
-    try:
-        has_gpu = spacy.prefer_gpu()
-    except Exception:
-        pass
-    hw_label = "CUDA GPU" if has_gpu else "CPU"
+    if DEVICE == "cuda":
+        for p in ["/usr", "/usr/local/cuda", "/usr/lib/cuda"]:
+            if (Path(p) / "include" / "cuda.h").exists():
+                if "CUDA_PATH" not in os.environ:
+                    os.environ["CUDA_PATH"] = p
+                break
+        try:
+            has_gpu = spacy.prefer_gpu()
+        except Exception:
+            has_gpu = False
+    else:
+        try:
+            spacy.require_cpu()
+        except Exception:
+            pass
 
+    hw_label = "CUDA GPU" if has_gpu else "CPU"
     print(f"🚀 Training {len(train_examples)} data (v{prev_version}) di {hw_label}:")
     optimizer = nlp.begin_training()
 
@@ -173,17 +185,31 @@ def train_model(
     batch_sizes = compounding(8.0, 64.0, 1.001) if has_gpu else compounding(4.0, 32.0, 1.001)
     final_loss = 0.0
 
-    with tqdm(total=n_iter, desc=f"🧠 [spaCy {hw_label} v{prev_version}]", unit="iter", ncols=80, leave=True) as pbar:
-        for itn in range(n_iter):
-            random.shuffle(train_examples)
-            losses = {}
-            batches = minibatch(train_examples, size=batch_sizes)
-            for batch in batches:
-                nlp.update(batch, drop=0.2, losses=losses, sgd=optimizer)
+    def run_training_loop(active_nlp, active_optimizer, active_label, use_gpu):
+        nonlocal final_loss
+        with tqdm(total=n_iter, desc=f"🧠 [spaCy {active_label} v{prev_version}]", unit="iter", ncols=80, leave=True) as pbar:
+            for itn in range(n_iter):
+                random.shuffle(train_examples)
+                losses = {}
+                batches = minibatch(train_examples, size=batch_sizes)
+                for batch in batches:
+                    active_nlp.update(batch, drop=0.2, losses=losses, sgd=active_optimizer)
 
-            final_loss = losses.get("ner", 0.0)
-            pbar.set_postfix({"loss": f"{final_loss:.4f}"})
-            pbar.update(1)
+                final_loss = losses.get("ner", 0.0)
+                pbar.set_postfix({"loss": f"{final_loss:.4f}"})
+                pbar.update(1)
+
+    try:
+        run_training_loop(nlp, optimizer, hw_label, has_gpu)
+    except (RuntimeError, TypeError) as e:
+        if has_gpu:
+            print(f"\n⚠️  [GPU Fallback] Terjadi kendala CUDA/CuPy: {e}")
+            print(f"🔄 Mengalihkan pelatihan ke CPU Mode secara otomatis...")
+            spacy.require_cpu()
+            optimizer = nlp.begin_training()
+            run_training_loop(nlp, optimizer, "CPU (Fallback)", False)
+        else:
+            raise e
 
     # Simpan model hasil training ke disk
     nlp.to_disk(output_dir)
