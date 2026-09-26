@@ -1,0 +1,1554 @@
+{"text": "82035/000R-9359  2011 HKD182K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4500v/110a-b483 2024 hkd200k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600V/200R-B979  2024 HKD348K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "5520v/210a-b148  2024 hkd 265k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 30, "PRICE"]]}
+{"text": "5520V/210R-B952  2025 HKD602K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "5500V/000R-B074  2021 HKD321K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "7920V/210A-B333  2025 HKD230K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4000E/000R-B065  2022 HKD200K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "1225V/200A-B590  2024 HKD118K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4500V/110R-B705  2023 HKD425K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4010T/000G-B740  2021 HKD185k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "47192/000G-9504  2012 HKD154k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "81590/000G-9848  2017 HKD82k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 28, "PRICE"]]}
+{"text": "83020/000R-9909  2021 HKD142k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "83570/000R-9915  2021 HKD146.5k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 31, "PRICE"]]}
+{"text": "85290/000R-B405  2022 HKD173k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "86060/000R-8985  2019 HKD160k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "89000/000R-9655  2014 HKD536k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "30130/000R-B289  2020 HKD319k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4200H/222J-B935  2025 HKD533k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "7000M/000R-B109  2024 HKD160k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "7810S/000R-B051  2015 HKD168k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "7810S/000R-B141  2018 HKD138k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "8005F/120A-B497  2020 HKD134k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "86050/000T-9343  2013 HKD104k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4520V/210R-B705  2025 HKD474k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4520V/210R-B967  2025 HKD470k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4520V/210A-B483  2024 HKD197k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4600V/200A-B980  2023 HKD164k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4600V/200R-B979  2024 HKD345k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4600V/200R-H134  2025 HKD354k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4010T/000R-B344 2025 hkd269k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1225V/000R-H014 2023 hkd200k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4000U/000R-B516 2022 hkd190k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/000R-B127 2019 hkd247k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4010T/000R-B334 2019 hkd211k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900V/110A-B546 2022 hkd213k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1225V/200R-H015 2026 hkd347k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/110A-B128 2020 hkd198k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/100A-B590 2021 hkd103k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4605V/200A-B971 2024 hkd213k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "43175/000R-B519 2022 hkd323k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "2305V/100R-B077 2022 hkd345k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1110U/000R-B085 2016 HKD92K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "1205V/100A-B591 2022 HKD 96k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/100A-B590 2021 HKD101K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/000R-H014 2023 HKD220K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205F/000R-B622 2021 HKD86k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "1205F/000R-B984 2022 HKD 94k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1225V/000R-B592 2024 HKD 220k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "1225V/000R-H014 2023 HKD230K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "2305V/100A-B170 2021 HKD 147k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "2305V/000R-B077 2021 HKD 157k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "2305V/100R-B077 2020 HKD 320k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "2305V/100A-B078 2019 HKD 142k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "2305V/100A-B170 2021 HKD146K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "25553/Q01R-9696 2017 HKD 139k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "6000V/110A-B544 2022 HKD623k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7805S/000G-B052 2015 HKD123k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/100A-B590 2022 HKD110k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "82172/000R-H008 2024 HKD164k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210R-B966 2025 HKD595k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/100A-B591 2022 HKD98k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "85290-000R-B405 2018 HKD169k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900V/000R-B336 2020 HKD259k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900V/000R-B336 2021 HKD268k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/000M-B127 2021 HKD179k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7920V/210R-B965 2025 HKD572k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4605V/200R-B969 2025 HKD437k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5500V/110A-B148 2019 HKD203k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600E/000R-H101 2025 HKD 159k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4600E/000A-B487 2025 HKD 96k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600E/000A-B442 2024 HKD 86K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600E/000A-B439 2029 HKD131K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600E/000R-B441 2022 HKD 138k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4600E/000R-B576 2024 HKD 164k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4605V/200R-B978 2024 HKD405K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4605V/200A-B971 2024 HKD213K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4605V/200R-B969 2025 HKD 434k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4605V/200R-B978 2024 HKD416K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "47112/000J-8913 2004 HKD 418k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "47192/000G-9504 2022 HKD 140k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "47292/000P-B590 2011 HKD299K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "46245/000P-8789 2000 HKD113K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "47400/000R-9101 2020 HKD 106k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "47450/B01R-9404 2011 HKD 314k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "49020/000R-9753 2017 HKD 421k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4400E/000R-B436  2022 HKD199K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4500V/110A-B128 2021 HKD 225k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4500V/110A-B128 NEW 2022 HKD 240k", "entities": [[0, 15, "REFERENCE"], [16, 19, "CONDITION"], [20, 24, "YEAR"], [25, 33, "PRICE"]]}
+{"text": "4600V/200R-B979  2024  HKD 337K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "5500V/110A-B148  2022  HKD 220K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "2305V/100A-B078  2019  HKD 138K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "4000U/000R-B516  2021  HKD 184K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "49150/000R-9338  2015  HKD 219K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "4500V/110A-B483  2022  HKD 180K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "4010U/000G-B330  2021  HKD 177K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "2305V/100A-B078  2018  HKD 134K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "4600E/000R-B441  2023  HKD 144K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "4605V/200R-B968  2023  HKD 360K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [23, 31, "PRICE"]]}
+{"text": "5520V/210A-B481 2024 HKD246k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210A-B686 2026 HKD278k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210R-B952 2025 HKD602k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210R-B966 2025 HKD591k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900V/110A-B333 2019 HKD162k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900V/000R-B336 2018 HKD266k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7920V/210R-B965 2025 HKD576k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "82572/000R-9604 2020 HKD103k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "52508-0006 white hld219000 n8", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"], [17, 26, "PRICE"]]}
+{"text": "126300ombre green hkd82500 n8 adj oys", "entities": [[0, 6, "REFERENCE"], [6, 17, "DIAL"], [18, 26, "PRICE"]]}
+{"text": "336934blue hkd168000 n9 adj oys", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"], [11, 20, "PRICE"]]}
+{"text": "126000 multi hkd106000 n9 \ud83e\udeb5", "entities": [[0, 6, "REFERENCE"], [13, 22, "PRICE"]]}
+{"text": "Wjpn0085 hkd291000 -27% n7", "entities": [[0, 8, "REFERENCE"], [9, 18, "PRICE"]]}
+{"text": "Wgta0342 hkd92000 -22% n9", "entities": [[0, 8, "REFERENCE"], [9, 17, "PRICE"]]}
+{"text": "Wgta0352 hkd69000 -22% n9", "entities": [[0, 8, "REFERENCE"], [9, 17, "PRICE"]]}
+{"text": "2836c1a0-0105 hkd20000 n9", "entities": [[0, 13, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "116695sats hkd680000 full set 2017", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"], [11, 20, "PRICE"], [30, 34, "YEAR"]]}
+{"text": "218235 old pink rom hkd266000 no card full link full set", "entities": [[0, 6, "REFERENCE"], [20, 29, "PRICE"]]}
+{"text": "226679tbr pave hkd700000 2025y-1", "entities": [[0, 6, "REFERENCE"], [6, 9, "DIAL"], [15, 24, "PRICE"]]}
+{"text": "26399bc.00.d321cr.01 hkd948800  2021y full set tull Tourbillon", "entities": [[0, 7, "REFERENCE"], [21, 30, "PRICE"]]}
+{"text": "5330G  N9 445000HKHKD", "entities": [[0, 5, "REFERENCE"], [10, 21, "PRICE"]]}
+{"text": "7300/1200A Green N9  169000HKD", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"], [21, 30, "PRICE"]]}
+{"text": "126067 N9 266000HKD", "entities": [[0, 6, "REFERENCE"], [10, 19, "PRICE"]]}
+{"text": "116518 Mete 2025/6 New $620000", "entities": [[0, 6, "REFERENCE"], [12, 16, "YEAR"], [23, 30, "PRICE"]]}
+{"text": "128238A Omber Green N8 \ud83e\udeb5$437000", "entities": [[0, 7, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "126518G BLK N7 $425000", "entities": [[0, 7, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "128238 Green Ombre Rom $389000", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [23, 30, "PRICE"]]}
+{"text": "228238 Omber Green N8 $488000", "entities": [[0, 6, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "126610LV N9 $116000", "entities": [[0, 8, "REFERENCE"], [12, 19, "PRICE"]]}
+{"text": "126334 BLK JUB N8 $119000", "entities": [[0, 6, "REFERENCE"], [18, 25, "PRICE"]]}
+{"text": "336934 BLK JUB N7 $164000", "entities": [[0, 6, "REFERENCE"], [18, 25, "PRICE"]]}
+{"text": "126610LN N9 110500HKD", "entities": [[0, 8, "REFERENCE"], [12, 21, "PRICE"]]}
+{"text": "5968A", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5167A", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5810G", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5840P", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5164R", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5167R", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5822P", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5072R", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "7968/300R", "entities": [[0, 9, "REFERENCE"]]}
+{"text": "7118/1200A blue", "entities": [[0, 15, "REFERENCE"]]}
+{"text": "7118/1200A gray", "entities": [[0, 15, "REFERENCE"]]}
+{"text": "7118/1200R white", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"]]}
+{"text": "7118/1200R champ", "entities": [[0, 10, "REFERENCE"]]}
+{"text": "7118/1300R", "entities": [[0, 10, "REFERENCE"]]}
+{"text": "126518 Tiffany", "entities": [[0, 6, "REFERENCE"]]}
+{"text": "126518 YML", "entities": [[0, 6, "REFERENCE"]]}
+{"text": "126508 green", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"]]}
+{"text": "228238A black", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "126518yml", "entities": [[0, 6, "REFERENCE"], [6, 9, "DIAL"]]}
+{"text": "126519 grey", "entities": [[0, 6, "REFERENCE"]]}
+{"text": "126503g black", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "278383g green jub", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "126333g black jub", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "~ Patek 5524G Cream // New 2026 New paper", "entities": [[8, 13, "REFERENCE"], [27, 31, "YEAR"]]}
+{"text": "~ Patek 5961R // New 2026 New paper", "entities": [[8, 13, "REFERENCE"], [21, 25, "YEAR"]]}
+{"text": "~ Patek 5961P // New 2026 New paper", "entities": [[8, 13, "REFERENCE"], [21, 25, "YEAR"]]}
+{"text": "15510ST Grey", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "1. Used 276200 blue 2021 / NFC card / full links HKD40,500", "entities": [[8, 14, "REFERENCE"], [15, 19, "DIAL"], [20, 24, "YEAR"], [49, 54, "PRICE"]]}
+{"text": "2. Used 276200 blue 2023 / NFC card / full links HKD41,000", "entities": [[8, 14, "REFERENCE"], [15, 19, "DIAL"], [20, 24, "YEAR"], [49, 54, "PRICE"]]}
+{"text": "3. Used 276200 pistachio 2026 / NFC card / full links HKD54,000", "entities": [[8, 14, "REFERENCE"], [25, 29, "YEAR"], [54, 59, "PRICE"]]}
+{"text": "4. Used 276200 silver 2022 / NFC card / full links HKD40,000", "entities": [[8, 14, "REFERENCE"], [15, 21, "DIAL"], [22, 26, "YEAR"], [51, 56, "PRICE"]]}
+{"text": "5. Used 277200 black 2021 / NFC card / full links HKD46,000", "entities": [[8, 14, "REFERENCE"], [15, 20, "DIAL"], [21, 25, "YEAR"], [50, 55, "PRICE"]]}
+{"text": "6. Used 277200 green 2021 / NFC card / full links HKD52,500", "entities": [[8, 14, "REFERENCE"], [15, 20, "DIAL"], [21, 25, "YEAR"], [50, 55, "PRICE"]]}
+{"text": "7. Used 277200 lavender 2026 / NFC card / full links HKD60,000", "entities": [[8, 14, "REFERENCE"], [24, 28, "YEAR"], [53, 58, "PRICE"]]}
+{"text": "8. Used 277200 lavender 2026 / NFC card / full links HKD60,000", "entities": [[8, 14, "REFERENCE"], [24, 28, "YEAR"], [53, 58, "PRICE"]]}
+{"text": "9. Used 277200 lavender 2026 / NFC card / full links HKD60,000", "entities": [[8, 14, "REFERENCE"], [24, 28, "YEAR"], [53, 58, "PRICE"]]}
+{"text": "10. Used 277200 pink 2022 / NFC card / full links HKD60,500", "entities": [[9, 15, "REFERENCE"], [21, 25, "YEAR"], [50, 55, "PRICE"]]}
+{"text": "11. Used 277200 beige 2026 / NFC card / full links HKD55,500", "entities": [[9, 15, "REFERENCE"], [22, 26, "YEAR"], [51, 56, "PRICE"]]}
+{"text": "12. Used 114060 2016 / white card / 10.5 links HKD79,000", "entities": [[9, 15, "REFERENCE"], [16, 20, "YEAR"], [23, 28, "DIAL"], [47, 52, "PRICE"]]}
+{"text": "\ud83c\udff7 Rolex 16030,", "entities": [[8, 13, "REFERENCE"]]}
+{"text": "\ud83d\udd17 https://brandvillevault.com/catalog/rolex-16030---c8310d77-d922-48c1-a5ee-44e4b0c81300", "entities": [[44, 49, "REFERENCE"]]}
+{"text": "Looking for 5968A New 2026", "entities": [[12, 17, "REFERENCE"], [22, 26, "YEAR"]]}
+{"text": "\u2665\ufe0f8005F/120A-B497 21Y 111500HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f5500V/000M-B074 Naked 216000HKD", "entities": [[2, 17, "REFERENCE"], [24, 33, "PRICE"]]}
+{"text": "\u2665\ufe0f6000V/210R-B733 26Y 1.2M HKD", "entities": [[2, 17, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\u2665\ufe0f4520V/210A-B128 25Y 261000HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f5520V/210-B148 24Y 273000HKD", "entities": [[2, 16, "REFERENCE"], [21, 30, "PRICE"]]}
+{"text": "\u2665\ufe0f5520V/210-B148 18Y 211000HKD", "entities": [[2, 16, "REFERENCE"], [21, 30, "PRICE"]]}
+{"text": "\u2665\ufe0f4520V/210A-B483 26Y 220600HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f4500V/110A-B483 22Y 190000HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f7900V/110A-B546 23Y 219000HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f5520V/210A-B686 25Y 271000HKD", "entities": [[2, 17, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f86050/000D-G9O00 19Y 99000HKD", "entities": [[2, 12, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "\u2665\ufe0f4500S/000A-B195 18Y 72500HKD", "entities": [[2, 17, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "\u2665\ufe0f49150/B01A-9097 Fullset 120000HKD", "entities": [[2, 17, "REFERENCE"], [26, 35, "PRICE"]]}
+{"text": "\ud83d\udc0d103524 $85,300 less 26%", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83d\udc0d104062 $81,700 less 30%", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83d\udc0d104060 $81,700 less 30%", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83d\udc0d103937 $44,600 less 30%", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83c\udf39134300 multi dial\ud83c\udf39", "entities": [[1, 7, "REFERENCE"]]}
+{"text": "New 7118/1453G green emerald 4380000 hkd 2025-3", "entities": [[4, 14, "REFERENCE"], [15, 20, "DIAL"], [37, 45, "PRICE"]]}
+{"text": "5822p 1168000 hkd 2026-2", "entities": [[0, 5, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "New 5168g blue 848000 hkd 2025-9", "entities": [[4, 9, "REFERENCE"], [10, 14, "DIAL"], [22, 30, "PRICE"]]}
+{"text": "5968a 1288000 hkd 2026-7", "entities": [[0, 5, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "5905r blue 495000 hkd 2026-9", "entities": [[0, 5, "REFERENCE"], [6, 10, "DIAL"], [18, 26, "PRICE"]]}
+{"text": "5980/60g 1385000 hkd 2026-9", "entities": [[0, 8, "REFERENCE"], [17, 25, "PRICE"]]}
+{"text": "7040/250G 3180000 hkd 2026-8", "entities": [[0, 9, "REFERENCE"], [18, 26, "PRICE"]]}
+{"text": "5968a 1240000 hkd 2025-8", "entities": [[0, 5, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "5821/1ar 712000 hkd 2026-5", "entities": [[0, 8, "REFERENCE"], [16, 24, "PRICE"]]}
+{"text": "5227g salmon 270000 hkd 2026-6", "entities": [[0, 5, "REFERENCE"], [6, 12, "DIAL"], [20, 28, "PRICE"]]}
+{"text": "New 7118/1300r 1930000 hkd 2025-8", "entities": [[4, 14, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "5961r 1080000 hkd 2026-6", "entities": [[0, 5, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "New 5811/1460G 4220000 hkd 2025-10", "entities": [[4, 14, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "New 5160/500r 1250000 hkd 2024-11", "entities": [[4, 13, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "5935A salmon 400000 hkd 2026-7", "entities": [[0, 5, "REFERENCE"], [6, 12, "DIAL"], [20, 28, "PRICE"]]}
+{"text": "7118/1450R 2930000 hkd 2026-3", "entities": [[0, 10, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "4997/200r 162000 hkd 2026-2", "entities": [[0, 9, "REFERENCE"], [17, 25, "PRICE"]]}
+{"text": "New 5980/1400r 4400000 hkd 2022", "entities": [[4, 14, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "16202st blue 750000 hkd 2026-9", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [20, 28, "PRICE"]]}
+{"text": "New 15412ba.yg.1224ba.01 rainbow 2750000 hkd  2023", "entities": [[4, 11, "REFERENCE"], [46, 50, "YEAR"]]}
+{"text": "77450sr.oo.1361sr.03 grey 350000 hkd 2026-4", "entities": [[26, 32, "REFERENCE"], [33, 41, "PRICE"]]}
+{"text": "New 26240BA.OO.1320BA.02 smoke yellow 838000 2025-1", "entities": [[4, 11, "REFERENCE"], [38, 44, "PRICE"], [45, 49, "YEAR"]]}
+{"text": "15720st green 205000 hkd 2025-1", "entities": [[14, 20, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "15550sr 363000 hkd 2026-4", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "15551or white 765000 hkd 2026-7", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 29, "PRICE"]]}
+{"text": "15551or white 745000 hkd 2025-12", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 29, "PRICE"]]}
+{"text": "New 26231st salmon 328000 hkd 2025-7", "entities": [[4, 11, "REFERENCE"], [12, 18, "DIAL"], [26, 34, "PRICE"]]}
+{"text": "New 26715st ice blue 520000 hkd 2025-12", "entities": [[21, 27, "REFERENCE"], [28, 36, "PRICE"]]}
+{"text": "New 77410or purple 170000 hkd 2025-12", "entities": [[19, 25, "REFERENCE"], [26, 34, "PRICE"]]}
+{"text": "New 26420st brown 285000 hkd 2025-11", "entities": [[4, 11, "REFERENCE"], [25, 33, "PRICE"]]}
+{"text": "New 5500v/110A-b686 white panda 228000 hkd 2023-4", "entities": [[4, 19, "REFERENCE"], [20, 25, "DIAL"], [39, 47, "PRICE"]]}
+{"text": "4520v/210A-B128 blue 268000 hkd 2026-8", "entities": [[0, 15, "REFERENCE"], [16, 20, "DIAL"], [28, 36, "PRICE"]]}
+{"text": "New 26405ce green 330000 hkd 2020-12", "entities": [[4, 11, "REFERENCE"], [12, 17, "DIAL"], [25, 33, "PRICE"]]}
+{"text": "New G0A41003 retail: 113000 -35% 2024-10", "entities": [[21, 27, "REFERENCE"], [33, 37, "YEAR"]]}
+{"text": "New HPI01538 retail: 535000 hkd -30% /  48500u 2024-9", "entities": [[21, 27, "REFERENCE"], [47, 51, "YEAR"]]}
+{"text": "126710GRNR Jub", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"]]}
+{"text": "126710GRNR oys", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"]]}
+{"text": "126600", "entities": [[0, 6, "REFERENCE"]]}
+{"text": "278273g green jub", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "126500black", "entities": [[0, 6, "REFERENCE"], [6, 11, "DIAL"]]}
+{"text": "126506A", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "91650-0003", "entities": [[0, 10, "REFERENCE"]]}
+{"text": "91650-0002", "entities": [[0, 10, "REFERENCE"]]}
+{"text": "5968R-001", "entities": [[0, 9, "REFERENCE"]]}
+{"text": "Pp 7118/1200R-010 champ like new 7/2024//1.205.000 hkd", "entities": [[3, 13, "REFERENCE"], [35, 39, "YEAR"], [43, 54, "PRICE"]]}
+{"text": "Pp 5267/200a black new 7/2026//72k Usdt", "entities": [[3, 12, "REFERENCE"], [13, 18, "DIAL"], [25, 29, "YEAR"], [31, 34, "PRICE"]]}
+{"text": "Pp 5067a black full set 2019//49k Usdt", "entities": [[3, 8, "REFERENCE"], [9, 14, "DIAL"], [24, 28, "YEAR"], [30, 33, "PRICE"]]}
+{"text": "Pp 5067A black Watch and paper 37k Usdt", "entities": [[3, 8, "REFERENCE"], [9, 14, "DIAL"], [31, 34, "PRICE"]]}
+{"text": "Vacheron Constantin Overseas 7920V/000R-B336 Automatic Winding Rose Gold 41mm Full Set January Card 2026  \uff0438,6000hkd", "entities": [[29, 44, "REFERENCE"], [100, 104, "YEAR"], [110, 117, "PRICE"]]}
+{"text": "VC\ud83e\ude75New 7930V/210T-H072 brown N9/2026y 413k hkd", "entities": [[7, 22, "REFERENCE"], [38, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01RG Red Lips 2020y Full Set, HK$1320000  /   171500 USDT", "entities": [[58, 64, "REFERENCE"]]}
+{"text": "\u2764\ufe0fNew RM 011ti 2015y full set 1.187M HKD / 153000usdt ready hk", "entities": [[43, 49, "REFERENCE"], [49, 53, "DIAL"]]}
+{"text": "\ud83e\udde1Used 26239bc Frost gold grey 2022y 865k hkd", "entities": [[6, 13, "REFERENCE"], [36, 40, "PRICE"]]}
+{"text": "\ud83e\udde1New 26240st black N5/2026y 465k hkd", "entities": [[5, 12, "REFERENCE"], [13, 18, "DIAL"], [28, 32, "PRICE"]]}
+{"text": "\ud83e\udde1Used 15412ba rbw Frost gold 2022y 2.7m hkd", "entities": [[6, 13, "REFERENCE"], [35, 39, "PRICE"]]}
+{"text": "\ud83e\udde1Used 16204OR.OO.1240OR.03 2022y Full Set, 50th Anniversary, HK$1670000 / 215000 USDT    HK stock", "entities": [[74, 80, "REFERENCE"]]}
+{"text": "\ud83e\udde1New 26240ba Salted egg yolk N7/2026y 110k usdt", "entities": [[5, 12, "REFERENCE"], [38, 42, "PRICE"]]}
+{"text": "\ud83e\udde1Used 15409OR Sanskrit green full gold 2018y 240k usdt", "entities": [[6, 13, "REFERENCE"], [23, 28, "DIAL"], [45, 49, "PRICE"]]}
+{"text": "\ud83e\udde1Used 15407OR Hollow 2023y 1.62m hkd", "entities": [[6, 13, "REFERENCE"], [27, 32, "PRICE"]]}
+{"text": "\ud83d\ude97New 15416cd blue ceramic 2025y 3.17m hkd", "entities": [[5, 12, "REFERENCE"], [13, 17, "DIAL"], [32, 37, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26240st blue 2022y 50th 460k hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [30, 34, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26240st white 2022y 50th 356k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [31, 35, "PRICE"]]}
+{"text": "\ud83e\udde1New 15417bc full diamond rbw\ud83c\udf082024y 1.3m usdt", "entities": [[5, 12, "REFERENCE"], [36, 40, "PRICE"]]}
+{"text": "\ud83c\udf08Used 16202XT red no box 2025y 1.35m hkd", "entities": [[6, 13, "REFERENCE"], [31, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26240BC 01 frost gold grey 2022y 1.06m hkd", "entities": [[6, 13, "REFERENCE"], [39, 44, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26420OI grey blk eyes 2024y 432k hkd", "entities": [[6, 13, "REFERENCE"], [34, 38, "PRICE"]]}
+{"text": "\ud83c\udf08Used 15510BC ice blue 2023y 750k hkd", "entities": [[6, 13, "REFERENCE"], [14, 22, "DIAL"], [29, 33, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26240BA wordless book 2023y 1.09m hkd", "entities": [[14, 22, "REFERENCE"], [34, 39, "PRICE"]]}
+{"text": "\ud83c\udf08Used 15407ST 2023y 1.24m hkd", "entities": [[6, 13, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83c\udf08New 26239BC pink full diamond 2021y 8m hkd", "entities": [[5, 12, "REFERENCE"], [37, 39, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26320ST blue 2014y 360k hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "\ud83c\udf08Used 16202BA salted egg yolk 2025y 1m hkd", "entities": [[6, 13, "REFERENCE"], [36, 38, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26420IO grey blue eyes 2022y 237k hkd", "entities": [[6, 13, "REFERENCE"], [35, 39, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26420IO grey blue eyes 2024y 252k hkd", "entities": [[6, 13, "REFERENCE"], [35, 39, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26470ST vampire 2017y 143k hkd", "entities": [[6, 13, "REFERENCE"], [28, 32, "PRICE"]]}
+{"text": "\ud83c\udf08Used 15510OR black full gold 2024y 690k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [36, 40, "PRICE"]]}
+{"text": "\ud83c\udf08Used 15407OR hollow full gold 2023y 1.74m hkd", "entities": [[6, 13, "REFERENCE"], [37, 42, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26238OR.OO.2000OR.01 blue 2021y 630k hkd", "entities": [[6, 13, "REFERENCE"], [27, 31, "DIAL"], [38, 42, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26240OR green full gold 2022y 50th 825k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [41, 45, "PRICE"]]}
+{"text": "\ud83e\udde1New 67651OR.ZZ.1261ST.02-A Blue N4/2026y, HK$550000   /    70700 USDT", "entities": [[46, 52, "REFERENCE"], [60, 65, "PRICE"]]}
+{"text": "\ud83e\udde1New 26240OR blue full gold N6/2026y 970k hkd", "entities": [[5, 12, "REFERENCE"], [13, 17, "DIAL"], [37, 41, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26239OR blue gold eyes full gold 2021y 775k hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [45, 49, "PRICE"]]}
+{"text": "\ud83e\udde1New 15551OR ice blue N12/2025y 730k hkd", "entities": [[5, 12, "REFERENCE"], [13, 21, "DIAL"], [32, 36, "PRICE"]]}
+{"text": "\ud83e\udde1Used 15452OR Rainbow Diamond / Global Limited 100 pieces / 2021y Full Set, HK$623000   /  81000 USDT", "entities": [[6, 13, "REFERENCE"], [78, 85, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26420CE.OO.A063VE.01 Green Ceramics 2025y Full Set, HK$348,000   /  45000USDT", "entities": [[6, 13, "REFERENCE"], [27, 32, "DIAL"], [60, 64, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26239or blue gold eyes 2021y 775k HKD", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [35, 39, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26315ST white blue eyes 2020y 370k hkd", "entities": [[6, 13, "REFERENCE"], [20, 24, "DIAL"], [36, 40, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26470ST vampire 2017y 145k hkd", "entities": [[6, 13, "REFERENCE"], [28, 32, "PRICE"]]}
+{"text": "\ud83e\udde1New 26240ST green N6/2026y 495k hkd", "entities": [[5, 12, "REFERENCE"], [13, 18, "DIAL"], [28, 32, "PRICE"]]}
+{"text": "\ud83e\udde1New 26420ST brown N6/2026y 305k hkd", "entities": [[5, 12, "REFERENCE"], [28, 32, "PRICE"]]}
+{"text": "\ud83e\udde1Used 25820SP Full set 830000hkd / 105800usdt", "entities": [[35, 41, "REFERENCE"], [41, 45, "DIAL"]]}
+{"text": "\ud83e\udde1New 16202ba yellow 2025y 1.98m hkd", "entities": [[5, 12, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26238ti,grey 2023y full set,250k hkd", "entities": [[6, 13, "REFERENCE"], [34, 38, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26236OR black \ud83c\udf08rbw, 2023y full set 100k usdt", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [41, 45, "PRICE"]]}
+{"text": "\ud83d\udc9bLike New 5271p 2025y 2.18m hkd", "entities": [[10, 15, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5372P-001 2018y 400k usdt", "entities": [[5, 14, "REFERENCE"], [21, 25, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5072R 2025y 1.72m hkd ready hk", "entities": [[6, 11, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 7118/1450R N3/2026y 2.93m hkd", "entities": [[5, 15, "REFERENCE"], [25, 30, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5068R coffee 2017y 563k hkd", "entities": [[6, 11, "REFERENCE"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5968A N8/2025y 1.24m hkd ready hk", "entities": [[5, 10, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5961P N8/2026y 1.1m hkd", "entities": [[5, 10, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5712G 2010y full set 592k hkd", "entities": [[6, 11, "REFERENCE"], [27, 31, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5712G-001 2016y 645k hkd", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83c\udf08Used 7010R-011 2021y 515k hkd", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5712R-001 2016y NO box 935k hkd", "entities": [[6, 15, "REFERENCE"], [29, 33, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5167A-001 2010y 515k HKD", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5167A-001 2016y 552k HKD", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5971P-001 2009y 310k usdt", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 7118/1300R-001 2025y 1.93m hkd ready hk", "entities": [[5, 15, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 7140R-001 2013y 372k hkd", "entities": [[6, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5159R naked 315k hkd", "entities": [[6, 11, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5935A-001 salmon N7/2026y 400k hkd", "entities": [[5, 14, "REFERENCE"], [15, 21, "DIAL"], [31, 35, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5980/10R 2014y 440k usdt", "entities": [[6, 14, "REFERENCE"], [21, 25, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5712R-001  only watch  57prefix , HK$779,000   /    100000 usdt   HK SPOT", "entities": [[42, 46, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5271P-010 naked 1.69m hkd", "entities": [[6, 15, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5961p N5/2025y 1.06m hkd", "entities": [[5, 10, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5213G 2015y 3.65m hkd", "entities": [[6, 11, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5724R naked 1.6m hkd", "entities": [[6, 11, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5303R 2023y 910k usdt", "entities": [[6, 11, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5068R White naked 57 prefix 592k hkd / 75800usdt", "entities": [[6, 11, "REFERENCE"], [12, 17, "DIAL"], [34, 38, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5396r champ N5/2026y 450k hkd", "entities": [[5, 10, "REFERENCE"], [26, 30, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5980/1400g 2022y 4.4m hkd", "entities": [[5, 15, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5170R black 2016y full set 430k hkd", "entities": [[6, 11, "REFERENCE"], [12, 17, "DIAL"], [33, 37, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 116688-0002 Mercedes needle 2019y full set, HK$300000  /  39000USDT", "entities": [[6, 17, "REFERENCE"], [52, 59, "PRICE"], [69, 73, "DIAL"]]}
+{"text": "\ud83d\udc9aUsed 116505-0008 2016y full set HK$330,000    /  42500USDT", "entities": [[6, 17, "REFERENCE"], [35, 39, "PRICE"], [55, 59, "DIAL"]]}
+{"text": "\ud83d\udc9aUsed 179175-83135G 2014y -2 link 137k hkd", "entities": [[6, 12, "REFERENCE"], [34, 38, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 179175-83135G 2015y -2 link 140k hkd", "entities": [[6, 12, "REFERENCE"], [34, 38, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 278274g pink jub,2025y,14500usdt,ready hk", "entities": [[6, 13, "REFERENCE"]]}
+{"text": "\ud83d\udc9aUsed 116576TBR 2017y 1.49m hkd", "entities": [[6, 12, "REFERENCE"], [12, 15, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 16599 sapphire naked 480k usdt", "entities": [[6, 11, "REFERENCE"], [27, 31, "PRICE"]]}
+{"text": "\ud83d\udc9aNew 116518 mete 2021y 600k hkd ready hk \ud83c\udff7\ufe0f", "entities": [[5, 11, "REFERENCE"], [23, 27, "PRICE"]]}
+{"text": "\ud83d\udc9aNew 128238A green no both tag N6/2026y 448k hkd ready hk", "entities": [[5, 12, "REFERENCE"], [13, 18, "DIAL"], [40, 44, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 116505 naked 298k hkd", "entities": [[6, 12, "REFERENCE"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 116659SABR Full Star 2019y Full Set Complete Link, No Box, HK$985000 / 126000 USDT     HK stock", "entities": [[6, 12, "REFERENCE"], [12, 16, "DIAL"], [67, 74, "PRICE"]]}
+{"text": "\ud83d\udc9aNew 128348RBR red 2025y 140k usdt", "entities": [[5, 11, "REFERENCE"], [11, 14, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 116588saco Only watch 195k usdt", "entities": [[6, 12, "REFERENCE"], [12, 16, "DIAL"], [28, 32, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 126525 leman N5/2025y 1.47m hkd", "entities": [[6, 12, "REFERENCE"], [28, 33, "PRICE"]]}
+{"text": "\ud83d\udc9aNew 126755 N12/2025y 1.85m hkd", "entities": [[5, 11, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udc9aNew 126598 rbw,Baby's breath,N12/2024y,3.58M HKD", "entities": [[5, 11, "REFERENCE"], [40, 45, "PRICE"]]}
+{"text": "\ud83e\ude75New WGTA0237 N12/2025y 1.55M hkd", "entities": [[5, 13, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83c\udf08Used 4300V/000R-B064 2021y 495k hkd", "entities": [[6, 21, "REFERENCE"], [28, 32, "PRICE"]]}
+{"text": "\ud83c\udf08Used 4300V/120R-B509 2022y 765k hkd", "entities": [[6, 21, "REFERENCE"], [28, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126500 white\ud83d\udcb2284k N7\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "PRICE"]]}
+{"text": "\ud83d\udca5126503G blk\ud83d\udcb2224k N8", "entities": [[1, 8, "REFERENCE"], [13, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126503G black\ud83d\udcb2223k N7", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126508G black\ud83d\udcb2488k N6", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126515 METE\ud83d\udcb2615k N8", "entities": [[1, 7, "REFERENCE"], [13, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126518 METE\ud83d\udcb2615k N9\ud83e\udeb5", "entities": [[1, 7, "REFERENCE"], [13, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126519 METE\ud83d\udcb2700k N8", "entities": [[1, 7, "REFERENCE"], [13, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126518 yml\ud83d\udcb2488k N9", "entities": [[1, 7, "REFERENCE"], [12, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126518G black\ud83d\udcb2420k N6", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126599 TSA\ud83d\udcb28.9m 12/2025\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [12, 16, "PRICE"], [20, 24, "YEAR"]]}
+{"text": "\ud83d\udca5126525 LeMans\ud83d\udcb21.39m N5", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126529 LeMans\ud83d\udcb21.88m N7", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5228238A black\ud83d\udcb2578k N9", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5228235 A Sundust\ud83d\udcb2438k 12/25", "entities": [[1, 7, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5228235 A pave\ud83d\udcb2610k N6\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126710GRNR oys\ud83d\udcb2140k N6\ud83c\udff7", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710GRNR oys\ud83d\udcb2143k N8", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710GRNR oys\ud83d\udcb2144k N9", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710BLNR jub\ud83d\udcb2145k N8\ud83c\udff7", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710BLNR oys\ud83d\udcb2133k N8", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710BLNR oys\ud83d\udcb2134k N9", "entities": [[1, 11, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126719BLRO METE\ud83d\udcb2533k N8\ud83c\udff7", "entities": [[1, 11, "REFERENCE"], [17, 21, "PRICE"]]}
+{"text": "\ud83d\udca5127234\ud83d\udcb2139k N9", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5127334\ud83d\udcb2173k N7\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5127334\ud83d\udcb2174k N8", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5127334\ud83d\udcb2175k N9\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5127236\ud83d\udcb2595k N7", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5336934 black oys\ud83d\udcb2159k N7", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5366934 green oys\ud83d\udcb2176k N8", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5336934 green oys\ud83d\udcb2177k N9", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5336238 black\ud83d\udcb2318k 09/2025", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "PRICE"], [22, 26, "YEAR"]]}
+{"text": "\ud83d\udca5126200 wim jub\ud83d\udcb280k N7", "entities": [[1, 7, "REFERENCE"], [16, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126200 mint green oys\ud83d\udcb273k n8", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126233 wim jub\ud83d\udcb2130k N6", "entities": [[1, 7, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126233 Green rom jub\ud83d\udcb2132k N6", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126234 blue rom jub\ud83d\udcb296k n8F.s\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126234 mint green jub\ud83d\udcb2107k N7\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Ombr\u00e9 green oys\ud83d\udcb299k N9", "entities": [[1, 7, "REFERENCE"], [14, 19, "DIAL"], [24, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Ombr\u00e9 green jub\ud83d\udcb2108k N9", "entities": [[1, 7, "REFERENCE"], [14, 19, "DIAL"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126234 vixi pink jub\ud83d\udcb2117k N8", "entities": [[1, 7, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126234 vixi purple oys\ud83d\udcb2109k N9", "entities": [[1, 7, "REFERENCE"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126234 vixi purple jub\ud83d\udcb2113k N9", "entities": [[1, 7, "REFERENCE"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126234 vixi grey jub\ud83d\udcb2111k N6.", "entities": [[1, 7, "REFERENCE"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Bright blue rom jub\ud83d\udcb297k N6", "entities": [[1, 7, "REFERENCE"], [15, 19, "DIAL"], [28, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234 mint green oys\ud83d\udcb295k N8", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126300 white rom oys\ud83d\udcb277k N8.", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 25, "PRICE"]]}
+{"text": "\ud83d\udca5126300 blue rom oys\ud83d\udcb283k N6\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126300 Ombr\u00e9 green oys\ud83d\udcb285k N9.", "entities": [[1, 7, "REFERENCE"], [14, 19, "DIAL"], [24, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126300 wim jub\ud83d\udcb288k N9", "entities": [[1, 7, "REFERENCE"], [16, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126300 bright rom oys\ud83d\udcb277k n7", "entities": [[1, 7, "REFERENCE"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126300 mint green jub\ud83d\udcb288k N7\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126331 green rom jub\ud83d\udcb2155k N7", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126333 green rom jub\ud83d\udcb2146k n7", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126333 G black jub\ud83d\udcb2168k N8", "entities": [[1, 7, "REFERENCE"], [10, 15, "DIAL"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Ombr\u00e9 green jub\ud83d\udcb2146k N9.", "entities": [[1, 7, "REFERENCE"], [14, 19, "DIAL"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126334 mint green jub\ud83d\udcb2131k N8", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126334 silver jub\ud83d\udcb2113k N6", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5126334 black index jub\ud83d\udcb2117k N7", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126334 black index jub\ud83d\udcb2118k N8", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126334G blue jub\ud83d\udcb2131k N9\ud83c\udff7.", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126334G blue oys\ud83d\udcb2123k N7", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5279171G green jub\ud83d\udcb2131k N7\ud83c\udff7", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5278274 blue rom jub\ud83d\udcb289k N7", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5278274 pink rom jub\ud83d\udcb293k N8", "entities": [[1, 7, "REFERENCE"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5278274 grey rom jub\ud83d\udcb292k N6\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5278274 grey rom jub\ud83d\udcb293k N7", "entities": [[1, 7, "REFERENCE"], [21, 24, "PRICE"]]}
+{"text": "\ud83d\udca5278274g grey jub\ud83d\udcb2118k n9\ud83c\udff7.", "entities": [[1, 8, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5278274G pink jub\ud83d\udcb2125k N8", "entities": [[1, 8, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5278274G pink jub\ud83d\udcb2123k N6", "entities": [[1, 8, "REFERENCE"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5278240 mint green jub\ud83d\udcb277k n9\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278240 mint green jub\ud83d\udcb276k N8\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 18, "DIAL"], [23, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278273G silver jub\ud83d\udcb2138k N6", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5278273G green jub\ud83d\udcb2173k N8", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5278273 vi grey jub\ud83d\udcb2130k N3.", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126688\ud83d\udcb2487k N9\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5124060\ud83d\udcb298k N9", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83d\udca5126067\ud83d\udcb2275k N9", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5126610LN\ud83d\udcb2110k N8\ud83c\udff7", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "\ud83d\udca5126610LV\ud83d\udcb2113k N7\ud83c\udff7", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "\ud83d\udca5126610LV\ud83d\udcb2114k N8\ud83c\udff7", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "\ud83d\udca5126610LV\ud83d\udcb2115k N9\ud83c\udff7.", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "\ud83d\udca5134303\ud83d\udcb2106k n9\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5126003\ud83d\udcb284k N9", "entities": [[1, 7, "REFERENCE"], [8, 11, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Multicolour\ud83d\udcb2146k N8\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Multicolour\ud83d\udcb2147k N9", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126000 Multicolour\ud83d\udcb2105k N7", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126000 Multicolour\ud83d\udcb2106k N8", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126000 Multicolour\ud83d\udcb2108k N9", "entities": [[1, 7, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126000 Tiffany\ud83d\udcb2115k N8\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126603\ud83d\udcb2165k N7", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Lavender\ud83d\udcb276k N7", "entities": [[1, 7, "REFERENCE"], [17, 20, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Lavender\ud83d\udcb277k N8\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [17, 20, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Lavender\ud83d\udcb278k N9\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [17, 20, "PRICE"]]}
+{"text": "\ud83d\udca5134300 candypink\ud83d\udcb283k N9", "entities": [[1, 7, "REFERENCE"], [18, 21, "PRICE"]]}
+{"text": "\ud83d\udca5277200 candypink\ud83d\udcb262k N8", "entities": [[1, 7, "REFERENCE"], [18, 21, "PRICE"]]}
+{"text": "\ud83d\udca5124200 candypink\ud83d\udcb266k N9", "entities": [[1, 7, "REFERENCE"], [18, 21, "PRICE"]]}
+{"text": "\ud83d\udca5124300 Pikachu\ud83d\udcb2160k03/2022F.S\ud83c\udff7", "entities": [[1, 7, "REFERENCE"]]}
+{"text": "\ud83d\udca5124200 beige\ud83d\udcb257k 10/2025", "entities": [[1, 7, "REFERENCE"], [14, 17, "PRICE"], [21, 25, "YEAR"]]}
+{"text": "\ud83d\udca5226570 black\ud83d\udcb288k N6/87k N5.", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126655\ud83d\udcb2265k n8", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5126622 grey\ud83d\udcb2120k N9\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [13, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126621 cho\ud83d\udcb2148k N4", "entities": [[1, 7, "REFERENCE"], [12, 16, "PRICE"]]}
+{"text": "\ud83d\udca5226627\ud83d\udcb2177k N8", "entities": [[1, 7, "REFERENCE"], [8, 12, "PRICE"]]}
+{"text": "\ud83d\udca5228235 cho\ud83d\udcb2395k 2022", "entities": [[1, 7, "REFERENCE"], [12, 16, "PRICE"], [17, 21, "YEAR"]]}
+{"text": "\ud83d\udca55396G blue\ud83d\udcb2375k N7", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [12, 16, "PRICE"]]}
+{"text": "\ud83d\udca55396G blue\ud83d\udcb2380k N9", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [12, 16, "PRICE"]]}
+{"text": "\ud83d\udca55227G Salmon\ud83d\udcb2280k N6", "entities": [[1, 6, "REFERENCE"], [7, 13, "DIAL"], [14, 18, "PRICE"]]}
+{"text": "\ud83d\udca55524R\ud83d\udcb2320k N7", "entities": [[1, 6, "REFERENCE"], [7, 11, "PRICE"]]}
+{"text": "\ud83d\udca57300/1200A green\ud83d\udcb2175k N9", "entities": [[1, 11, "REFERENCE"], [12, 17, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca57300/1200A grey\ud83d\udcb2177k N7", "entities": [[1, 16, "REFERENCE"], [17, 21, "PRICE"]]}
+{"text": "\ud83d\udca55168G blue\ud83d\udcb2880k N9", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [12, 16, "PRICE"]]}
+{"text": "\ud83d\udca5Used 5712R\ud83d\udcb2980k 2017 F.S", "entities": [[6, 11, "REFERENCE"], [12, 16, "PRICE"], [17, 21, "YEAR"]]}
+{"text": "\ud83d\udca5Used 5711/110p-001\ud83d\udcb23.7m 2022 F.L", "entities": [[6, 15, "REFERENCE"], [20, 24, "PRICE"], [25, 29, "YEAR"]]}
+{"text": "\ud83d\udca515510OR pixel full gold\ud83d\udcb21.26m 2025", "entities": [[1, 8, "REFERENCE"], [25, 30, "PRICE"], [31, 35, "YEAR"]]}
+{"text": "\ud83d\udca515550st ice blue\ud83d\udcb2457k N7", "entities": [[1, 8, "REFERENCE"], [9, 17, "DIAL"], [18, 22, "PRICE"]]}
+{"text": "\ud83d\udca5WGTA0236\ud83d\udcb21.02m N6", "entities": [[1, 9, "REFERENCE"], [10, 15, "PRICE"]]}
+{"text": "\ud83d\udca5WJTA0060\ud83d\udcb2435k N8", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "\ud83d\udca5WGTA0235\ud83d\udcb2850k N8", "entities": [[1, 9, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "134303 grey n9 103500hkd", "entities": [[0, 6, "REFERENCE"], [15, 24, "PRICE"]]}
+{"text": "126003 grey n8 82500hkd", "entities": [[0, 6, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "126300 wim jub n9 86500hkd", "entities": [[0, 6, "REFERENCE"], [18, 26, "PRICE"]]}
+{"text": "126300 green jub n8 87500hkd", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [20, 28, "PRICE"]]}
+{"text": "126300 new blue rom jub n9 84500hkd", "entities": [[0, 6, "REFERENCE"], [11, 15, "DIAL"], [27, 35, "PRICE"]]}
+{"text": "126300 ombr\u00e9 green oys n7 83500hkd", "entities": [[0, 6, "REFERENCE"], [13, 18, "DIAL"], [26, 34, "PRICE"]]}
+{"text": "126300 ombr\u00e9 green jub n8 92500hkd", "entities": [[0, 6, "REFERENCE"], [13, 18, "DIAL"], [26, 34, "PRICE"]]}
+{"text": "126200 ombr\u00e9 green jub n6 81000hkd", "entities": [[0, 6, "REFERENCE"], [13, 18, "DIAL"], [26, 34, "PRICE"]]}
+{"text": "126710 grnr jub n9 161500hkd", "entities": [[0, 6, "REFERENCE"], [19, 28, "PRICE"]]}
+{"text": "126710 grnr oys n9 140000hkd", "entities": [[0, 6, "REFERENCE"], [19, 28, "PRICE"]]}
+{"text": "126200 wim oys n6 68500hkd", "entities": [[0, 6, "REFERENCE"], [18, 26, "PRICE"]]}
+{"text": "127334 white n9 175000hkd", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [16, 25, "PRICE"]]}
+{"text": "277200 tiff n10/2025y 73000hkd", "entities": [[0, 6, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "277200 tiff n9 76000hkd", "entities": [[0, 6, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "276200 pistachios n9 57500hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "277200 pistachios n9 61000hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "277200 lavender n8 61000hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "276200 lavender n5 57500hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "124200 blue n6 57000hkd", "entities": [[0, 6, "REFERENCE"], [7, 11, "DIAL"], [15, 23, "PRICE"]]}
+{"text": "124200 candy pink n9 65000hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "124200 pistachios n9 63500hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "126000 lavender n9 73500hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "126000 pistachios n9 74000hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "126000 candy pink n9 79500hkd", "entities": [[21, 29, "REFERENCE"]]}
+{"text": "134300 candy pink n9 79500hkd", "entities": [[21, 29, "REFERENCE"]]}
+{"text": "134300 candy pink n8 79000hkd", "entities": [[21, 29, "REFERENCE"]]}
+{"text": "134300 lavender n7 73500hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "134300 lavender n8 75000hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "134300 lavender n9 75500hkd", "entities": [[0, 6, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "134300 beige n9 71500hkd", "entities": [[0, 6, "REFERENCE"], [16, 24, "PRICE"]]}
+{"text": "134300 pistachios n9 77000hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "126680-0001 n7 178000hkd", "entities": [[0, 11, "REFERENCE"], [15, 24, "PRICE"]]}
+{"text": "79360N-0014 n9 35500hkd", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "79360N-0024 tiff n8 64500hkd", "entities": [[0, 7, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "79360N-0019 pink n7 63500hkd", "entities": [[0, 7, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "79310-0001 yellow N8 63500hkd", "entities": [[0, 6, "REFERENCE"], [21, 29, "PRICE"]]}
+{"text": "28603-0007 n5 23500hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "28603-0001 n3 21000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "91450-0001 n6 10000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "91550-0001 n7 12000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "91650-0001 n8 12000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "91650-0002 n7 12000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "28503-0007 n4 20000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "28503-0006 n4 20000hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "28603-0008 n5 24500hkd", "entities": [[0, 10, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79000B-0001 n7 28000hkd", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "79000N-0002 n6 24000hkd", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "79470-0001 n5 24000hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79643-0005 n3 25500hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79663-0001 n7 32500hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79930-0001 n8 22500hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79950-0001 n6 22800hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79950-0011 n8 19500hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79833-0001 n7 36500hkd", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "79636n-0001 n7 48000hkd", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "79360n-0013 n8 35500hkd", "entities": [[0, 7, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "Rolex 116681 \u200c- Used fullset 2022 - \u200d171\u180ek HKD\u200b", "entities": [[6, 12, "REFERENCE"], [29, 33, "YEAR"]]}
+{"text": "116508 Green, 2019, full set, missing one original bracelet link", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [14, 18, "YEAR"]]}
+{"text": "5268/200R Choco", "entities": [[0, 9, "REFERENCE"]]}
+{"text": "5269R Blue", "entities": [[0, 5, "REFERENCE"], [6, 10, "DIAL"]]}
+{"text": "336934 blue jub 2025Used 178k HKD // 22.9k USDT", "entities": [[0, 6, "REFERENCE"], [7, 11, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "126283rbr g champ jub 2023Used 150k HKD // 19.3k USDT", "entities": [[0, 6, "REFERENCE"], [26, 30, "DIAL"], [31, 35, "PRICE"]]}
+{"text": "124270 2023used 74k USDT // 58k HKD", "entities": [[0, 6, "REFERENCE"], [11, 15, "DIAL"], [16, 19, "PRICE"]]}
+{"text": "126710blnr jub 2019NOS\ud83c\udff7 $125,000", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"], [24, 32, "PRICE"]]}
+{"text": "15412or rainbow frosted gold 2025New 475k USDT // 3.69m HKD", "entities": [[0, 7, "REFERENCE"], [33, 36, "DIAL"], [37, 41, "PRICE"]]}
+{"text": "26240ba smoked yellow 2026N7 110k USDT // 860k HKD", "entities": [[0, 7, "REFERENCE"], [29, 33, "PRICE"]]}
+{"text": "26240or green leather 2026N7 74.6k USDT // 580k HKD", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [29, 34, "PRICE"]]}
+{"text": "26240st black 2026N8 59.7k USDT // 464k HKD", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "26240st green 2024New 59k USDT // 460k HKD", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 25, "PRICE"]]}
+{"text": "15550sr white 2026N7 375k HKD // 48.2k USDT", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 25, "PRICE"]]}
+{"text": "26393cr 2022used 22.4k USDT // 175k HKD", "entities": [[0, 7, "REFERENCE"], [12, 16, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "7300/1200A-011 Green 2023Like New 150k HKD", "entities": [[0, 10, "REFERENCE"], [15, 20, "DIAL"], [34, 38, "PRICE"]]}
+{"text": "5396G-014 Grey Watch Only (70series) Good Condition 225k HKD", "entities": [[0, 14, "REFERENCE"], [52, 56, "PRICE"]]}
+{"text": "WSBB0068 2026N8 $49,600 -22%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "WSBB0062 2026N8 $49,600 -21%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "WSBB0030 2026N8 $46,600 -17%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "WSBB0039 2026N8 $54,000 -22%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "WSBB0048 2026N8 $53,000 -15%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "WSBB0073 2026N8 $40,500 -22%", "entities": [[0, 8, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "103610 2026N9 $223,000 -29% (158k HKD // 20.3k USDT)", "entities": [[0, 6, "REFERENCE"], [14, 22, "PRICE"]]}
+{"text": "Adamavi 10309.02 18K Gold Factory Diamond Watch Watch Only $45,000", "entities": [[8, 13, "REFERENCE"], [59, 66, "PRICE"]]}
+{"text": "\ud83d\udca5126600 N8 $111K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126603 N8 $164.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 18, "PRICE"]]}
+{"text": "\ud83d\udca5136660 Blk N9 $113K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126710 BLRO Oys N8 $200K \ud83c\udff7\ufe0f\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5126713 W9 $171K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126715 N6 $354K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126718 Tiger N9 $635K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [17, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126719 Mete W8 $512K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126729 N7 $346K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126621 Cho N8 $149K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126680 N9 $176K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126688 W8 $482K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5226658 N7 $278K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5226659 N7 $283K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126500 Blk N7 $233K \ud83d\udeec23/9", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126500 Blk N8 $235.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126500 Blk N9 $238K \ud83d\udeec23/9", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126500 Blk N9 $238K \ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126500 White N8 $283K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126500 White W8 $283.5K \ud83e\ude9b\ud83e\udeb5\ud83d\udeec24/9", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126506 N8 $926K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126506 N8 $927K \ud83c\udff7\ufe0f\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126506 W8 $928K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5126506A W7 $1.01M \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "\ud83d\udca5126506A N8 $1.025M \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [12, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126506A W8 $1.027M \ud83c\udff7\ufe0f\ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [12, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126506A N9 $1.04M \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "\ud83d\udca5126508 Green N7 $652K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126515 Mete W8 $602K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126515 Mete N9 $604K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126515G Blk W9 $400K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126518 Blk W7 $397K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126518 Tiffany N9 $736K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126518 Tiffany W9 $737K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126518 White W8 $372K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "\ud83d\udca5126518G Blk N6 $415K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126518G Blk N7 $418K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126518G Blk W8 $421K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5126519G Blk W8 $375K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5127235 N8 $366K \ud83d\udeec24/9", "entities": [[1, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5228238 Green Roma W9 $524K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5228236A Ice Blue W9 $626K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 17, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5228239 Green Roma W8 $412K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5336239 White N5 $285K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "\ud83d\udca5336933 Blk Jub N9 $190K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5336933 Champ Jub W9 $190K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5336933 White Jub N6 $184K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5336933 White Jub N7 $185K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5336934 Blk Oys W8 $154K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5336934 White Jub N8 $167K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126200 Blk Jub N9 $78K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5126200 Blk Oys N6 $74K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5126200 Blue Index Oys N8 $70.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [26, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126200 Blue Roma Jub N8 $79.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [25, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126200 Silver Jub N9 $77.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126200 White Roma Jub N8 $76.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126200 White Roma Oys N9 $72K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 30, "PRICE"]]}
+{"text": "\ud83d\udca5126231 Cho Jub N9 $142K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126231 White Index Jub N8 $129K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [27, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126231 White Roma Jub N8 $129K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126233 White Index Jub N8 $127.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [27, 34, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Blue Index Oys N8 $87K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [26, 30, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Blue Roma Jub N9 $94K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126234 Green Oys N8 $95K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 25, "PRICE"]]}
+{"text": "\ud83d\udca5126234G Blue Oys N7 $102K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126284G Blue Jub N8 $167.5K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\ud83d\udca5126300 Blk Oys N9 $79.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 25, "PRICE"]]}
+{"text": "\ud83d\udca5126300 Blue Roma Oys N9 $77K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126300 Silver Oys N9 $77K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126300 White Roma Jub N8 $81K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 30, "PRICE"]]}
+{"text": "\ud83d\udca5126300 Wim Oys N9 $79K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 23, "PRICE"]]}
+{"text": "\ud83d\udca5126331 White Roma Jub N8 $143K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126333 Blk Jub N8 $144K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Blk Jub N9 $118K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 24, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Blue Roma Oys N6 $97K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Grey Oys N9 $108.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Ombr\u00e9 Green Oys N9 $123K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [14, 19, "DIAL"], [27, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Silver Jub N7 $109.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Silver Jub N8 $110K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126334 Silver Jub N9 $110.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126334 White Index Jub N9 $109K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [27, 32, "PRICE"]]}
+{"text": "\ud83d\udca5126334 White Roma Jub N9 $110K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126334G Grey Jub N9 $143K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278240 Green Jub N6 $72K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 25, "PRICE"]]}
+{"text": "\ud83d\udca5278271 Grey Jub N9 $121K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5278271 White Roma Jub N8 $120K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5278271G Pink Jub N9 $148K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278271G Pink Jub N9 $148.5K \ud83c\udff7\ufe0f\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278271G Silver Jub N9 $139.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5278273G Green Jub N9 $172K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5278274 Silver Jub N9 $91.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [22, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278274 White Roma Jub N9 $91K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 30, "PRICE"]]}
+{"text": "\ud83d\udca5278274G Grey Jub N9 $117K \ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278274G Grey Jub N9 $117K \ud83e\ude9b\ud83d\udeec24/9", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278274G Pink Jub N7 $121K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5278381G Cho Jub N9 $215K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5278384G Pink Jub N9 $183 \ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 8, "REFERENCE"], [21, 25, "PRICE"]]}
+{"text": "\ud83d\udca5279171 Pink Index Jub N8 $112K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5279171 Pink Index Jub N9 $112.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "\ud83d\udca5279171 White Roma Jub N4 $105.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 33, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Cho Jub N9 $135.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Green Jub N9 $134K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Purple Jub N7 $132.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Purple Jub N9 $134.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Purple Jub N9 $ 134.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "\ud83d\udca5279171G Purple Oys N6 $123K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5279173 Silver Roma Jub N8 $109K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [27, 32, "PRICE"]]}
+{"text": "\ud83d\udca5279173 White Roma Jub N9 $114K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5279174 Grey Index Jub N8 $84.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 32, "PRICE"]]}
+{"text": "\ud83d\udca5279174 Grey Roma Jub N9 $86.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [25, 31, "PRICE"]]}
+{"text": "\ud83d\udca5279174 Pink Roma Jub N9 $84K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [25, 29, "PRICE"]]}
+{"text": "\ud83d\udca5279174G Grey Jub N9 $101K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5279174G Pink Oys N5 $94.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 27, "PRICE"]]}
+{"text": "\ud83d\udca5279381G Cho Jub N8 $189K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5279381G Purple Jub N5 $189K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5279381G Purple Jub N9 $193K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5279383G Champ Jub N8 $167K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5279384G Grey Jub N8 $150K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca5279384G Pink Jub N8 $166.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "\ud83d\udca5124200 Beige N9 $61.5K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [17, 23, "PRICE"]]}
+{"text": "\ud83d\udca5124200 Blk N9 $63K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [15, 19, "PRICE"]]}
+{"text": "\ud83d\udca5124200 New Blue N8 $60.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [12, 16, "DIAL"], [20, 26, "PRICE"]]}
+{"text": "\ud83d\udca5126003 W9 $83K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 15, "PRICE"]]}
+{"text": "\ud83d\udca5134300 Multicolour N9 $143.5K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5134303 W9 $104.5K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 18, "PRICE"]]}
+{"text": "\ud83d\udca5277200 Green N8 $60.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 23, "PRICE"]]}
+{"text": "\ud83d\udca5277200 Green N8 $61K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 21, "PRICE"]]}
+{"text": "\ud83d\udca5277200 Tiffany N9 $76.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [19, 25, "PRICE"]]}
+{"text": "\ud83d\udca5124270 N8 $72K \ud83c\udff7\ufe0f\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 15, "PRICE"]]}
+{"text": "\ud83d\udca5124270 N9 $73K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 15, "PRICE"]]}
+{"text": "\ud83d\udca5124270 W9 $73.5K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 17, "PRICE"]]}
+{"text": "\ud83d\udca5224270 W9 $73K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [11, 15, "PRICE"]]}
+{"text": "\ud83d\udca5226570 White N9 $92.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 23, "PRICE"]]}
+{"text": "\ud83d\udca5226570 White W9 $93K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 21, "PRICE"]]}
+{"text": "\ud83d\udca515551ST Grey 9-2026 $440K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 20, "YEAR"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca57118/1200A GREY 9-2026 $875K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [19, 23, "YEAR"], [24, 29, "PRICE"]]}
+{"text": "\ud83d\udca52836C1A0-0101 9-2026 $17.5K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 14, "REFERENCE"], [17, 21, "YEAR"], [22, 28, "PRICE"]]}
+{"text": "\ud83d\udca52836C1A0-0102 8-2026 $17K \ud83c\udded\ud83c\uddf0", "entities": [[1, 14, "REFERENCE"], [17, 21, "YEAR"], [22, 26, "PRICE"]]}
+{"text": "\ud83d\udca52836C1A0-0102 8-2026 $17.2K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 14, "REFERENCE"], [17, 21, "YEAR"], [22, 28, "PRICE"]]}
+{"text": "\ud83d\udca54520V/210A-B128 Blue (Used) 7-2025 $248K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [17, 21, "DIAL"], [31, 35, "YEAR"], [36, 41, "PRICE"]]}
+{"text": "\ud83d\udca54520V/210A-B128 Blue 8-2026 $267K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [17, 21, "DIAL"], [24, 28, "YEAR"], [29, 34, "PRICE"]]}
+{"text": "\ud83d\udca54520V/210A-B128 Blue 9-2026 $268K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [17, 21, "DIAL"], [24, 28, "YEAR"], [29, 34, "PRICE"]]}
+{"text": "\ud83d\udca54520V/210A-B483 Blk 9-2026 $220K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [23, 27, "YEAR"], [28, 33, "PRICE"]]}
+{"text": "\ud83d\udca5116500 White Full Links 7-2020 (NFC) $231K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [27, 31, "YEAR"], [38, 43, "PRICE"]]}
+{"text": "\ud83d\udca5126331G Cho Jub Full Links 6-2022 $147K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [30, 34, "YEAR"], [35, 40, "PRICE"]]}
+{"text": "\ud83d\udca5126515G Blk 12-2024 $348K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 20, "YEAR"], [21, 26, "PRICE"]]}
+{"text": "4946R", "entities": [[0, 5, "REFERENCE"]]}
+{"text": "5990/1R", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "5712/1R", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "5810/1G", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "5610/1P", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "7010/1R purple", "entities": [[0, 7, "REFERENCE"], [8, 14, "DIAL"]]}
+{"text": "7118/1R white", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "7118/1R champ", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "86409rbr hkd1010000 full set 2016", "entities": [[0, 8, "REFERENCE"], [9, 19, "PRICE"], [29, 33, "YEAR"]]}
+{"text": "541.CM.7170.RX N7 95300 -40%", "entities": [[0, 14, "REFERENCE"], [18, 28, "PRICE"]]}
+{"text": "RM17-01\u180e RG\u200d Tuorbill\u200bon Bague\u180ett\u200ce", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "909010ln hkd97000 n9", "entities": [[0, 8, "REFERENCE"], [9, 17, "PRICE"]]}
+{"text": "\ud83d\udca5126518YML W8 $481K \ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[14, 19, "PRICE"]]}
+{"text": "Rm07-03 Blue Cupcake Fullset 20 Year / 319.000$", "entities": [[0, 7, "REFERENCE"], [8, 20, "DIAL"], [39, 47, "PRICE"]]}
+{"text": "\ud83c\udf44217.30.42.21.01.001 $64,800 less 24%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44\u200d\ud83d\udfeb217.30.42.21.01.003 $66,600 less 24%", "entities": [[3, 22, "REFERENCE"], [23, 39, "PRICE"]]}
+{"text": "\ud83c\udf44217.30.42.21.01.002 $64,800 less 24%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44\u200d\ud83d\udfeb332.10.41.51.01.002 $74,700 less 28%", "entities": [[3, 22, "REFERENCE"], [23, 39, "PRICE"]]}
+{"text": "\ud83c\udf44210.30.42.20.03.001 $46,800 less 24%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44\u200d\ud83d\udfeb210.30.42.20.01.010 $51,300 less 23%", "entities": [[3, 22, "REFERENCE"], [23, 39, "PRICE"]]}
+{"text": "\ud83c\udf44210.32.42.20.01.003 $48,600 less 23%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44\u200d\ud83d\udfeb210.32.42.20.01.006 $48,600 less 23%", "entities": [[3, 22, "REFERENCE"], [23, 39, "PRICE"]]}
+{"text": "\ud83c\udf44210.32.42.20.03.001 $44,100 less 25%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44210.30.42.20.03.002 $65,700 less 23%", "entities": [[1, 20, "REFERENCE"], [21, 37, "PRICE"]]}
+{"text": "\ud83c\udf44\u200d\ud83d\udfeb310.30.42.50.01.002 $63,000 less 19%", "entities": [[3, 22, "REFERENCE"], [23, 39, "PRICE"]]}
+{"text": "\ud83c\udf44311.30.40.30.01.001 ask price", "entities": [[1, 20, "REFERENCE"]]}
+{"text": "521.NX.5117.LR.YCM11", "entities": [[0, 20, "REFERENCE"]]}
+{"text": "Rm35-03 Tiffany blue 5120000 hkd / 655000u 2026-7", "entities": [[0, 7, "REFERENCE"], [21, 32, "PRICE"], [43, 47, "YEAR"]]}
+{"text": "Brand new 2024 Rm53-01 white polo Tourbillon 22680000 hkd / 2900000u", "entities": [[10, 14, "YEAR"], [15, 22, "REFERENCE"], [45, 57, "PRICE"]]}
+{"text": "Rm67-01 rose gold Baguette diamond 4150000 hkd / 530000u 2026", "entities": [[0, 7, "REFERENCE"], [35, 46, "PRICE"], [57, 61, "YEAR"]]}
+{"text": "Rm21-02 marshmallow 10550000 hkd /1350000u 2026", "entities": [[0, 7, "REFERENCE"], [20, 32, "PRICE"], [43, 47, "YEAR"]]}
+{"text": "New Rm30-01 blue ntpt 2880000 hkd 2025-10", "entities": [[4, 11, "REFERENCE"], [22, 33, "PRICE"], [34, 38, "YEAR"]]}
+{"text": "New 2024 fullset rm65-01 yellow ntpt 3110000 hkd / 398000u", "entities": [[4, 8, "YEAR"], [17, 24, "REFERENCE"], [37, 48, "PRICE"]]}
+{"text": "New 7128/1r 1390000 hkd 2025-7", "entities": [[4, 11, "REFERENCE"], [12, 23, "PRICE"], [24, 28, "YEAR"]]}
+{"text": "7128/1r 1420000 hkd 2026-7", "entities": [[0, 7, "REFERENCE"], [8, 19, "PRICE"], [20, 24, "YEAR"]]}
+{"text": "New 5723/1r-010 brown choco 3850000 hkd 2024", "entities": [[4, 15, "REFERENCE"], [28, 39, "PRICE"], [40, 44, "YEAR"]]}
+{"text": "New 7118/1a white 660000 hkd 2023-3", "entities": [[4, 11, "REFERENCE"], [12, 17, "DIAL"], [18, 28, "PRICE"], [29, 33, "YEAR"]]}
+{"text": "New 26598BC purple perpetual Baguette diamond 3130000 hkd / 400000u 2024", "entities": [[4, 11, "REFERENCE"], [12, 18, "DIAL"], [46, 57, "PRICE"], [68, 72, "YEAR"]]}
+{"text": "67630or onyx black diamond 778000 hkd 2026-9", "entities": [[0, 7, "REFERENCE"], [8, 18, "DIAL"], [27, 37, "PRICE"], [38, 42, "YEAR"]]}
+{"text": "77451or blue 672000 hkd 2026-7", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 23, "PRICE"], [24, 28, "YEAR"]]}
+{"text": "77605cb 715000 hkd 2026-5", "entities": [[0, 7, "REFERENCE"], [8, 18, "PRICE"], [19, 23, "YEAR"]]}
+{"text": "New 26730st grey 1080000 hkd 2022-11", "entities": [[4, 11, "REFERENCE"], [12, 16, "DIAL"], [17, 28, "PRICE"], [29, 33, "YEAR"]]}
+{"text": "New 26585CE 3150000 hkd 2021", "entities": [[4, 11, "REFERENCE"], [12, 23, "PRICE"], [24, 28, "YEAR"]]}
+{"text": "New 26607BC.OO.1220BC.02 black 1550000 hkd 2019", "entities": [[4, 24, "REFERENCE"], [25, 30, "DIAL"], [31, 42, "PRICE"], [43, 47, "YEAR"]]}
+{"text": "New 26574ST.OO.1220ST.03 ice blue 950000 hkd 2021", "entities": [[4, 24, "REFERENCE"], [25, 33, "DIAL"], [34, 44, "PRICE"], [45, 49, "YEAR"]]}
+{"text": "HPI01854 425000 hkd 2026-8 size:16", "entities": [[0, 8, "REFERENCE"], [9, 19, "PRICE"], [20, 24, "YEAR"]]}
+{"text": "New G0A23172 680000 hkd 10/2025", "entities": [[4, 12, "REFERENCE"], [13, 23, "PRICE"], [27, 31, "YEAR"]]}
+{"text": "279175NG WH", "entities": [[0, 8, "REFERENCE"]]}
+{"text": "7128/1G", "entities": [[0, 7, "REFERENCE"]]}
+{"text": "\ud83e\ude75New F.P.Journe \u00c9l\u00e9gante full drill black 40mm N3/2026y 1.6m hkd", "entities": [[36, 41, "DIAL"], [56, 64, "PRICE"]]}
+{"text": "\ud83e\ude75Used VCARN9VI00 2017y 410k hkd", "entities": [[6, 16, "REFERENCE"], [23, 31, "PRICE"]]}
+{"text": "Lange\ud83c\udf08Used 405.031 2022y 598k hkd", "entities": [[11, 18, "REFERENCE"], [25, 33, "PRICE"]]}
+{"text": "\ud83e\ude75Used HPI00776 full diamond naked 685k hkd", "entities": [[6, 14, "REFERENCE"], [34, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm30-01ti 2024y 218k usdt", "entities": [[7, 14, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm047 2022y 1.93m usdt", "entities": [[19, 29, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM011ti Midnight Fire 2022y 1.05m hkd", "entities": [[7, 12, "REFERENCE"], [35, 44, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM055ntpt 2018y 338k usdt", "entities": [[7, 12, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM35-01 white ntpt 2018y 3.98m hkd", "entities": [[7, 14, "REFERENCE"], [32, 41, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM61-01ntpt ultimate 2020y 398k usdt", "entities": [[7, 14, "REFERENCE"], [34, 43, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm35-03 tiffany blue N7/2026y 655k usdt", "entities": [[6, 13, "REFERENCE"], [36, 45, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM037RG full diamond red lip 2020y 180k usdt", "entities": [[7, 12, "REFERENCE"], [42, 51, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 white ceramic black lip 2021y 2.22m hkd", "entities": [[7, 14, "REFERENCE"], [45, 54, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM030 black ceramic 2017y 1.35m hkd", "entities": [[7, 12, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 white ceramic red lip 2019y 2.07m hkd", "entities": [[7, 14, "REFERENCE"], [43, 52, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm029 lemans 2022y  2.02m hkd", "entities": [[7, 12, "REFERENCE"], [27, 36, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM007 T diamond red lip naked 3.4m hkd", "entities": [[7, 12, "REFERENCE"], [23, 30, "DIAL"], [37, 45, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM11-03 black ntpt black warrior 2020y 2.03m hkd", "entities": [[6, 13, "REFERENCE"], [45, 54, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM65-01ntpt black 2022y 2.34m hkd", "entities": [[6, 13, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\ud83e\udd88New RMUP-01 N4/2026y 900k usdt", "entities": [[5, 12, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm07-01 wg mop N9/2026y 1.65m hkd", "entities": [[6, 13, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm53-01 White Polo 2024y 2.9m usdt", "entities": [[6, 13, "REFERENCE"], [31, 40, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM72-01 black ceramics N6/2026y 445k usdt", "entities": [[6, 13, "REFERENCE"], [38, 47, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 RG full diamond snow mop 2023y 2.8m hkd", "entities": [[7, 14, "REFERENCE"], [46, 54, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM72-01 Monaco N8/2026y 735k usdt", "entities": [[6, 13, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM74-02 N5/2026y 770k usdt", "entities": [[6, 13, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM72-01 WG half diamond 2023y 303k usdt", "entities": [[7, 14, "REFERENCE"], [37, 46, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM35-02 Red Devils 2019y card 1.71m hkd", "entities": [[6, 13, "REFERENCE"], [36, 45, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM055 white ceramic japan 2015y 2.48m hkd", "entities": [[7, 12, "REFERENCE"], [39, 48, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-03ti 2018y 185k usdt", "entities": [[7, 14, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-02 RG 2017y 173k usdt", "entities": [[7, 14, "REFERENCE"], [24, 33, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM35-02 black 2021y 335k usdt", "entities": [[7, 14, "REFERENCE"], [27, 36, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-03 black ghost 2023y 335k usdt", "entities": [[7, 14, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-01ti 2018y 148k usdt", "entities": [[7, 14, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM07-01 red ntpt red lip 2022y 240k usdt", "entities": [[6, 13, "REFERENCE"], [23, 30, "DIAL"], [37, 46, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm61-01 black ceramic white track 2015y 225k usdt", "entities": [[7, 14, "REFERENCE"], [47, 56, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm037ntpt black 2023y 185k usdt", "entities": [[7, 12, "REFERENCE"], [17, 22, "DIAL"], [29, 38, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM61-01 green track naked 1.25m hkd", "entities": [[7, 14, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm11-03ti 2020y New card 1.56m hkd", "entities": [[7, 14, "REFERENCE"], [32, 41, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm65-01rg full gold 2022y 298k usdt", "entities": [[6, 13, "REFERENCE"], [32, 41, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM52-01ntpt white 2018y 1.5m usdt", "entities": [[7, 14, "REFERENCE"], [31, 40, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM63-01 2016y 740k hkd", "entities": [[6, 13, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm011 black ntpt naked 190k usdt", "entities": [[7, 12, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM011 RG diamond Macao\ud83c\uddf2\ud83c\uddf4 2015y 1.63m hkd", "entities": [[6, 11, "REFERENCE"], [37, 46, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM055 white ceramics red china 2014y 2.73m hkd", "entities": [[6, 11, "REFERENCE"], [43, 52, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM019 fox black NTPT 2018y 7.65m hkd", "entities": [[6, 11, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM032 N7/2026y Global limited to 80 pieces / HK$960000", "entities": [[6, 11, "REFERENCE"], [51, 60, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm030ti 2023y full set 1.26m hkd", "entities": [[7, 12, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-03 McLaren naked 2m hkd", "entities": [[7, 14, "REFERENCE"], [29, 35, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM07-01 foggy night N7/2026y 2.97M hkd", "entities": [[6, 13, "REFERENCE"], [35, 44, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 black ceramics blk lip side drill 2019y,2.1m hkd", "entities": [[7, 14, "REFERENCE"], [55, 63, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM65-01 white N3/2026y 3.6m hkd", "entities": [[6, 13, "REFERENCE"], [29, 37, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm65-01 yellow 2024y 398k usdt", "entities": [[6, 13, "REFERENCE"], [27, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM023 wg full diamond,2014y 820k hkd", "entities": [[6, 11, "REFERENCE"], [34, 42, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM023 RG half diamond,2019y 780k hkd", "entities": [[6, 11, "REFERENCE"], [34, 42, "PRICE"]]}
+{"text": "\ud83c\udf08Used RM023 wg half diamond,blank card,full set 820k hkd", "entities": [[6, 11, "REFERENCE"], [48, 56, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM055 black NTPT White circle naked 310k usdt", "entities": [[7, 12, "REFERENCE"], [43, 52, "PRICE"]]}
+{"text": "\u2764\ufe0fLike New RM21-02 blue 2025y 860k usdt", "entities": [[11, 18, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM004 RG,naked,1.48m hkd", "entities": [[7, 12, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM52-06 white mask 2020y,1.5m usdt", "entities": [[7, 14, "REFERENCE"], [15, 25, "DIAL"], [32, 41, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM52-06 red mask 2020y,1.1m usdt", "entities": [[7, 14, "REFERENCE"], [15, 23, "DIAL"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM11-02 RG naked 1.28m hkd ready hk", "entities": [[7, 14, "REFERENCE"], [24, 33, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM 11-03 ultimate 2020y 365k usdt", "entities": [[31, 40, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 wg snow black lip naked 284k usdt", "entities": [[7, 14, "REFERENCE"], [23, 32, "DIAL"], [39, 48, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM07-01 Foggy Night 2025y 363k usdt", "entities": [[7, 14, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM50-03 avocado 2026y 1.95m usdt", "entities": [[6, 13, "REFERENCE"], [28, 38, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM07-01ntpt sesame Chain N5/2026y 1.65m hkd", "entities": [[6, 13, "REFERENCE"], [40, 49, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM037 white ceramic mop lip 2026y 2.09m hkd", "entities": [[6, 11, "REFERENCE"], [40, 49, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM011 ti 2022y 1.05m hkd", "entities": [[7, 12, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm11-01ti,New movement,naked,137k usdt", "entities": [[7, 14, "REFERENCE"], [36, 45, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM07-01 purple geometry N5/2026y 539k usdt", "entities": [[6, 13, "REFERENCE"], [14, 29, "DIAL"], [39, 48, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM07-01 wg snow black lip 2022y 330k usdt", "entities": [[6, 13, "REFERENCE"], [22, 31, "DIAL"], [38, 47, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm07-01 coffee ceramics red lip naked 1.26m hkd", "entities": [[7, 14, "REFERENCE"], [31, 38, "DIAL"], [45, 54, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm21-02 Marshmallow 2026y 1.35m usdt", "entities": [[6, 13, "REFERENCE"], [32, 42, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM011ntpt Felipe naked 228k usdt", "entities": [[7, 12, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fNew Rm74-02 gold chain N5/2025y 570k usdt", "entities": [[6, 13, "REFERENCE"], [34, 43, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM030rg 2021y full set 1.38m hkd", "entities": [[7, 12, "REFERENCE"], [30, 39, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed RM055 black ntpt 2017y full set 2.68m hkd", "entities": [[7, 12, "REFERENCE"], [39, 48, "PRICE"]]}
+{"text": "\u2764\ufe0fUsed Rm011ti lemans 2012y full set 1.18m hkd", "entities": [[7, 12, "REFERENCE"], [37, 46, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM30-01 white ceramic 2026y 385k usdt", "entities": [[6, 13, "REFERENCE"], [34, 43, "PRICE"]]}
+{"text": "\u2764\ufe0fNew RM30-01 blue ntpt N10/2025y 3.05m hkd ready hk", "entities": [[6, 13, "REFERENCE"], [34, 43, "PRICE"]]}
+{"text": "\ud83e\udde1New 26730ST red N7/2026y 195k usdt", "entities": [[5, 12, "REFERENCE"], [26, 35, "PRICE"]]}
+{"text": "\ud83e\udde1New 77451OR blue full gold N8/2026y 665k hkd", "entities": [[5, 12, "REFERENCE"], [13, 17, "DIAL"], [37, 45, "PRICE"]]}
+{"text": "\ud83e\udde1New 26598BC purple 2024y 400k usdt", "entities": [[5, 12, "REFERENCE"], [13, 19, "DIAL"], [26, 35, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26715st ice blue 2021y 440k hkd", "entities": [[6, 13, "REFERENCE"], [14, 22, "DIAL"], [29, 37, "PRICE"]]}
+{"text": "\ud83e\udde1New 77450BC N6/2026y 840k hkd", "entities": [[5, 12, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "\ud83e\udde1New 16204ST 2022y 50th 1.7m hkd", "entities": [[5, 12, "REFERENCE"], [24, 32, "PRICE"]]}
+{"text": "\ud83c\udf08Used 77451ST ice blue 2023y 475k hkd", "entities": [[6, 13, "REFERENCE"], [14, 22, "DIAL"], [29, 37, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26584OR salmon 2018y 1.88m hkd", "entities": [[6, 13, "REFERENCE"], [14, 20, "DIAL"], [27, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 77351OR white full gold 2021y 610k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [36, 44, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26660ST purple 2025y 1.42m hkd", "entities": [[6, 13, "REFERENCE"], [14, 20, "DIAL"], [27, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26730OR blue full gold 2022y 50th 1.62m hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [40, 49, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26606ST green 2018y 1.85m hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [26, 35, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26574ST 03 blue 2019y 815k hkd", "entities": [[6, 13, "REFERENCE"], [17, 21, "DIAL"], [28, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26574ST 02 blue 2019y 790k hkd", "entities": [[6, 13, "REFERENCE"], [17, 21, "DIAL"], [28, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26068BC wg full diamond 2011y 700k hkd", "entities": [[6, 13, "REFERENCE"], [36, 44, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26568OM 2013y 700k hkd", "entities": [[6, 13, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "\ud83c\udf08Used 56175st blue naked 150k hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [25, 33, "PRICE"]]}
+{"text": "\ud83c\udf08Used 67651ST white 2018y 282k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [26, 34, "PRICE"]]}
+{"text": "\ud83c\udf08Used 15707BC 2014y 360k HKD", "entities": [[6, 13, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "\ud83c\udf08Used 77450SR grey 2023y 318k hkd", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [25, 33, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26574OR 02 blue full gold 2018y 1.02m hkd", "entities": [[6, 13, "REFERENCE"], [17, 21, "DIAL"], [38, 47, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26574OR 03 ice blue full gold 2022y 1.21m hkd", "entities": [[6, 13, "REFERENCE"], [17, 25, "DIAL"], [42, 51, "PRICE"]]}
+{"text": "\ud83c\udf08Used 26615TI salmon 2021y 1.29m hkd", "entities": [[6, 13, "REFERENCE"], [14, 20, "DIAL"], [27, 36, "PRICE"]]}
+{"text": "\ud83e\udde1New 26674cd 2026y 3.35m hkd", "entities": [[5, 12, "REFERENCE"], [19, 28, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26715OR full gold white 2023y 710k hkd", "entities": [[6, 13, "REFERENCE"], [24, 29, "DIAL"], [36, 44, "PRICE"]]}
+{"text": "\ud83e\udde1New 26735CB white ceramic N12/2025y 1.02m usdt", "entities": [[5, 12, "REFERENCE"], [37, 47, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26609ti 2020y no box 125k usdt", "entities": [[6, 13, "REFERENCE"], [27, 36, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26715or 2023y 715k hkd", "entities": [[6, 13, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "\ud83e\udde1Brand new 26656ti,kaws ,N12/2024y,2.75M hkd ready hk", "entities": [[11, 18, "REFERENCE"], [35, 44, "PRICE"]]}
+{"text": "\ud83e\udde1New 26730ba Salted egg yolk,2024y 1.5m hkd ready hk", "entities": [[5, 12, "REFERENCE"], [35, 43, "PRICE"]]}
+{"text": "\ud83e\udde1Used 25977ST black 2016y full set 585k hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [35, 43, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26560io black 2014y full set 755K hkd", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [35, 43, "PRICE"]]}
+{"text": "\ud83e\udde1Used 26531ti salmon 2022y full set 1.9m hkd", "entities": [[6, 13, "REFERENCE"], [14, 20, "DIAL"], [36, 44, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5270/1r 2026y 170k usdt ready hk", "entities": [[5, 12, "REFERENCE"], [19, 28, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 7128/1r N8/2026y 185k usdt", "entities": [[5, 12, "REFERENCE"], [22, 31, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5990/1A-011 N8/2025y 1.225m hkd", "entities": [[5, 16, "REFERENCE"], [26, 36, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5712/1A-001 2010y 872k hkd", "entities": [[6, 17, "REFERENCE"], [24, 32, "PRICE"]]}
+{"text": "\u26bdUsed 5980/1R-001 2021y old buckle 1.57m hkd", "entities": [[6, 17, "REFERENCE"], [35, 44, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5980/1R-001 2021y New buckle1.66m hkd", "entities": [[6, 17, "REFERENCE"], [34, 43, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5980/1A-014 black 2013y 830k hkd", "entities": [[6, 17, "REFERENCE"], [18, 23, "DIAL"], [30, 38, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5980/1A-001 blue 2013y 870k hkd", "entities": [[6, 17, "REFERENCE"], [18, 22, "DIAL"], [29, 37, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5711/1R-001 2019y 1.53m hkd", "entities": [[6, 17, "REFERENCE"], [24, 33, "PRICE"]]}
+{"text": "\ud83c\udf08Used 5711/1R-001 2021y 1.62m hkd", "entities": [[6, 17, "REFERENCE"], [24, 33, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 7340/1R-010 green N8/2026y HK$530,000", "entities": [[5, 16, "REFERENCE"], [32, 42, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 6104P N2/2026y 1.05m usdt ready hk", "entities": [[5, 10, "REFERENCE"], [20, 30, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5130/1g-011 2014y 330k hkd", "entities": [[6, 17, "REFERENCE"], [24, 32, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 3970J blank card full set 1.85m hkd", "entities": [[6, 11, "REFERENCE"], [32, 41, "PRICE"]]}
+{"text": "\ud83d\udc9bNew 5723/1R-010 2024y 3.85m hkd ready hk", "entities": [[5, 16, "REFERENCE"], [23, 32, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 6104r 2021y 3.6m hkd", "entities": [[6, 11, "REFERENCE"], [18, 26, "PRICE"]]}
+{"text": "\ud83d\udc9bUsed 5060SR-010 white 2005y full set 680k hkd / 88200usdt", "entities": [[6, 16, "REFERENCE"], [17, 22, "DIAL"], [38, 46, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed 228398tbr-0043 naked 620k hkd", "entities": [[6, 20, "REFERENCE"], [27, 35, "PRICE"]]}
+{"text": "\ud83d\udc9aUsed m279458rbr-0001 2023y 750k hkd", "entities": [[7, 21, "REFERENCE"], [28, 36, "PRICE"]]}
+{"text": "\ud83e\ude75Used VC82620/000G-9924\uff0cT drill,2017y,full set,380k hkd", "entities": [[8, 23, "REFERENCE"], [47, 55, "PRICE"]]}
+{"text": "\ud83e\ude75Used VC57545 wg only watch 300k hkd", "entities": [[8, 13, "REFERENCE"], [28, 36, "PRICE"]]}
+{"text": "Roger Dubuis \ud83e\ude75Used RDDBEX0398 2014y 1.45m hkd", "entities": [[19, 29, "REFERENCE"], [36, 45, "PRICE"]]}
+{"text": "\ud83e\udeb7Used RDDBEX0404 2018y full set 460k hkd", "entities": [[6, 16, "REFERENCE"], [32, 40, "PRICE"]]}
+{"text": "\ud83e\ude75Used 145.029 2021y 770k hkd", "entities": [[6, 13, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "\ud83e\ude75New 236.049 blank card 230k hkd", "entities": [[5, 12, "REFERENCE"], [24, 32, "PRICE"]]}
+{"text": "\ud83e\ude75Used HPI00653 naked 432k usdt", "entities": [[6, 14, "REFERENCE"], [21, 30, "PRICE"]]}
+{"text": "\ud83e\ude75Used BU200.21.AE.AB.ABCFA 2020y 1.45m hkd", "entities": [[6, 26, "REFERENCE"], [33, 42, "PRICE"]]}
+{"text": "IWC\ud83e\ude75 IW186812 Naked 200K Usdt", "entities": [[5, 13, "REFERENCE"], [20, 29, "PRICE"]]}
+{"text": "\ud83e\ude75New V32-S6-SQT-COL-D-5N-BU\nN8/2026y 248k hkd", "entities": [[5, 27, "REFERENCE"], [37, 45, "PRICE"]]}
+{"text": "\ud83e\ude75Jaeger-LeCoultre - Ref. 270.2.68\nReverso 1993y full set 550k hkd", "entities": [[25, 33, "REFERENCE"], [57, 65, "PRICE"]]}
+{"text": "\ud83e\ude75Used 525.wx.9004.lr.9904 t diamond 2018y 1.6m hkd", "entities": [[6, 25, "REFERENCE"], [42, 50, "PRICE"]]}
+{"text": "\ud83e\ude75Used WA504051 t drill naked 1.55m hkd", "entities": [[6, 14, "REFERENCE"], [29, 38, "PRICE"]]}
+{"text": "\ud83d\udca5126508yml\ud83d\udcb2545k N8\ud83e\udeb5", "entities": [[1, 7, "REFERENCE"], [10, 15, "PRICE"]]}
+{"text": "\ud83d\udca5126579RBR NG\ud83d\udcb2635k N9", "entities": [[1, 10, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83d\udca5128238AOmbr\u00e9green\ud83d\udcb2400k\ud83c\udff724y", "entities": [[1, 7, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83d\udca5128345RBR Turquoise\ud83d\udcb21.18m N2", "entities": [[1, 10, "REFERENCE"], [11, 20, "DIAL"], [20, 26, "PRICE"]]}
+{"text": "\ud83d\udca5128349RBR A ombre blue\ud83d\udcb2425kN2", "entities": [[1, 10, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5128396TBR A ice\ud83d\udcb2660k N8", "entities": [[1, 10, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5228345RBR pave\ud83d\udcb2718k N8", "entities": [[1, 10, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5228396TBR METE\ud83d\udcb21.02m N4", "entities": [[1, 10, "REFERENCE"], [15, 21, "PRICE"]]}
+{"text": "\ud83d\udca5228396TBR ice rom\ud83d\udcb2880k N1F.s", "entities": [[1, 10, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83d\udca5126720VTNR jub\ud83d\udcb2133k N8\ud83c\udff7", "entities": [[1, 11, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5126729VTNR\ud83d\udcb2348k N5", "entities": [[1, 11, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "\ud83d\udca5127286TBR\ud83d\udcb2860k N6", "entities": [[1, 10, "REFERENCE"], [10, 15, "PRICE"]]}
+{"text": "\ud83d\udca5126233green index jub\ud83d\udcb2124k N6\ud83c\udff7.", "entities": [[1, 7, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5126334bright blue rom oys\ud83d\udcb2105k n7", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126284RBR vixi pink jub\ud83d\udcb2173k N7", "entities": [[1, 10, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83d\udca5279135RBR NG\ud83d\udcb2405k N5", "entities": [[1, 10, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83d\udca5278288RBR G red\ud83d\udcb2435k N12", "entities": [[1, 10, "REFERENCE"], [13, 16, "DIAL"], [16, 21, "PRICE"]]}
+{"text": "\ud83d\udca5278271vi purple jub\ud83d\udcb2143k n5", "entities": [[1, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5278271vi purple jub\ud83d\udcb2146k N9", "entities": [[1, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5278271Vi grey jub\ud83d\udcb2139k N8", "entities": [[1, 7, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83d\udca5278274NG white\ud83d\udcb2117k N7\ud83c\udff7F.s.", "entities": [[1, 9, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5278274NG white\ud83d\udcb2118k N8\ud83c\udff7.", "entities": [[1, 9, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83d\udca5278274vi purple jub\ud83d\udcb2108k N7", "entities": [[1, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "\ud83d\udca5226668TBR pave\ud83d\udcb21.15m 08/2025", "entities": [[1, 10, "REFERENCE"], [15, 21, "PRICE"], [25, 29, "YEAR"]]}
+{"text": "\ud83d\udca5909010LN\ud83d\udcb299k N7\ud83e\udeb5", "entities": [[1, 9, "REFERENCE"], [9, 13, "PRICE"]]}
+{"text": "\ud83d\udca5218399BR\ud83d\udcb2880k 2011", "entities": [[1, 9, "REFERENCE"], [9, 14, "PRICE"], [15, 19, "YEAR"]]}
+{"text": "\ud83d\udca56196P\ud83d\udcb2368k N8", "entities": [[1, 6, "REFERENCE"], [6, 11, "PRICE"]]}
+{"text": "\ud83d\udca56102R\ud83d\udcb22.88m N8", "entities": [[1, 6, "REFERENCE"], [6, 12, "PRICE"]]}
+{"text": "\ud83d\udca57129J red\ud83d\udcb2370k N8", "entities": [[1, 6, "REFERENCE"], [7, 10, "DIAL"], [10, 15, "PRICE"]]}
+{"text": "\ud83d\udca57128/1G\ud83d\udcb21.05m 08/2026", "entities": [[1, 8, "REFERENCE"], [8, 14, "PRICE"], [18, 22, "YEAR"]]}
+{"text": "\ud83d\udca57128/1R\ud83d\udcb21.45m 09/2026", "entities": [[1, 8, "REFERENCE"], [8, 14, "PRICE"], [18, 22, "YEAR"]]}
+{"text": "\ud83d\udca5RM07-01 snow wg black Lips\ud83d\udcb22.85m 07/2026", "entities": [[1, 8, "REFERENCE"], [17, 26, "DIAL"], [27, 33, "PRICE"], [37, 41, "YEAR"]]}
+{"text": "\ud83d\udca5Used RM030 RG\ud83d\udcb21.38m 2019y F.s", "entities": [[6, 11, "REFERENCE"], [14, 20, "PRICE"]]}
+{"text": "\ud83d\udca5VC4307V/220R-237C\ud83d\udcb23.35M 05/2026", "entities": [[3, 18, "REFERENCE"], [18, 24, "PRICE"], [28, 32, "YEAR"]]}
+{"text": "snoop n8 105500hkd with box", "entities": [[9, 18, "PRICE"]]}
+{"text": "2543C1A7NU-0001 n6 36000hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "7939A1A0NU-0001 n9 32000hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "7943A1A0NU-0002 n9 26500hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "25707kn-0001 n6 21000hkd", "entities": [[0, 12, "REFERENCE"], [16, 24, "PRICE"]]}
+{"text": "7939A1A0RU-0002 n8 26800hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "7939G1A0NRU-0003 n8 33000hkd", "entities": [[0, 16, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "7941A1A0RU-0003 n4 27000hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "7941A1A0NU-0001 n8 30000hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "7941A1A0RU-0002 n6 26000hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "2542G267NU-0002 n8 35500hkd", "entities": [[0, 15, "REFERENCE"], [19, 27, "PRICE"]]}
+{"text": "77451or blue 2026N3 88.9k USDT // 690k HKD", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [34, 42, "PRICE"]]}
+{"text": "77450bc 2026N3 109.5k USDT // 850k HKD", "entities": [[0, 7, "REFERENCE"], [30, 38, "PRICE"]]}
+{"text": "77350ce 2026N8 65.6k USDT // 510k HKD", "entities": [[0, 7, "REFERENCE"], [29, 37, "PRICE"]]}
+{"text": "26660st purple 2025used 180k USDT // 1.4m HKD", "entities": [[0, 7, "REFERENCE"], [8, 14, "DIAL"], [37, 45, "PRICE"]]}
+{"text": "26735st 2023New $2m HKD", "entities": [[0, 7, "REFERENCE"], [16, 23, "PRICE"]]}
+{"text": "26589io blue 2019Used 800k HKD //102.9k USDT", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [22, 30, "PRICE"]]}
+{"text": "67540sk white blank paper card (I series, about 2013) 145k HKD // 18.6k USDT", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [48, 52, "YEAR"], [54, 62, "PRICE"]]}
+{"text": "HPI01789 2026N4 66.9k USDT // 520k HKD", "entities": [[0, 8, "REFERENCE"], [30, 38, "PRICE"]]}
+{"text": "8928BB/8D/944/DD0D3L N12 $384,500 -48%", "entities": [[0, 20, "REFERENCE"], [25, 38, "PRICE"]]}
+{"text": "VCARO90100 2025Used $125,000", "entities": [[0, 10, "REFERENCE"], [20, 28, "PRICE"]]}
+{"text": "507.JX.0800.RT.TAK21 Takashi Murakami Sapphire Rainbow LTD100 2021Used Full Set 120k usdt // 930k HKD", "entities": [[0, 20, "REFERENCE"], [93, 101, "PRICE"]]}
+{"text": "428.NX.0100.RX.SRA22 Tourbillon Samuel Ross\n2022used 65.9k usdt // 512k hkd", "entities": [[0, 20, "REFERENCE"], [67, 75, "PRICE"]]}
+{"text": "\ud83d\udca5126508YML W8 $540K \ud83e\ude9b\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [14, 19, "PRICE"]]}
+{"text": "\ud83d\udca5126518PN W9 $393K \ud83c\udff7\ufe0f\ud83e\udeb5\ud83c\udded\ud83c\uddf0", "entities": [[13, 18, "PRICE"]]}
+{"text": "\ud83d\udca5126231VIIX Pink Jub N9 $158K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Pink Jub N8 $116.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Pink Oys N8 $107.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VI Purple Jub N9 $113.5K \ud83c\udff7\ufe0f\ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 7, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Silver Jub N8 $110K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Silver Jub N9 $110K\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Silver Jub N9 $110K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126234VIIX Silver Oys N8 $101K \ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "\ud83d\udca5126281NG White Jub N6 $202K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278271NG White Jub N8 $149.5K \ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 9, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5278271NG White Jub N9 $150K \ud83c\udff7\ufe0f\ud83d\udeec23/9", "entities": [[1, 9, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278274VI Grey Jub N8 $102K\ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5278274VI Purple Jub N8 $105K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83d\udca5278274VI Purple Jub N9 $105.5K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "\ud83d\udca5278383NG White Jub N9 $203K \ud83c\udded\ud83c\uddf0", "entities": [[1, 9, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278384NG White Jub N8 $169K \ud83c\udff7\ufe0f\ud83c\udded\ud83c\uddf0", "entities": [[1, 9, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca5278384VI Grey Jub N5 $156K \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 7, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83d\udca5279171NG White Jub N9 $136.5K \ud83e\ude9b\ud83d\udeec23/9", "entities": [[1, 9, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\ud83d\udca5279384NG White Jub N9 $159K \ud83e\ude9b\ud83d\udeec24/9", "entities": [[1, 9, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83d\udca55990/1A Blue 8-2026 $1.28M \ud83e\ude9b\ud83c\udded\ud83c\uddf0", "entities": [[1, 5, "REFERENCE"], [9, 13, "DIAL"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "\ud83d\udca57118/1A Grey 8-2026 $635K \ud83c\udded\ud83c\uddf0", "entities": [[1, 8, "REFERENCE"], [16, 20, "YEAR"], [21, 26, "PRICE"]]}
+{"text": "\ud83d\udca57941A1ACNU-0001 7-2026 $51K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [19, 23, "YEAR"], [24, 28, "PRICE"]]}
+{"text": "\ud83d\udca57941A1ACNU-0001 8-2026 $51.5K \ud83c\udded\ud83c\uddf0", "entities": [[1, 16, "REFERENCE"], [19, 23, "YEAR"], [24, 30, "PRICE"]]}
+{"text": "5905R Blue N8 500000HKD", "entities": [[0, 5, "REFERENCE"], [6, 10, "DIAL"], [14, 23, "PRICE"]]}
+{"text": "\ud83d\udd25Vacheron Constantin 4200H/222A-B934 N2/2026Y New HKD375K", "entities": [[21, 36, "REFERENCE"], [50, 57, "PRICE"]]}
+{"text": "hi 126334 green jb n7 available?", "entities": [[3, 9, "REFERENCE"], [10, 15, "DIAL"]]}
+{"text": "126518 Tiffany 2026 used fullset  hkd721k", "entities": [[0, 6, "REFERENCE"], [15, 19, "YEAR"], [34, 41, "PRICE"]]}
+{"text": "4200H/222A-B934 used2025y hkd352k", "entities": [[0, 15, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "4200H/222J-B935 2024y hkd520k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "85180/000R-9166 2019y hkd110k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "85180/000R-B515 2023y hkd152k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "88172/000P-9495 naked hkd1.89m", "entities": [[0, 15, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "81576/V01R-9695 2015y hkd195k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "43175/000R-9687 2023y hkd302k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "43175/000R-B519 2022y hkd325k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "43175/000R-B343 2021y hkd275k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "82172/000R-H008 2023y hkd149k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4010T/000R-B344 2021y hkd205k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4010T/000G-B740 2023y hkd190k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4010T/000P-B345 2019y hkd293k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4020T/000R-B654 2023y hkd308k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "80172/000R-9300 2010y hkd2.36m", "entities": [[0, 15, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "86060/000R-8985 2023y hkd174k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "86060/000R-9640 2017y hkd159k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "86060/000G-8982 naked hkd146k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "47192/000G-9504 2010y hkd141k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "47192/000R-9352 2016y hkd157k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "47292/000R-9392 2017y hkd380k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "43578/000G-9393 2016y hkd167k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "43172/000R-9241 2018y hkd550k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5000T/000P-B975 2023y hkd760k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5000T/000R-B304 2017y hkd378k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5000T/000P-B048 naked hkd505k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "6000T/000R-B972 2022y hkd763k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "6000T/000R-B346 2023y hkd531k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "89000/000R-9655 2021y hkd642k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4600E/110A-B487 2022y hkd91k", "entities": [[0, 15, "REFERENCE"], [22, 28, "PRICE"]]}
+{"text": "4000E/000A-B548 2024y hkd128k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4000E/000A-B439 2019y hkd108k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4000E/000A-B548 2023y hkd118k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "47040/B01A-9093 2013y hkd118k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "49150/B01A-9097 2018y hkd125k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "49150/B01A-9095 2016y hkd123k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "49150/000R-9338 2016y hkd220k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4500V/110a-B128 2023y hkd238k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4500V/110A-B483 2023y hkd193k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4500V/000R-B127 2022y hkd268k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4500V/110R-B705 2023y hkd427k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4520V/210A-B128 2025y hkd260k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4520V/210A-B483 2025y hkd213k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4520V/210R-B705 2025y hkd479k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4520V/210R-B967 2024y hkd460k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5500V/210A-B481 2022y hkd206k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5500V/110A-B148 2020y hkd219k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5500V/110A-B686 2023y hkd240k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5500V/000R-B074 2019y hkd294k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5520v/210a white 2025y hkd260k", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"], [23, 30, "PRICE"]]}
+{"text": "5520v/210a black 2024y hkd251k", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"], [23, 30, "PRICE"]]}
+{"text": "5520v/210r green 2025y hkd597k", "entities": [[0, 10, "REFERENCE"], [11, 16, "DIAL"], [23, 30, "PRICE"]]}
+{"text": "4300V/120G-B946 2023y hkd1.06m", "entities": [[0, 15, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "4300V/120R-B509 2022y hkd767k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4300V/000R-B064 2021y hkd495k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4300V/120R-B547 new2023y hkd1.16m", "entities": [[0, 15, "REFERENCE"], [25, 33, "PRICE"]]}
+{"text": "4300V/220R-B642 2023y hkd1.22m", "entities": [[0, 15, "REFERENCE"], [22, 30, "PRICE"]]}
+{"text": "4300V/220R-B547 new2026y hkd1.21m", "entities": [[0, 15, "REFERENCE"], [25, 33, "PRICE"]]}
+{"text": "7700v/110a-b172 new2018y hkd217k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "7900V/110A-B333 new2019y hkd199k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "7900V/110A-B546 new2022y hkd217k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "7920v/210a blue 2024y hkd291k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "7930v/210t brown new2026y hkd418k", "entities": [[0, 10, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "2500V/210P-H028 new2026y hkd1.11m", "entities": [[0, 15, "REFERENCE"], [25, 33, "PRICE"]]}
+{"text": "49020/000R-9753 2017y hkd414k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "6000V/110A-B544 2023y hkd689k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4600V/200A-B980 2025y hkd172k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4600V/200R-B979 2024y hkd336k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4600V/200R-H134 2025y hkd348k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4605V/200A-B971 2023y hkd210k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4605V/200R-B969 2025y hkd435k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4605V/200R-B978 2024y hkd415k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4605V/200R-B968 new2025y hkd423k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "1225V/200A-B590 2024y hkd117k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "1225V/000R-B592 2025y hkd228k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "1225V/000R-H014 new2024y hkd262k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "3110V/000A-B42 new2026y hkd157k", "entities": [[0, 10, "REFERENCE"], [24, 31, "PRICE"]]}
+{"text": "86073/000P-B982 new2024y hkd999k", "entities": [[0, 15, "REFERENCE"], [25, 32, "PRICE"]]}
+{"text": "86073/000R-9889 2015y hkd836k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "7000M/000R-B109 2024y hkd159k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "30130/000R-9754 2017y hkd348k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "82230/000R-9963 2018y hkd79k", "entities": [[0, 15, "REFERENCE"], [22, 28, "PRICE"]]}
+{"text": "30135/000R-8973 2016y hkd650k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "47112/000J-8913 2004y hkd435k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "82035/000R-9359 2020y hkd192k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "3100V/000R-B422 2018y hkd200k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "7810S/000R-B051 2015y hkd183k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "7810S/000R-B141 2018y hkd134k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "16202XT N7 1.53M", "entities": [[0, 7, "REFERENCE"], [11, 16, "PRICE"]]}
+{"text": "26240ST Green", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"]]}
+{"text": "\u2764\ufe0f278273G Green Diamond Jub N7  171,000", "entities": [[2, 9, "REFERENCE"], [32, 39, "PRICE"]]}
+{"text": "\u2764\ufe0f128238A Green Ombre diamond N8 440,000", "entities": [[2, 9, "REFERENCE"], [33, 40, "PRICE"]]}
+{"text": "\u2764\ufe0f128238A Green Ombre diamond N9 442,000", "entities": [[2, 9, "REFERENCE"], [33, 40, "PRICE"]]}
+{"text": "\u2764\ufe0f128238A Bright Green Diamond N8  455,000", "entities": [[2, 9, "REFERENCE"], [35, 42, "PRICE"]]}
+{"text": "\u2764\ufe0f228238 Ombre Green Roman N7  486,000", "entities": [[2, 8, "REFERENCE"], [9, 20, "DIAL"], [31, 38, "PRICE"]]}
+{"text": "\u2764\ufe0f228238 Ombre Green Roman N9 492,000", "entities": [[2, 8, "REFERENCE"], [9, 20, "DIAL"], [30, 37, "PRICE"]]}
+{"text": "\u2764\ufe0f126505 Choco N9  475,000", "entities": [[2, 8, "REFERENCE"], [19, 26, "PRICE"]]}
+{"text": "\u2764\ufe0f228238 Green Roman N9 526,000", "entities": [[2, 8, "REFERENCE"], [9, 14, "DIAL"], [24, 31, "PRICE"]]}
+{"text": "\u2764\ufe0f228238 Green Roman N9  529,000", "entities": [[2, 8, "REFERENCE"], [9, 14, "DIAL"], [25, 32, "PRICE"]]}
+{"text": "\u2764\ufe0f228238 Green Roman N9  530,000", "entities": [[2, 8, "REFERENCE"], [9, 14, "DIAL"], [25, 32, "PRICE"]]}
+{"text": "\u2764\ufe0f126508 YML N6  536,000", "entities": [[2, 8, "REFERENCE"], [17, 24, "PRICE"]]}
+{"text": "\u2764\ufe0f126508 YML N9  546,000", "entities": [[2, 8, "REFERENCE"], [17, 24, "PRICE"]]}
+{"text": "\u2764\ufe0f126508 YML N8  543,000", "entities": [[2, 8, "REFERENCE"], [17, 24, "PRICE"]]}
+{"text": "\u2764\ufe0f126508 YML N9  554,000", "entities": [[2, 8, "REFERENCE"], [17, 24, "PRICE"]]}
+{"text": "\u2764\ufe0f228238A Black Diamond N5  566,000", "entities": [[2, 9, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u2764\ufe0f228238A Black Diamond N8  578,000", "entities": [[2, 9, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u2764\ufe0f228238A Black Diamond N8 580,000", "entities": [[2, 9, "REFERENCE"], [27, 34, "PRICE"]]}
+{"text": "\u2764\ufe0f228238A Black Diamond N9  584,000", "entities": [[2, 9, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u2764\ufe0f126506 N8  926,000", "entities": [[2, 8, "REFERENCE"], [13, 20, "PRICE"]]}
+{"text": "\u2764\ufe0f126506A diamond N8   1.026mil", "entities": [[2, 9, "REFERENCE"]]}
+{"text": "\u2764\ufe0f5261R blue new N6 1.388mil", "entities": [[2, 7, "REFERENCE"], [8, 12, "DIAL"]]}
+{"text": "126518 tiffany & 126508 green New 2026", "entities": [[0, 6, "REFERENCE"], [17, 23, "PRICE"], [34, 38, "YEAR"]]}
+{"text": "4200H/222A-B934  8/2026 HKD386K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "7930V/210T-H074   9/2026  HKD420K", "entities": [[0, 15, "REFERENCE"], [20, 24, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "4600E/000A-B442  7/2026  HKD104K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "1225V/200R-H015  7/2026  HKD321K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "4000V/210A-B911 8/2026   HKD382k", "entities": [[0, 15, "REFERENCE"], [18, 22, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "7920V/210R-B965  2/2026  HKD597K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "4605V/200R-B978 7/2026  HKD473K", "entities": [[0, 15, "REFERENCE"], [18, 22, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "7930V/210T-H073  3/2026  HKD415K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "5000H/000A-B582 2023y(new)  HKD286K", "entities": [[0, 15, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "4600E/000R-H101  1/2026 HKD176K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4605V/200A-B971  7/2026  HKD249K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "1225V/200R-H031  7/2026  HKD348K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "4600E/000R-H101  5/2026  HKD174K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "85180/000R-9248  8/2026  HKD231K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "8005F/000R-B498  6/2026  HKD280K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "4600E/000R-H101  1/2026  HKD176K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "4110U/000G-B906  2025(new) HKD148K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [27, 34, "PRICE"]]}
+{"text": "4600E/000A-B487 5/2026  HKD102K", "entities": [[0, 15, "REFERENCE"], [18, 22, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4605V/200R-B969  11/25(new)  HKD479k", "entities": [[0, 15, "REFERENCE"], [29, 36, "PRICE"]]}
+{"text": "4300V/220R-B547  1/2026  HKD 1.234m", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [25, 35, "PRICE"]]}
+{"text": "7930V/210T-H073   2026y   HKD407k", "entities": [[0, 15, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "126515ln meteroite", "entities": [[0, 8, "REFERENCE"]]}
+{"text": "126518ln meteroite", "entities": [[0, 8, "REFERENCE"]]}
+{"text": "126519ln meteroite", "entities": [[0, 8, "REFERENCE"]]}
+{"text": "\u231a26238CE.OO.1300CE.02 2026y hkd706k", "entities": [[1, 8, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u231a26400so salmon 2018y hkd188k", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\u231a26238ti green 2022y hkd228k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26238ti grey 2021y hkd247k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26238st blue 2023y hkd268k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26238st Tiffany 2022y hkd287k", "entities": [[1, 8, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "\u231a26238or 2021y hkd621k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26238CE.OO.1300CE.01 2024y hkd575k", "entities": [[1, 8, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u231a26238CE.OO.1300CE.02 new2026y hkd707k", "entities": [[1, 8, "REFERENCE"], [31, 38, "PRICE"]]}
+{"text": "\u231a26393st green new2025y hkd156k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [24, 31, "PRICE"]]}
+{"text": "\u231a26393NR Smoky grey 2023y hkd220k", "entities": [[1, 8, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "\u231a26393NB Smoky grey 2022y hkd186k", "entities": [[1, 8, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "\u231a26393bc Smoky Blue 2023y hkd198k", "entities": [[1, 8, "REFERENCE"], [15, 19, "DIAL"], [26, 33, "PRICE"]]}
+{"text": "\u231a26393cr Silver 2024y hkd184k", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\u231a26393cr black 2024y hkd190k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26393qt 2024y hkd204k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26400io grey 2021y hkd165k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26400io Blue eyes 2021y hkd202k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [25, 32, "PRICE"]]}
+{"text": "\u231a26400so green 2020y hkd218k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26400so Salmon 2018y hkd186k", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\u231a26401ro black 2021y hkd237k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26401ro brown 2019y hkd317k", "entities": [[1, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "\u231a26401po blue 2016y hkd265k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26405nr 2020y hkd305k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26405ce green 2022y hkd264k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26405ce black 2019y hkd180k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26405ce blue 2020y hkd248k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26405cg grey 2021y hkd221k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26420ro 2022y hkd328k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26420ti 2023y hkd211k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26420io grey 2023y hkd252k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26420so Smoke grey 2022y hkd229k", "entities": [[1, 8, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "\u231a26420so black 2023y hkd199k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26420so blue 2026y hkd281k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26420st brown 2025y hkd274k", "entities": [[1, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "\u231a26420ce blue 2024y hkd352k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26420ce green 2026y hkd375k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26420CE.OO.A005VE.01 2024y hkd373k", "entities": [[1, 8, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u231a26420CE.OO.A127CR.01 2023y hkd310k", "entities": [[1, 8, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u231a26470st brown 2017y hkd155k", "entities": [[1, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "\u231a26470st grey 2016y hkd148k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26470st black 2016y hkd140k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26470st white /brown eyes 2015y hkd144k", "entities": [[1, 8, "REFERENCE"], [33, 40, "PRICE"]]}
+{"text": "\u231a26470st blue/white eyes 2018y hkd154k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [31, 38, "PRICE"]]}
+{"text": "\u231a26470st brown/blue eyes 2020y hkd149k", "entities": [[1, 8, "REFERENCE"], [31, 38, "PRICE"]]}
+{"text": "\u231a26470st black/blue eyes 2020y hkd154k", "entities": [[1, 8, "REFERENCE"], [15, 19, "DIAL"], [31, 38, "PRICE"]]}
+{"text": "\u231a26470io 2020y hkd186k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26470so 2020y hkd178k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26470or leather champ 2017y hkd220k", "entities": [[1, 8, "REFERENCE"], [29, 36, "PRICE"]]}
+{"text": "\u231a26470or full gold champ 2017y hkd463k", "entities": [[1, 8, "REFERENCE"], [31, 38, "PRICE"]]}
+{"text": "\u231a26470or leather grey 2021y hkd261k", "entities": [[1, 8, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "\u231a26480ti 2020y hkd174k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26231st white 2018y hkd457k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26231st black 2016y hkd210k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26231st blue 2022y hkd221k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26231st pink 2018y hkd247k", "entities": [[1, 8, "REFERENCE"], [20, 27, "PRICE"]]}
+{"text": "\u231a26231st green 2018y hkd281k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26231st salmon 2023y hkd297k", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\u231a26231or white/grey 2020y hkd386k", "entities": [[1, 8, "REFERENCE"], [26, 33, "PRICE"]]}
+{"text": "\u231a26231or white 2017y hkd331k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26231or ice blue 2024y hkd562k", "entities": [[1, 8, "REFERENCE"], [9, 17, "DIAL"], [24, 31, "PRICE"]]}
+{"text": "\u231a26231ba blue 2019y hkd369k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26234sr 2020y hkd345k", "entities": [[1, 8, "REFERENCE"], [15, 22, "PRICE"]]}
+{"text": "\u231a26236OR black 2023y hkd922k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "\u231a26236OR Salmon 2021y hkd870k", "entities": [[1, 8, "REFERENCE"], [9, 15, "DIAL"], [22, 29, "PRICE"]]}
+{"text": "\u231a26236OR blue 2019y hkd773k", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"], [20, 27, "PRICE"]]}
+{"text": "\u231a26348io 2017y hkd1.00m", "entities": [[1, 8, "REFERENCE"], [15, 23, "PRICE"]]}
+{"text": "\u231a26380or white hkd96k 26380bc white hkd89k", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [15, 21, "PRICE"]]}
+{"text": "124060 n9 $96k\ud83c\udff7\ufe0f", "entities": [[0, 6, "REFERENCE"], [10, 14, "PRICE"]]}
+{"text": "79360n pink jub n8 $64000", "entities": [[0, 6, "REFERENCE"], [19, 25, "PRICE"]]}
+{"text": "79950\u20110008 n9 $24500", "entities": [[0, 5, "REFERENCE"], [14, 20, "PRICE"]]}
+{"text": "7939A1A0NU\u20110003 n9 $28000", "entities": [[19, 25, "PRICE"]]}
+{"text": "7941A1A0RU\u20110003 n9 $30000", "entities": [[19, 25, "PRICE"]]}
+{"text": "278383g green jub n9 $226.5k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [21, 28, "PRICE"]]}
+{"text": "126508 green n9 $660k", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [16, 21, "PRICE"]]}
+{"text": "126503g black N9 $225k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [17, 22, "PRICE"]]}
+{"text": "126334 ombre green jub n9 $142.5k", "entities": [[0, 6, "REFERENCE"], [7, 18, "DIAL"], [26, 33, "PRICE"]]}
+{"text": "126334 blue jub n9 $120k", "entities": [[0, 6, "REFERENCE"], [7, 11, "DIAL"], [19, 24, "PRICE"]]}
+{"text": "126334 mint green jub n9 $131k", "entities": [[0, 6, "REFERENCE"], [7, 17, "DIAL"], [25, 30, "PRICE"]]}
+{"text": "126515g blk n9 \ud83e\udeb5400k", "entities": [[0, 7, "REFERENCE"], [16, 20, "PRICE"]]}
+{"text": "126710blro oys N8 \ud83c\udff7 $200k", "entities": [[0, 6, "REFERENCE"], [6, 10, "DIAL"], [20, 25, "PRICE"]]}
+{"text": "228238 ombre green n8 \ud83e\udeb5 $485k", "entities": [[0, 6, "REFERENCE"], [7, 18, "DIAL"], [24, 29, "PRICE"]]}
+{"text": "128348 pave rainbow n8 \ud83e\udeb5 $820k", "entities": [[0, 6, "REFERENCE"], [25, 30, "PRICE"]]}
+{"text": "228348 ombre green n9 \ud83e\udeb5$630k", "entities": [[0, 6, "REFERENCE"], [7, 18, "DIAL"], [23, 28, "PRICE"]]}
+{"text": "228348 ombre green n9 \ud83e\udeb5 $630k", "entities": [[0, 6, "REFERENCE"], [7, 18, "DIAL"], [24, 29, "PRICE"]]}
+{"text": "278271 vi purple jub n9\ud83c\udff7\ufe0f $148k", "entities": [[0, 6, "REFERENCE"], [26, 31, "PRICE"]]}
+{"text": "278273g grey jub n9 $141k", "entities": [[0, 7, "REFERENCE"], [20, 25, "PRICE"]]}
+{"text": "278381 vi cho jub n9 $210k", "entities": [[0, 6, "REFERENCE"], [21, 26, "PRICE"]]}
+{"text": "278383 vi green jub n9 $211k", "entities": [[0, 6, "REFERENCE"], [10, 15, "DIAL"], [23, 28, "PRICE"]]}
+{"text": "wgba0077 n8 $130000\u201119%", "entities": [[0, 8, "REFERENCE"], [12, 19, "PRICE"]]}
+{"text": "wgba0045/wgba0078 n8 $130000 -21%", "entities": [[0, 8, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "wgpn0059 n9 $209000 -22%", "entities": [[0, 8, "REFERENCE"], [12, 19, "PRICE"]]}
+{"text": "W3pn0015 n7 $127000 -14.5%", "entities": [[13, 19, "REFERENCE"]]}
+{"text": "wsta0108 n8 $30400\u20115%", "entities": [[0, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "Wspn0012 n8 $33200 -12%", "entities": [[0, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "wssa0029  n9 $63000 -12%", "entities": [[0, 8, "REFERENCE"], [13, 19, "PRICE"]]}
+{"text": "wssa0061 n9 $63000 -15%", "entities": [[0, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "wssa0062 n9 $68500 -16%", "entities": [[0, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "wssa0071 n9 $68500 -13%", "entities": [[0, 8, "REFERENCE"], [12, 18, "PRICE"]]}
+{"text": "336238 green n7 388k", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [16, 20, "PRICE"]]}
+{"text": "336938 green oys n5 518k", "entities": [[0, 6, "REFERENCE"], [7, 12, "DIAL"], [20, 24, "PRICE"]]}
+{"text": "336935 grey jub n8 535k\ud83e\udeb5", "entities": [[0, 6, "REFERENCE"], [19, 23, "PRICE"]]}
+{"text": "336935 choco jub n9 540k  9/18\ud83c\udded\ud83c\uddf0", "entities": [[0, 6, "REFERENCE"], [20, 24, "PRICE"]]}
+{"text": "Vacheon Danton 7920V/000R-B336 Used 2026 full set, HK$386,000 / 50000 USDT", "entities": [[15, 30, "REFERENCE"], [36, 40, "YEAR"], [53, 61, "PRICE"]]}
+{"text": "4300V/220R B547 2026N1 1.2M HKD", "entities": [[0, 15, "REFERENCE"], [23, 27, "PRICE"]]}
+{"text": "5212A N7 265000HKD", "entities": [[0, 5, "REFERENCE"], [9, 18, "PRICE"]]}
+{"text": "5297G 2020 NOS 192000HKD", "entities": [[0, 5, "REFERENCE"], [6, 10, "YEAR"], [15, 24, "PRICE"]]}
+{"text": "26420SO Blue N3 keepcard 345000HKD", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [25, 34, "PRICE"]]}
+{"text": "26393ST blue 2025N11 180000HKD", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [21, 30, "PRICE"]]}
+{"text": "126508 2024.12 BLK fulllinks 432000HKD", "entities": [[0, 6, "REFERENCE"], [7, 11, "YEAR"], [29, 38, "PRICE"]]}
+{"text": "15550BA frosted smoked yellow 2025 99%new 800K HKD", "entities": [[0, 7, "REFERENCE"], [30, 34, "YEAR"], [42, 46, "PRICE"]]}
+{"text": "15550BA 1017 2024 likenew 780K HKD", "entities": [[0, 7, "REFERENCE"], [13, 17, "YEAR"], [26, 30, "PRICE"]]}
+{"text": "16610LV 2008 card original 96000HKD", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [27, 35, "PRICE"]]}
+{"text": "Reference number: 126300", "entities": [[18, 24, "REFERENCE"]]}
+{"text": "929 990 3087 (2nd WhatsApp line)", "entities": [[18, 26, "REFERENCE"]]}
+{"text": "\ud83c\udf89New 5271p 2025 HKD:2180000", "entities": [[5, 10, "REFERENCE"], [11, 15, "YEAR"]]}
+{"text": "4300V/220G-H151 10/2026 HKD1.055M", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 33, "PRICE"]]}
+{"text": "5172G 04/2026 salmon NEW HKD470k", "entities": [[0, 5, "REFERENCE"], [9, 13, "YEAR"], [14, 20, "DIAL"], [25, 32, "PRICE"]]}
+{"text": "4946G-001 07/2026 NEW HKD370K", "entities": [[0, 9, "REFERENCE"], [13, 17, "YEAR"], [22, 29, "PRICE"]]}
+{"text": "4500V/110A-B128 2020 HKD228K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/110A-B128 2017 HKD216K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500/110A-B705 2022 HKD420K", "entities": [[0, 14, "REFERENCE"], [15, 19, "YEAR"], [20, 27, "PRICE"]]}
+{"text": "4000V/210A-B911 09/26 HKD380k", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "5524G-010  08/2026 hkd385k", "entities": [[0, 9, "REFERENCE"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "4300V/120R-B509  2022 HKD 745k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 30, "PRICE"]]}
+{"text": "4200H/222A-B934 09/2026 HKD385K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4200H/222A-B934 07/2025 HKD372K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4200H/222J-B935 N9/2026 HKD580K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4520v/210a-b128  N9/2026 hkd265k", "entities": [[0, 15, "REFERENCE"], [20, 24, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "5270P-001 full set 2021 hkd 1.44m", "entities": [[0, 14, "REFERENCE"], [19, 23, "YEAR"], [24, 33, "PRICE"]]}
+{"text": "6007/000G-H043 09/26 HKD1.9M", "entities": [[0, 14, "REFERENCE"], [21, 28, "PRICE"]]}
+{"text": "82230/000R-9963 2023 HKD 98k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "26494BC ice blue 01/2026 like new HKD850K", "entities": [[0, 7, "REFERENCE"], [8, 16, "DIAL"], [20, 24, "YEAR"], [34, 41, "PRICE"]]}
+{"text": "26494BC ice blue 02/2026 new HKD880K", "entities": [[0, 7, "REFERENCE"], [8, 16, "DIAL"], [20, 24, "YEAR"], [29, 36, "PRICE"]]}
+{"text": "85180/000R-9166 2024 hkd118k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "25155/000G-9584 2024 hkd60k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "4110U/000G-B906  2025 new hkd162k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "4600V/200R-H134 2025 hkd360k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4200H/222J-B935 2025 hkd 558k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "6000V/110A-B544 2023 hkd700k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "49150/000R-9338 2016 hkd235k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5500V/000R-B074 2018 hkd305k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "85180/000J-9231 2023 hkd152k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "49150/000R-9338 2016 hkd 235k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4300V/120R-B509 2023 hkd760k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/110A-B128 2023 hkd230k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4010T/000R-B344 2021 hkd220k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "82035/000r-h114  N6/2026 hkd340k/44000usdt", "entities": [[0, 15, "REFERENCE"], [20, 24, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "82172/000r-9382  11/2025 like new hkd128K", "entities": [[0, 15, "REFERENCE"], [20, 24, "YEAR"], [34, 41, "PRICE"]]}
+{"text": "85180/000r-9166 2021 full set hkd110k/14250usdt", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "81180/000r-9159  2023 full set hkd95k/12300usdt", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [31, 37, "PRICE"]]}
+{"text": "7930v/210t-h074 n8/26 blue HKD425K", "entities": [[0, 15, "REFERENCE"], [22, 26, "DIAL"], [27, 34, "PRICE"]]}
+{"text": "7930v/210t-h075 08/26 Green HKD420K", "entities": [[0, 15, "REFERENCE"], [22, 27, "DIAL"], [28, 35, "PRICE"]]}
+{"text": "7930v/210t-h073 n8/26 white HKD418K", "entities": [[0, 15, "REFERENCE"], [22, 27, "DIAL"], [28, 35, "PRICE"]]}
+{"text": "7930v/210t-h072 n9/26 Brown HKD415K", "entities": [[0, 15, "REFERENCE"], [28, 35, "PRICE"]]}
+{"text": "7920v/210a-b334 n8/2026 new hkd295k", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [28, 35, "PRICE"]]}
+{"text": "4010T/000R-B334 N6/26 HKD330K", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4300V/220G-H151 n9/2026 HKD1.075M", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 33, "PRICE"]]}
+{"text": "4600V/200A-B980 N8/26  HKD193K", "entities": [[0, 15, "REFERENCE"], [23, 30, "PRICE"]]}
+{"text": "4600V/200A-H127 08/26 HKKD205K", "entities": [[0, 15, "REFERENCE"], [26, 30, "PRICE"]]}
+{"text": "4520V/210A-B128 09/2026 HKD 270k", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 32, "PRICE"]]}
+{"text": "4600E/000A-B487 05/2026 hkd113k", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "6000T/000R-B972 used 2022 HKD758K", "entities": [[0, 15, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "1100S/000R-B430  2021 NEW HKD 215K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [26, 34, "PRICE"]]}
+{"text": "8005f/000r-h157 08/2026 HKD382K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "4605/200R-B978  2024 HKD412K", "entities": [[0, 14, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "82572/000R-9604 2020 HKD118K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1205V/110A-B509 2022 HKD114K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4605F/000R-B496 2022 HKD165K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "87175/000R-B403 2018 HKD105K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "85180/000R-9248 2022 HKD160K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4010U/000G-B330 2019 HKD165K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4010T/000P-B345 2019 HKD295K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4600E/000A-B442 2021 HKD74K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 27, "PRICE"]]}
+{"text": "5500V/000R-B074 2018 HKD300K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210A-B686 2025 HKD270K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "5520V/210A-B686 2024 HKD258K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4520V/210R-B705 2024 HKD465K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4200H/222A-B934 2025 HKD365K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "49150/000R-9338 2014 HKD230K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "1100S/000R-B430 2021 NEW HKD215K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "82035/000R-9359  2020 HKD 196K", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 30, "PRICE"]]}
+{"text": "4300V/120R-B509  2022 HKD 750k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [22, 30, "PRICE"]]}
+{"text": "4600E/000R-B576  07/2026 HKD177K", "entities": [[0, 15, "REFERENCE"], [20, 24, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "82172/000R-9382 11/2025 like new HKD125K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [33, 40, "PRICE"]]}
+{"text": "4605V/200R-B969 2025 HKD 435k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4605V/200R-B978 2024 HKD 398k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "4606F/000R-B648 2022 HKD 282k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 29, "PRICE"]]}
+{"text": "5520V/210A-B148 N7/2026 HKD292K", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [24, 31, "PRICE"]]}
+{"text": "6000v/110a-b544 2020 hkd640k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7920v/210a-b333", "entities": [[0, 15, "REFERENCE"]]}
+{"text": "7900v/110a-b333 2023 new hkd189k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "7900v/110a-b334 2023 like new hkd244k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "4600V/200A-B980 07/26 HKD188K", "entities": [[0, 15, "REFERENCE"], [22, 29, "PRICE"]]}
+{"text": "4300v/120R-064 2023 hkd660k", "entities": [[0, 10, "REFERENCE"], [15, 19, "YEAR"], [20, 27, "PRICE"]]}
+{"text": "7920v/210a-b334 n9/2026 new hkd295k", "entities": [[0, 15, "REFERENCE"], [19, 23, "YEAR"], [28, 35, "PRICE"]]}
+{"text": "4500V/110A-B128 2023 HKD230K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4500V/110A-B483 2021 HKD178K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "7900v/110A-B333 2020 like new HKD193K", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "4520v/110a-b128 2024 hkd255k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [21, 28, "PRICE"]]}
+{"text": "4520v/210r-b967 2025 like new hkd470k", "entities": [[0, 15, "REFERENCE"], [16, 20, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "5520v/210a-b686  2025 like new hkd268k", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"], [31, 38, "PRICE"]]}
+{"text": "82172/000r-h008  2025 like new", "entities": [[0, 15, "REFERENCE"], [17, 21, "YEAR"]]}
+{"text": "4400E/000A-B437 Naked HKD85k", "entities": [[0, 15, "REFERENCE"], [22, 28, "PRICE"]]}
+{"text": "26494bc ice blue 08/2026 hkd899k", "entities": [[0, 7, "REFERENCE"], [8, 16, "DIAL"], [20, 24, "YEAR"], [25, 32, "PRICE"]]}
+{"text": "5130P 2008 full set hkd360k /46650 usdt", "entities": [[0, 5, "REFERENCE"], [6, 10, "YEAR"], [20, 27, "PRICE"]]}
+{"text": "https://chat.whatsapp.com/KMGxrWod1Z34aLKQ4DduvN", "entities": [[13, 21, "REFERENCE"]]}
+{"text": "26420SO blue 09/25 like new hkd292k /37830usdt", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [28, 35, "PRICE"]]}
+{"text": "15400OR black 2014 hkd293k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15400OR white 2016 hkd287k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15400ST black 2016 hkd273k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15400ST blue 2013 hkd339k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15400ST white 2016 hkd270k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26331ST white 2018 hkd329k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26331ST blue 2020 hkd347k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331ST black 2019 hkd316k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15500OR black 2019 hkd361k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15500ST black 2019 hkd299k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15500ST white 2021 hkd299k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26470SO black 2019 hkd176k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26470OR choco 2019 hkd263k", "entities": [[0, 7, "REFERENCE"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26470OR black 2020 hkd299k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15510ST white 2022 hkd324k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15510ST blue 2022 hkd444k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15510ST grey 2022 hkd336k", "entities": [[0, 7, "REFERENCE"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15510ST green 2024 hkd380k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26331OR blue 2019 hkd676k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331OR coffee color 2019 hkd386k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "26331OR coffee color 2018 hkd376k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "26331OR blue 2019 hkd432k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331BA blue 2019 hkd659k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26470ST coffee color 2020 hkd153k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "26470ST blue 2018 hkd155k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26239OR coffee color 2021 hkd676k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "26239OR blue 2021 hkd560k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26420RO black 2021 hkd329k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26401RO black 2017 hkd223k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26231ST black 2016 hkd210k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26231ST blue 2020 hkd220k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26231ST white 2019 hkd444k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26231ST pink 2018 hkd246k", "entities": [[0, 7, "REFERENCE"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15551OR green 2025 hkd668k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15551OR blue 2023", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"]]}
+{"text": "15551OR white 2022 hkd746k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26240ST blue 2023 hkd465k", "entities": [[0, 7, "REFERENCE"], [8, 12, "DIAL"], [13, 17, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26240ST green 2023 hkd446k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26240ST black 2023 hkd410k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26240ST white 2023 hkd360k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26405NR black 2020 hkd310k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26400SO white 2016 hkd152k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26400SO green 2019 hkd241k", "entities": [[0, 7, "REFERENCE"], [8, 13, "DIAL"], [14, 18, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "15400or 2018 white hkd284k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15400or 2015 black hkd296k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15400or 2014 black hkd294k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15400or 2013 black hkd282k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15400ST 2019 blue hkd366k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15400ST 2017 grey hkd270k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15400ST 2016 white hkd255k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15450ST 2016 grey hkd254k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15451st 2020 blue hkd338k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15451ST 2019 grey hkd317k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15451ST 2019 black hkd290k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15451ST 2014 black hkd 282k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 27, "PRICE"]]}
+{"text": "15500st 2021 white hkd296k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15500st 2022 black hkd319k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15500OR 2019 black hkd363k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510ST 2023 blue hkd437k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15510ST 2022 blue hkd425k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15510ST 2025 white hkd346k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510ST 2024 white hkd332k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510or 2024 black hkd446k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510or 2023 black hkd442k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510ST 2023 gray hkd323k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15510or 2022 black hkd434k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "15510ST 2022 white hkd 318k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 27, "PRICE"]]}
+{"text": "15550ST 2025 grey hkd330k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15550ST 2022 grey hkd316k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "15551ST 2025 blue hkd420k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15551ST 2023 blue hkd408k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "15551ST 2023 grey hkd402k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "16202ST 2024 blue hkd668k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "16202ST 2023 blue hkd651k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26231st 2022 blue hkd220k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26231st 2020 blue hkd219k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26237ST 2021 blue hkd224k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26237st 2018 blue hkd221k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26238ce.OO.1300CE.01 2024 hkd570k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 33, "PRICE"]]}
+{"text": "26238TI 2021 grey hkd248k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331ST 2018 white hkd328k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26331ST 2021 white hkd350k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26331ST 2019 black hkd308k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26331ST 2021 black hkd323k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26331ST 2018 grey hkd326k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331ST 2020 grey hkd339k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [18, 25, "PRICE"]]}
+{"text": "26331ST 2021 blue hkd355k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26239BC 2021 black hkd825k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26240ST 2026 white hkd385k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26320OR 2017 blue hkd410k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26331OR 2016 whtie hkd322k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [19, 26, "PRICE"]]}
+{"text": "26331BC 2019 purple hkd1.285m", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [20, 29, "PRICE"]]}
+{"text": "26331BC 2020 blue hkd991k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26331ST 2021 blue hkd341k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26331st 2021 black hkd303k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26331st 2019 black hkd313k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26401RO.OO.A002CA.02 2020 black hkd230k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 31, "DIAL"], [32, 39, "PRICE"]]}
+{"text": "26401RO.OO.A087CA.01 2017 black hkd222k", "entities": [[0, 7, "REFERENCE"], [21, 25, "YEAR"], [26, 31, "DIAL"], [32, 39, "PRICE"]]}
+{"text": "26405CE 2021 blue hkd 244k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 26, "PRICE"]]}
+{"text": "26405CE 2019 blue hkd175k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "26405CE 2017 black hkd157k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 18, "DIAL"], [19, 26, "PRICE"]]}
+{"text": "26420IO 2023 gray&blue hkd261k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [23, 30, "PRICE"]]}
+{"text": "26420IO 2021 gray&blue hkd252k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [23, 30, "PRICE"]]}
+{"text": "26480Ti 2021 blue hkd187k", "entities": [[0, 7, "REFERENCE"], [8, 12, "YEAR"], [13, 17, "DIAL"], [18, 25, "PRICE"]]}
+{"text": "\ud83d\udd37228238A BLK 2020y oldcard", "entities": [[1, 8, "REFERENCE"]]}
+{"text": "\ud83d\udd37128238A OMBER GREEN 2022y", "entities": [[1, 8, "REFERENCE"]]}
+{"text": "$375000", "entities": [[0, 7, "PRICE"]]}
+{"text": "$149000", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37116518LN YLM 2019y", "entities": [[1, 9, "REFERENCE"]]}
+{"text": "$340000", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37116519LN Grey 2023y", "entities": [[1, 9, "REFERENCE"]]}
+{"text": "$334000", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37126719BLRO METE 2023y", "entities": [[1, 11, "REFERENCE"]]}
+{"text": "\ud83d\udd37116610LV 2019y", "entities": [[1, 9, "REFERENCE"]]}
+{"text": "$165000", "entities": [[0, 7, "PRICE"]]}
+{"text": "$311000", "entities": [[0, 7, "PRICE"]]}
+{"text": "$144000", "entities": [[0, 7, "PRICE"]]}
+{"text": "$105500", "entities": [[0, 7, "PRICE"]]}
+{"text": "$114000", "entities": [[0, 7, "PRICE"]]}
+{"text": "$139500", "entities": [[0, 7, "PRICE"]]}
+{"text": "$363500", "entities": [[0, 7, "PRICE"]]}
+{"text": "$326000", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37126600 2017y", "entities": [[1, 7, "REFERENCE"]]}
+{"text": "\ud83d\udd37126233G Black Jub 2021y", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"]]}
+{"text": "$118500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37126610LV 2021y", "entities": [[1, 9, "REFERENCE"]]}
+{"text": "$103500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37126710BLRO JUB 2025y", "entities": [[1, 11, "REFERENCE"]]}
+{"text": "$182500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd37126500LN BLK 2025y", "entities": [[1, 9, "REFERENCE"]]}
+{"text": "$227500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd375330G-001 n2/26", "entities": [[1, 10, "REFERENCE"]]}
+{"text": "\ud83d\udd375236P-001 2022y", "entities": [[1, 10, "REFERENCE"]]}
+{"text": "\ud83d\udd3726331OR BLUE Leather 2018y", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"]]}
+{"text": "\ud83d\udd3726240OR BLK 2025y", "entities": [[1, 8, "REFERENCE"]]}
+{"text": "$548000", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd3726238ST TIFFANY 2024y", "entities": [[1, 8, "REFERENCE"]]}
+{"text": "$312500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd3726231ST BLK 2020y", "entities": [[1, 8, "REFERENCE"]]}
+{"text": "$235500", "entities": [[0, 7, "PRICE"]]}
+{"text": "\ud83d\udd3715510OR BLUE 2023y", "entities": [[1, 8, "REFERENCE"], [9, 13, "DIAL"]]}
+{"text": "\u2764\ufe0f26240BA n4/26", "entities": [[2, 9, "REFERENCE"]]}
+{"text": "\ud83d\udd3782572/000G-9605 2016y", "entities": [[1, 16, "REFERENCE"]]}
+{"text": "$79500", "entities": [[0, 6, "PRICE"]]}
+{"text": "\ud83c\udf38Used 26239bc grey 2022 full set HKD:865000", "entities": [[6, 13, "REFERENCE"], [19, 23, "YEAR"], [37, 43, "PRICE"]]}
+{"text": "\ud83c\udf38New 26240st black N5/2026 HKD:465000", "entities": [[5, 12, "REFERENCE"], [13, 18, "DIAL"], [22, 26, "YEAR"]]}
+{"text": "\ud83c\udf38Used 25977st 2016 full set HKD:585000", "entities": [[32, 38, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 26236or RBW\ud83c\udf08 2023 full set USDT:100000", "entities": [[6, 13, "REFERENCE"], [19, 23, "YEAR"], [38, 44, "PRICE"]]}
+{"text": "\ud83c\udf38New 15417bc T drill RBW\ud83c\udf08 2024 full set USDT:1300000", "entities": [[5, 12, "REFERENCE"], [26, 30, "YEAR"], [45, 52, "PRICE"]]}
+{"text": "\ud83c\udf38New 15416cd Blue ceramic N10/2025 full setHKD:3450000", "entities": [[5, 12, "REFERENCE"], [13, 17, "DIAL"], [30, 34, "YEAR"], [47, 54, "PRICE"]]}
+{"text": "\ud83c\udf38New 16202ba yellow drill 2025 full set HKD:1980000", "entities": [[5, 12, "REFERENCE"], [26, 30, "YEAR"], [44, 51, "PRICE"]]}
+{"text": "\ud83c\udf38New 26240st green N6/2026 full set HKD:495000", "entities": [[5, 12, "REFERENCE"], [13, 18, "DIAL"], [22, 26, "YEAR"], [40, 46, "PRICE"]]}
+{"text": "\ud83c\udf38Used 26315st blue eyes 2022 full set HKD:370000", "entities": [[6, 13, "REFERENCE"], [14, 18, "DIAL"], [24, 28, "YEAR"], [42, 48, "PRICE"]]}
+{"text": "\ud83c\udf38New 26240or full gold blue N6/2026 full set HKD:970000", "entities": [[5, 12, "REFERENCE"], [23, 27, "DIAL"], [31, 35, "YEAR"], [49, 55, "PRICE"]]}
+{"text": "\ud83c\udf38New 26730st red N7/2026 full set USDT:195000", "entities": [[39, 45, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 26609ti 2020 full set no box USDT:125000", "entities": [[40, 46, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 15412ba 2022 full set HKD:2700000", "entities": [[6, 13, "REFERENCE"], [14, 18, "YEAR"], [32, 39, "PRICE"]]}
+{"text": "\ud83c\udf38Used 15407OR 2023 full set HKD:1620000", "entities": [[6, 13, "REFERENCE"], [14, 18, "YEAR"], [32, 39, "PRICE"]]}
+{"text": "\ud83c\udf38Used 055 ntpt 2018 full set USDT:338000", "entities": [[34, 40, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 11-01ti Only watch USDT:137000", "entities": [[30, 36, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 011 ntpt Felipe Only watch USDT:228000", "entities": [[38, 44, "REFERENCE"]]}
+{"text": "\ud83c\udf38New 67-01rg T drill 2026 full set USDT:530000", "entities": [[40, 46, "REFERENCE"]]}
+{"text": "\ud83c\udf38New 65-01 Yellow 2024 USDT:398000", "entities": [[28, 34, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 055 Black NTPT White Bezel Americas Limited 88 Pieces (Watch Only) USDT:310000", "entities": [[78, 84, "REFERENCE"]]}
+{"text": "\ud83c\udf38New 65-01rg full gold 2022 full set USDT:298000", "entities": [[42, 48, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 11-02rg 2017 full set USDT:173000", "entities": [[33, 39, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 037 ntpt 2023 full set USDT:185000", "entities": [[34, 40, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 011 ntpt midnight fire only watch USDT:190000", "entities": [[45, 51, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 61-01 blk ceramic white runway 2015 full set USDT:225000", "entities": [[56, 62, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 11-03 Black Phantom 2023 full set USDT:335000", "entities": [[45, 51, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 11-01 ti 2018 full set USDT:148000", "entities": [[34, 40, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 35-02 blk 2021 full set USDT:335000", "entities": [[35, 41, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 11-03 ti 2018 full set USDT:185000", "entities": [[34, 40, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 72-01 half diamond 2023 full set USDT:303000", "entities": [[44, 50, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 037rg full diamond red lip 2020 full set USDT:180000", "entities": [[52, 58, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 61-01ntpt ultimate 2020 USDT:398000", "entities": [[35, 41, "REFERENCE"]]}
+{"text": "\ud83c\udf38Used 5271p 2025 full set HKD:2180000", "entities": [[6, 11, "REFERENCE"], [12, 16, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "\ud83c\udf38Used 5213G 2015 full set HKD:3650000", "entities": [[6, 11, "REFERENCE"], [12, 16, "YEAR"], [30, 37, "PRICE"]]}
+{"text": "\ud83c\udf38New 5961p 2025 full set HKD:1070000", "entities": [[5, 10, "REFERENCE"], [11, 15, "YEAR"], [29, 36, "PRICE"]]}
+{"text": "\ud83c\udf38Used 5170r blk 2016 full set HKD:430000", "entities": [[6, 11, "REFERENCE"], [16, 20, "YEAR"], [34, 40, "PRICE"]]}
+{"text": "\ud83c\udf38New 5980/1400g 2022 full set HKD:4400000", "entities": [[5, 20, "REFERENCE"], [34, 41, "PRICE"]]}
+{"text": "\ud83c\udf38 Used 5303R  2023  full set USDT:910000", "entities": [[7, 12, "REFERENCE"], [14, 18, "YEAR"], [34, 40, "PRICE"]]}
+{"text": "\ud83c\udf38Used 5724R Only watch HKD:1600000", "entities": [[6, 11, "REFERENCE"], [27, 34, "PRICE"]]}
+{"text": "\ud83c\udf38New 7118/1300R-001 orange Treasure N8/2025 full set HKD:1930000", "entities": [[5, 15, "REFERENCE"], [39, 43, "YEAR"], [57, 64, "PRICE"]]}
+{"text": "\ud83c\udf38Used 5980/10R 2014 full set USDT:440000", "entities": [[6, 19, "REFERENCE"], [34, 40, "PRICE"]]}
+{"text": "\ud83c\udf38New 5935A-001 salmon N7/2026 HKD:400000", "entities": [[5, 14, "REFERENCE"], [15, 21, "DIAL"], [25, 29, "YEAR"]]}
+{"text": "\ud83c\udf38New 7118/1450r N3/2026 full set HKD:2930000", "entities": [[5, 15, "REFERENCE"], [19, 23, "YEAR"], [37, 44, "PRICE"]]}
+{"text": "\ud83c\udf38New 5968a N8/2025 full set HKD:1240000", "entities": [[5, 10, "REFERENCE"], [14, 18, "YEAR"], [32, 39, "PRICE"]]}
+{"text": "\ud83c\udf38New 126598\ud83c\udf08RBW full star full set N12/2024 HKD:3580000", "entities": [[5, 11, "REFERENCE"], [39, 43, "YEAR"]]}
+{"text": "\ud83c\udf38New 128348 turquoise N11/2025 full set HKD:1380000", "entities": [[5, 11, "REFERENCE"], [26, 30, "YEAR"], [44, 51, "PRICE"]]}
+{"text": "\ud83c\udf38New 126755  N12/2025 full set HKD:1850000", "entities": [[5, 11, "REFERENCE"], [17, 21, "YEAR"], [35, 42, "PRICE"]]}
+{"text": "\ud83c\udf38Used 116588SACO Pumpkin \ud83c\udf83 Only Watch Edition USDT:195000", "entities": [[6, 12, "REFERENCE"], [12, 16, "DIAL"], [51, 57, "PRICE"]]}
+{"text": "\ud83c\udf38Used 116505 sun Only watch HKD:298000", "entities": [[6, 12, "REFERENCE"], [32, 38, "PRICE"]]}
+{"text": "\ud83c\udf38Used 116576TBR 2017 full set HKD:1.49m", "entities": [[6, 12, "REFERENCE"], [12, 15, "DIAL"], [16, 20, "YEAR"], [34, 39, "PRICE"]]}
+{"text": "\ud83c\udf38WGTA0237 N12/2025 New HKD:1550000", "entities": [[1, 9, "REFERENCE"], [14, 18, "YEAR"], [27, 34, "PRICE"]]}
+{"text": "\ud83c\udf38New 236.049 open date HKD:230000", "entities": [[27, 33, "REFERENCE"]]}
+{"text": "\ud83c\udf38New 6300T/000P 2025y full set USDT:230000", "entities": [[5, 15, "REFERENCE"], [36, 42, "PRICE"]]}
+{"text": "N8/2026 full set HKD:248000", "entities": [[21, 27, "REFERENCE"]]}
+{"text": "\ud83c\udf4f5160/500R N1/26 $1.35M", "entities": [[1, 10, "REFERENCE"], [17, 23, "PRICE"]]}
+{"text": "\ud83c\udf4f5204G green N7/26 $1.6M", "entities": [[1, 6, "REFERENCE"], [7, 12, "DIAL"], [19, 24, "PRICE"]]}
+{"text": "\ud83c\udf4f5204G blue N8/26 $2.65M", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [18, 24, "PRICE"]]}
+{"text": "\ud83c\udf4f5212A N7/26 $265K", "entities": [[1, 6, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83c\udf4f5231G N6/26 $810K", "entities": [[1, 6, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83c\udf4f5267/200A white N7/26 $710K", "entities": [[1, 10, "REFERENCE"], [11, 16, "DIAL"], [23, 28, "PRICE"]]}
+{"text": "\ud83c\udf4f5270J N8/26 $1.15M", "entities": [[1, 6, "REFERENCE"], [13, 19, "PRICE"]]}
+{"text": "\ud83c\udf4f5327R white N7/26 $665K", "entities": [[1, 6, "REFERENCE"], [7, 12, "DIAL"], [19, 24, "PRICE"]]}
+{"text": "\ud83c\udf4f5328G N2/26 $425K", "entities": [[1, 6, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83c\udf4f5330G blue N8/26 $455K", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [18, 23, "PRICE"]]}
+{"text": "\ud83c\udf4f5810G N9/26 $2.8M", "entities": [[1, 6, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83c\udf4f5821/1AR N7/26 $720K", "entities": [[1, 9, "REFERENCE"], [16, 21, "PRICE"]]}
+{"text": "\ud83c\udf4f5822P N7/26 $1.19M", "entities": [[1, 6, "REFERENCE"], [13, 19, "PRICE"]]}
+{"text": "\ud83c\udf4f5905R blue N5/26 $505K", "entities": [[1, 6, "REFERENCE"], [7, 11, "DIAL"], [18, 23, "PRICE"]]}
+{"text": "\ud83c\udf4f5961R N7/26 $1.1M", "entities": [[1, 6, "REFERENCE"], [13, 18, "PRICE"]]}
+{"text": "\ud83c\udf4f5980/60G N8/26 $1.39M", "entities": [[1, 9, "REFERENCE"], [16, 22, "PRICE"]]}
+{"text": "\ud83c\udf4f7118/1200A white 2020Y like new $835K", "entities": [[1, 11, "REFERENCE"], [12, 17, "DIAL"], [33, 38, "PRICE"]]}
+{"text": "\ud83c\udf4f7118/1200R Champ N9/26 $1.32M", "entities": [[1, 11, "REFERENCE"], [24, 30, "PRICE"]]}
+{"text": "\ud83c\udf4f7118/1450G N8/26 $3.38M", "entities": [[1, 11, "REFERENCE"], [18, 24, "PRICE"]]}
+{"text": "\ud83c\udf4f7200/50G beige N7/26 $205K", "entities": [[1, 9, "REFERENCE"], [22, 27, "PRICE"]]}
+{"text": "\ud83c\udf4fUSED 5062/450R 2018Y $3.35M", "entities": [[6, 15, "REFERENCE"], [22, 28, "PRICE"]]}
+{"text": "\ud83c\udf4fUSED 5067A-017 Baby Blue 2007Y  $550K", "entities": [[6, 20, "REFERENCE"], [21, 25, "DIAL"], [33, 38, "PRICE"]]}
+{"text": "\ud83c\udf4fUSED 5147G 2021Y $295K", "entities": [[6, 11, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83c\udf4fUSED 5961P 2023Y $845K", "entities": [[6, 11, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83c\udf4fUSED 7118/1200R white 2021Y $1.35M", "entities": [[6, 16, "REFERENCE"], [17, 22, "DIAL"], [29, 35, "PRICE"]]}
+{"text": "\ud83e\udd5dUEED 116588SACO 2023Y $2.58M\uff082026Y CPO\uff09", "entities": [[6, 12, "REFERENCE"], [12, 16, "DIAL"], [23, 29, "PRICE"]]}
+{"text": "\ud83e\udd5dUSED 116595RBOW 2020Y $3.25M \uff08hold)", "entities": [[6, 12, "REFERENCE"], [12, 16, "DIAL"], [23, 29, "PRICE"]]}
+{"text": "\ud83e\udd5d116509G black 2022Y\ud83c\udd95 $325K\ud83c\udff7\ufe0f", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [22, 27, "PRICE"]]}
+{"text": "\ud83e\udd5d126200 blue oys N7/26 $68K", "entities": [[1, 7, "REFERENCE"], [8, 12, "DIAL"], [23, 27, "PRICE"]]}
+{"text": "\ud83e\udd5d126333 green Roman oys N7/26 $145K", "entities": [[1, 7, "REFERENCE"], [8, 13, "DIAL"], [30, 35, "PRICE"]]}
+{"text": "\ud83e\udd5d126331 wim oys 2023Y\ud83c\udd95 $120K\ud83c\udff7\ufe0f", "entities": [[1, 7, "REFERENCE"], [23, 28, "PRICE"]]}
+{"text": "\ud83e\udd5d126334 silver jub N6/26 $114K\ud83c\udff7\ufe0f", "entities": [[1, 7, "REFERENCE"], [8, 14, "DIAL"], [25, 30, "PRICE"]]}
+{"text": "\ud83e\udd5d126334G grey oys N2/26 $126K", "entities": [[1, 8, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83e\udd5d126334g grey oys N3/26 128K\ud83c\udff7\ufe0f", "entities": [[1, 8, "REFERENCE"], [24, 28, "PRICE"]]}
+{"text": "\ud83e\udd5d126508 YML N8/26 $545K", "entities": [[1, 7, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83e\udd5d126529 Le Mans 2026Y\ud83c\udd95  $1.9M \ud83c\udff7\ufe0f", "entities": [[1, 7, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83e\udd5d126600 N2/22\ud83c\udd95 $110K", "entities": [[1, 7, "REFERENCE"], [15, 20, "PRICE"]]}
+{"text": "\ud83e\udd5d126621 blk N7/26 $150k\uff08hold\uff09", "entities": [[1, 7, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83e\udd5d126715CHNR N4/26 $355k", "entities": [[1, 11, "REFERENCE"], [18, 23, "PRICE"]]}
+{"text": "\ud83e\udd5d128238A ombre Green N6/26 $440K \ud83c\udff7\ufe0f", "entities": [[1, 8, "REFERENCE"], [9, 20, "DIAL"], [27, 32, "PRICE"]]}
+{"text": "\ud83e\udd5d128348 carnelian N6/26 $655k\ud83c\udff7", "entities": [[1, 7, "REFERENCE"], [24, 29, "PRICE"]]}
+{"text": "\ud83c\udf3d15468BA Rainbow N7/26 $1.98M", "entities": [[1, 8, "REFERENCE"], [23, 29, "PRICE"]]}
+{"text": "\ud83c\udf3d15551OR green gold 2023Y $635K\uff08USED\uff09", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83c\udf3d26238ST Black orange N6/26 $360K", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [28, 33, "PRICE"]]}
+{"text": "\ud83c\udf3d26240OR green leather N6/26 $575K", "entities": [[1, 8, "REFERENCE"], [9, 14, "DIAL"], [29, 34, "PRICE"]]}
+{"text": "\ud83c\udf3d26240OR gold blue N8/26 $965K", "entities": [[1, 8, "REFERENCE"], [14, 18, "DIAL"], [25, 30, "PRICE"]]}
+{"text": "\ud83c\udf3dUSED 26231ST Red\ud83c\udf52 2018Y $265K", "entities": [[6, 13, "REFERENCE"], [25, 30, "PRICE"]]}
+{"text": "\ud83c\udf3dUSED 26405CE green 2020Y $285K", "entities": [[6, 13, "REFERENCE"], [14, 19, "DIAL"], [26, 31, "PRICE"]]}
+{"text": "\ud83e\udd52VC 4520v/210R-b967 USED n4/25 $468K", "entities": [[4, 19, "REFERENCE"], [31, 36, "PRICE"]]}
+{"text": "\ud83e\udd52O43553402109001 n6/26  $151200 -50%", "entities": [[25, 31, "REFERENCE"]]}
+{"text": "\ud83e\udd528908BR/5T/964/D00D3L N5  $346100 -39%", "entities": [[27, 33, "REFERENCE"]]}
+{"text": "\ud83e\udd52Bvlgari 351090 N6/26 $705000 -25%", "entities": [[9, 15, "REFERENCE"], [22, 29, "PRICE"]]}

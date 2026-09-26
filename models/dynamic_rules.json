@@ -1,0 +1,285 @@
+{
+  "prefix_map": {
+    "4946R": {
+      "brand": "Patek Philippe",
+      "series": "Complications",
+      "material": "Rose Gold"
+    },
+    "5990": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": null
+    },
+    "5712": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": null
+    },
+    "5810": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": null
+    },
+    "5610": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": null
+    },
+    "7010": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": null
+    },
+    "7118": {
+      "brand": "Patek Philippe",
+      "series": "Nautilus",
+      "material": "18k Rose Gold"
+    },
+    "86409": {
+      "brand": "Rolex",
+      "series": "Pearlmaster 39",
+      "material": "18k White Gold"
+    },
+    "541.CM": {
+      "brand": "Hublot",
+      "series": "Classic Fusion Ceramic",
+      "material": "Ceramic"
+    },
+    "RM17": {
+      "brand": "Richard Mille",
+      "series": "RM 17-01",
+      "material": "18k Rose Gold"
+    },
+    "909010": {
+      "brand": "Rolex",
+      "series": "Land-Dweller",
+      "material": "Stainless Steel"
+    },
+    "126518": {
+      "brand": "Rolex",
+      "series": "Cosmograph Daytona",
+      "material": "18k Yellow Gold"
+    },
+    "126508": {
+      "brand": "Rolex",
+      "series": "Cosmograph Daytona",
+      "material": "18k Yellow Gold"
+    },
+    "126579": {
+      "brand": "Rolex",
+      "series": "Cosmograph Daytona",
+      "material": "18k White Gold"
+    },
+    "128238": {
+      "brand": "Rolex",
+      "series": "Day-Date 36",
+      "material": "18k Yellow Gold"
+    },
+    "128345": {
+      "brand": "Rolex",
+      "series": "Day-Date 36",
+      "material": "18k Everose Gold"
+    },
+    "128349": {
+      "brand": "Rolex",
+      "series": "Day-Date 36",
+      "material": "18k White Gold"
+    },
+    "128396": {
+      "brand": "Rolex",
+      "series": "Day-Date 36",
+      "material": "Platinum"
+    },
+    "228345": {
+      "brand": "Rolex",
+      "series": "Day-Date 40",
+      "material": "18k Everose Gold"
+    },
+    "228396": {
+      "brand": "Rolex",
+      "series": "Day-Date 40",
+      "material": "Platinum"
+    },
+    "126720": {
+      "brand": "Rolex",
+      "series": "GMT-Master II",
+      "material": "Stainless Steel"
+    },
+    "126729": {
+      "brand": "Rolex",
+      "series": "GMT-Master II",
+      "material": "18k White Gold"
+    },
+    "127286": {
+      "brand": "Rolex",
+      "series": "Day-Date 36",
+      "material": "Platinum"
+    },
+    "126233": {
+      "brand": "Rolex",
+      "series": "Datejust 36",
+      "material": "Yellow Rolesor"
+    },
+    "126334": {
+      "brand": "Rolex",
+      "series": "Datejust 41",
+      "material": "White Rolesor"
+    },
+    "126284": {
+      "brand": "Rolex",
+      "series": "Datejust 36",
+      "material": "White Rolesor"
+    },
+    "126234": {
+      "brand": "Rolex",
+      "series": "Datejust 36",
+      "material": "White Rolesor"
+    },
+    "126231": {
+      "brand": "Rolex",
+      "series": "Datejust 36",
+      "material": "Everose Rolesor"
+    },
+    "126281": {
+      "brand": "Rolex",
+      "series": "Datejust 36",
+      "material": "Everose Rolesor"
+    },
+    "279135": {
+      "brand": "Rolex",
+      "series": "Lady-Datejust 28",
+      "material": "18k Everose Gold"
+    },
+    "279175": {
+      "brand": "Rolex",
+      "series": "Lady-Datejust 28",
+      "material": "18k Everose Gold"
+    },
+    "279171": {
+      "brand": "Rolex",
+      "series": "Lady-Datejust 28",
+      "material": "Everose Rolesor"
+    },
+    "279384": {
+      "brand": "Rolex",
+      "series": "Lady-Datejust 28",
+      "material": "White Rolesor"
+    },
+    "278288": {
+      "brand": "Rolex",
+      "series": "Datejust 31",
+      "material": "18k Yellow Gold"
+    },
+    "278271": {
+      "brand": "Rolex",
+      "series": "Datejust 31",
+      "material": "Everose Rolesor"
+    },
+    "278274": {
+      "brand": "Rolex",
+      "series": "Datejust 31",
+      "material": "White Rolesor"
+    },
+    "278383": {
+      "brand": "Rolex",
+      "series": "Datejust 31",
+      "material": "Yellow Rolesor"
+    },
+    "278384": {
+      "brand": "Rolex",
+      "series": "Datejust 31",
+      "material": "White Rolesor"
+    },
+    "226668": {
+      "brand": "Rolex",
+      "series": "Deepsea",
+      "material": "18k Yellow Gold"
+    },
+    "218399": {
+      "brand": "Rolex",
+      "series": "Day-Date II",
+      "material": "18k White Gold"
+    },
+    "7939A": {
+      "brand": "Tudor",
+      "series": "Black Bay 58 GMT",
+      "material": "Stainless Steel"
+    },
+    "7941A": {
+      "brand": "Tudor",
+      "series": "Black Bay",
+      "material": "Stainless Steel"
+    },
+    "7943A": {
+      "brand": "Tudor",
+      "series": "Black Bay 54",
+      "material": "Stainless Steel"
+    },
+    "2543C": {
+      "brand": "Tudor",
+      "series": "Pelagos FXD",
+      "material": "Carbon Composite"
+    },
+    "2542G": {
+      "brand": "Tudor",
+      "series": "Pelagos FXD",
+      "material": "Titanium"
+    },
+    "25707": {
+      "brand": "Tudor",
+      "series": "Pelagos FXD",
+      "material": "Titanium"
+    },
+    "26730S": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Flying Tourbillon",
+      "material": "Stainless Steel"
+    },
+    "26598B": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Concept",
+      "material": "18k White Gold"
+    },
+    "26735S": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak",
+      "material": "Stainless Steel"
+    },
+    "26735C": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak",
+      "material": "White Ceramic"
+    },
+    "77451O": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Selfwinding",
+      "material": "18k Rose Gold"
+    },
+    "77450B": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Selfwinding",
+      "material": "18k White Gold"
+    },
+    "77350C": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Selfwinding",
+      "material": "Black Ceramic"
+    },
+    "26660S": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Concept",
+      "material": "Stainless Steel"
+    },
+    "26589I": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Perpetual Calendar",
+      "material": "Titanium / Ceramic"
+    },
+    "67540S": {
+      "brand": "Audemars Piguet",
+      "series": "Royal Oak Offshore Quartz",
+      "material": "Stainless Steel"
+    }
+  },
+  "dial_map": {}
+}

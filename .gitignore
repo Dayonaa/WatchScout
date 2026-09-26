@@ -1,0 +1,54 @@
+# ==============================================================================
+# Git Ignore Configuration - Watch Dealer NER & RAG Engine
+# ==============================================================================
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+env/
+venv/
+ENV/
+
+# Environment Variables & Secrets (Wajib dilindungi, jangan sampai API Key bocor)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Database Files (DuckDB operasional lokal & file lock)
+data/*.duckdb
+data/*.duckdb.wal
+*.duckdb
+*.duckdb.wal
+!data/.gitkeep
+
+# Output Media & Logging
+outputs/
+*.mp4
+*.webm
+*.avi
+*.log
+*.tmp
+
+# Editor & IDE Settings
+.vscode/*
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Agent Scratch Files
+.agents/scratch/
