@@ -53,32 +53,66 @@ TRAIN_DATA_PATH = Path(os.getenv("WATCH_TRAIN_DATA_PATH", DATASETS_DIR / "train_
 BROADCASTS_CSV_PATH = Path(os.getenv("WATCH_BROADCASTS_CSV_PATH", DATASETS_DIR / "watch_broadcasts.csv")).resolve()
 RAW_BROADCASTS_PATH = Path(os.getenv("WATCH_RAW_BROADCASTS_PATH", DATASETS_DIR / "raw_broadcasts.txt")).resolve()
 
+def _clean_env(val: str | None, default: str = "") -> str:
+    if val is None:
+        return default
+    # Hapus inline comment jika ada (# ...)
+    if "#" in val:
+        val = val.split("#", 1)[0]
+    return val.strip().strip("'\"")
+
+
+def _get_str(key: str, default: str) -> str:
+    return _clean_env(os.getenv(key), default)
+
+
+def _get_int(key: str, default: int) -> int:
+    raw = _clean_env(os.getenv(key), str(default))
+    try:
+        return int(raw)
+    except Exception:
+        return default
+
+
+def _get_float(key: str, default: float) -> float:
+    raw = _clean_env(os.getenv(key), str(default))
+    try:
+        return float(raw)
+    except Exception:
+        return default
+
+
+def _get_bool(key: str, default: bool) -> bool:
+    raw = _clean_env(os.getenv(key), str(default)).lower()
+    return raw in ("true", "1", "yes")
+
+
 # Remote PostgreSQL Configuration
-DB_CONNECTION = os.getenv("DB_CONNECTION", "pgsql")
-DB_HOST = os.getenv("DB_HOST", "34.21.152.179")
-DB_PORT = int(os.getenv("DB_PORT", "5432"))
-DB_DATABASE = os.getenv("DB_DATABASE", "scraper")
-DB_USERNAME = os.getenv("DB_USERNAME", "postgres")
-DB_PASSWORD = os.getenv("DB_PASSWORD", "")
-DB_TABLE = os.getenv("DB_TABLE", "watch_broadcasts")
+DB_CONNECTION = _get_str("DB_CONNECTION", "pgsql")
+DB_HOST = _get_str("DB_HOST", "34.21.152.179")
+DB_PORT = _get_int("DB_PORT", 5432)
+DB_DATABASE = _get_str("DB_DATABASE", "scraper")
+DB_USERNAME = _get_str("DB_USERNAME", "postgres")
+DB_PASSWORD = _get_str("DB_PASSWORD", "")
+DB_TABLE = _get_str("DB_TABLE", "watch_broadcasts")
 
 # Sync & Polling Config
-SYNC_STATE_PATH = Path(os.getenv("WATCH_SYNC_STATE_PATH", DATASETS_DIR / "postgres_sync_state.json")).resolve()
-SYNC_INTERVAL = float(os.getenv("WATCH_SYNC_INTERVAL", "5.0"))
-SYNC_BATCH_SIZE = int(os.getenv("WATCH_SYNC_BATCH_SIZE", "100"))
+SYNC_STATE_PATH = Path(_get_str("WATCH_SYNC_STATE_PATH", str(DATASETS_DIR / "postgres_sync_state.json"))).resolve()
+SYNC_INTERVAL = _get_float("WATCH_SYNC_INTERVAL", 5.0)
+SYNC_BATCH_SIZE = _get_int("WATCH_SYNC_BATCH_SIZE", 100)
 
 # Gemini GenAI Config
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+GEMINI_API_KEY = _get_str("GEMINI_API_KEY", "")
+GEMINI_MODEL = _get_str("GEMINI_MODEL", "gemini-3.8-flash")
 
 # Parameter Pelatihan, Retraining & Ekspansi LLM (bisa disetel via .env)
-TRAIN_ITER = int(os.getenv("WATCH_TRAIN_ITER", "20"))
-AUTO_TRAIN_EVERY = int(os.getenv("WATCH_AUTO_TRAIN_EVERY", "25"))
-AUTO_EXPAND_EVERY = int(os.getenv("WATCH_AUTO_EXPAND_EVERY", "10"))
-STREAM_SPEED = float(os.getenv("WATCH_STREAM_SPEED", "0.2"))
-EXPAND_AUTO_RETRAIN = os.getenv("WATCH_EXPAND_RETRAIN", "true").lower() in ("true", "1", "yes")
+TRAIN_ITER = _get_int("WATCH_TRAIN_ITER", 20)
+AUTO_TRAIN_EVERY = _get_int("WATCH_AUTO_TRAIN_EVERY", 25)
+AUTO_EXPAND_EVERY = _get_int("WATCH_AUTO_EXPAND_EVERY", 10)
+STREAM_SPEED = _get_float("WATCH_STREAM_SPEED", 0.2)
+EXPAND_AUTO_RETRAIN = _get_bool("WATCH_EXPAND_RETRAIN", True)
 
-_raw_expand_max = int(os.getenv("WATCH_EXPAND_MAX", "0"))
+_raw_expand_max = _get_int("WATCH_EXPAND_MAX", 0)
 EXPAND_MAX = _raw_expand_max if _raw_expand_max > 0 else None
 
 

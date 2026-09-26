@@ -1,0 +1,26 @@
+[Unit]
+Description=Watch Dealer Real-Time Ingestion & Continuous RAG Sync Daemon
+After=network.target
+
+[Service]
+Type=simple
+User=dayona
+WorkingDirectory=/home/dayona/Desktop/WatchScout
+
+# Membaca environment variables (.env)
+EnvironmentFile=/home/dayona/Desktop/WatchScout/.env
+# Pastikan output python langsung muncul di journalctl tanpa di-buffer
+Environment=PYTHONUNBUFFERED=1
+
+# Jalankan worker dalam mode live polling daemon
+ExecStart=/home/dayona/Desktop/WatchScout/.venv/bin/python main.py sync --poll --interval 5.0
+
+# Otomatis restart jika terjadi error atau koneksi terputus
+Restart=always
+RestartSec=5
+
+# Batas file descriptor
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target
