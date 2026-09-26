@@ -47,20 +47,17 @@ class WatchRAGEngine:
             try:
                 self.embed_model = TextEmbedding(
                     model_name="BAAI/bge-small-en-v1.5",
-                    cuda=True,
                     providers=["CUDAExecutionProvider", "CPUExecutionProvider"]
                 )
             except Exception:
                 self.device = "cpu"
                 self.embed_model = TextEmbedding(
                     model_name="BAAI/bge-small-en-v1.5",
-                    cuda=False,
                     providers=["CPUExecutionProvider"]
                 )
         else:
             self.embed_model = TextEmbedding(
                 model_name="BAAI/bge-small-en-v1.5",
-                cuda=False,
                 providers=["CPUExecutionProvider"]
             )
 
