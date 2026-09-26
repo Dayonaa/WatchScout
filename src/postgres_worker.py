@@ -13,6 +13,7 @@ import signal
 from pathlib import Path
 from datetime import datetime
 from typing import List, Dict, Any, Optional, Tuple
+import duckdb
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
@@ -95,29 +96,30 @@ class PostgresSyncWorker:
         self.state_path = state_path
         self.is_attached = False
         self.running = True
+        self.pg_conn = duckdb.connect(":memory:")
 
     def _ensure_pg_attached(self):
-        """Memastikan koneksi postgres terpasang di DuckDB."""
+        """Memastikan koneksi postgres terpasang di koneksi DuckDB in-memory terpisah."""
         if self.is_attached:
             return
 
         try:
-            self.rag.conn.execute("SET enable_progress_bar = false;")
+            self.pg_conn.execute("SET enable_progress_bar = false;")
         except Exception:
             pass
 
         try:
             # Periksa apakah pg_db sudah terpasang
-            self.rag.conn.execute("LOAD postgres;")
-        except Exception as e:
+            self.pg_conn.execute("LOAD postgres;")
+        except Exception:
             # Coba install jika belum terinstall
-            self.rag.conn.execute("INSTALL postgres; LOAD postgres;")
+            self.pg_conn.execute("INSTALL postgres; LOAD postgres;")
 
         conn_str = f"host={DB_HOST} port={DB_PORT} dbname={DB_DATABASE} user={DB_USERNAME} password={DB_PASSWORD}"
         attach_query = f"ATTACH '{conn_str}' AS pg_db (TYPE postgres, READ_ONLY);"
         
         try:
-            self.rag.conn.execute(attach_query)
+            self.pg_conn.execute(attach_query)
             self.is_attached = True
         except Exception as e:
             if "already exists" in str(e).lower() or "database with name pg_db" in str(e).lower():
@@ -185,7 +187,7 @@ class PostgresSyncWorker:
             LIMIT {limit};
         """
 
-        rows = self.rag.conn.execute(query).fetchall()
+        rows = self.pg_conn.execute(query).fetchall()
         result = []
         for r in rows:
             d = dict(zip(columns, r))
@@ -199,7 +201,7 @@ class PostgresSyncWorker:
         """Mengambil statistik cepat dari tabel PostgreSQL jarak jauh."""
         self._ensure_pg_attached()
         q = f"SELECT count(*), min(created_at), max(created_at) FROM pg_db.{DB_TABLE};"
-        total, min_date, max_date = self.rag.conn.execute(q).fetchone()
+        total, min_date, max_date = self.pg_conn.execute(q).fetchone()
         return {
             "total_broadcasts": total,
             "min_created_at": str(min_date) if min_date else None,
@@ -292,6 +294,8 @@ class PostgresSyncWorker:
                     watches_count = res.get("extracted_watches_count", 0)
                     print(f"{GREEN}✔ Berhasil: {watches_count} jam baru diekstrak, {rules_count} aturan regex baru ditambahkan.{RESET}")
                     print(f"{MAGENTA}{BOLD}⚡ [ACTIVE LEARNING] Melatih ulang model spaCy NER ({TRAIN_ITER} iterasi)...{RESET}")
+                    # Tutup koneksi DuckDB saat retraining agar proses pembaca/search/script lain leluasa
+                    self.rag.close()
                     retrain_from_jsonl(n_iter=TRAIN_ITER)
         except Exception as e:
             print(f"⚠️ [Autonomous Expander] Gagal memproses format unparsed: {e}")
@@ -426,6 +430,7 @@ class PostgresSyncWorker:
 
                 if auto_train_every > 0 and accumulated_watches_for_train >= auto_train_every:
                     print(f"\n{MAGENTA}{BOLD}⚡ [ACTIVE LEARNING] Auto-retraining spaCy ({accumulated_watches_for_train} sample)...{RESET}")
+                    self.rag.close()
                     retrain_from_jsonl(n_iter=TRAIN_ITER)
                     accumulated_watches_for_train = 0
 

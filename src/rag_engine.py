@@ -24,7 +24,7 @@ class WatchRAGEngine:
         self.db_path = db_path
         self.read_only = read_only
         self.device = DEVICE
-        self.conn = None
+        self._conn = None
         self._embed_model = None
         if auto_connect:
             self._connect()
@@ -54,15 +54,26 @@ class WatchRAGEngine:
                 )
         return self._embed_model
 
+    @property
+    def conn(self):
+        """Auto-connect ke DuckDB saat property conn diakses jika belum terhubung."""
+        if self._conn is None:
+            self._connect()
+        return self._conn
+
+    @conn.setter
+    def conn(self, val):
+        self._conn = val
+
     def _connect(self, retries: int = 6, delay: float = 0.5):
-        if self.conn is not None:
-            return self.conn
+        if self._conn is not None:
+            return self._conn
         import time
         last_err = None
         for i in range(retries):
             try:
-                self.conn = duckdb.connect(self.db_path, read_only=self.read_only)
-                return self.conn
+                self._conn = duckdb.connect(self.db_path, read_only=self.read_only)
+                return self._conn
             except Exception as e:
                 last_err = e
                 err_str = str(e)
@@ -83,12 +94,12 @@ class WatchRAGEngine:
 
     def close(self):
         """Menutup koneksi DuckDB agar file lock terlepas untuk proses lain."""
-        if self.conn is not None:
+        if self._conn is not None:
             try:
-                self.conn.close()
+                self._conn.close()
             except Exception:
                 pass
-            self.conn = None
+            self._conn = None
 
     def _init_db(self):
         """Membuat tabel watches dengan schema pelacakan dealer jika belum ada."""
